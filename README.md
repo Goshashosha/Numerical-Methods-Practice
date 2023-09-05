@@ -1,8 +1,10 @@
-Hey, everyone. That is a repository for fixing progress
-on my university task. Hope you will find something useful for yourself!
+# Implementation of numerical methods 
+___
+
+Hey, everyone. That is a repository for fixing progress on my university task. Hope you'll find something useful for yourself!
 
 
-## The first task (Condition number. LU-decomposition. Inverse matrix)
+## The first task: Condition number. LU-decomposition. Inverse matrix
 
 Write a program to calculate a condition number of a square matrix, using norms: *1, inf, E*.
 Calculation of an inverse matrix should include *LU*-decomposition.
