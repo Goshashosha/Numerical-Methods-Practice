@@ -37,7 +37,7 @@ def invert(matrix):
     n = len(matrix)
     print("Decomposing...")
     l, u = lu_decompose(matrix)
-    print("Decomposition complete!")
+    print("Decomposition complete!\n")
     print("Inverting...")
     l_inv = [[float(i == j) for i in range(n)] for j in range(n)]
     # inverting lower triangle matrix
@@ -60,6 +60,10 @@ def invert(matrix):
     # calculation of inverted matrix
     m_inv = matrix_multiplication(u_inv, l_inv)
     print("Matrix inversion complete!")
+    if len(matrix) < 10:
+        print("Inverse matrix:")
+        for row in m_inv:
+            print(' '.join(map(str, row)))
     return m_inv
 
 
@@ -72,7 +76,11 @@ def norm_inf(matrix):
 
 
 def norm_euclid(matrix):
-    sum(sum(matrix[i][j] ** 2 for j in range(len(matrix))) for i in range(len(matrix))) ** (1 / 2)
+    return sum(sum(matrix[i][j] ** 2 for j in range(len(matrix))) for i in range(len(matrix))) ** (1 / 2)
 
 
-inv = invert(generate_matrix(3))
+def condition_numbers(m):
+    m_inv = invert(m)
+    print("Calculating the condition numbers")
+    return norm_1(m) * norm_1(m_inv), norm_inf(m) * norm_inf(m_inv), norm_euclid(m) * norm_euclid(m_inv)
+
