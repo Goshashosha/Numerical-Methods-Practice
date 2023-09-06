@@ -1,7 +1,7 @@
 # Implementation of numerical methods 
 
 
-Hey, everyone. That is a repository for fixing progress on my university task. Hope you'll find something useful for yourself!
+Hey, everyone. That is a repository for fixing progress on my university tasks. Hope you'll find something useful for yourself!
 
 <br />
 
