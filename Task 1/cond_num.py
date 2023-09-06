@@ -27,9 +27,11 @@ for n in range(10, 10000, 10):
         break
 
 df = DataFrame(results)
-df.to_csv("results.csv", index=False)
+df.to_csv(f"results{minute_limit}.csv", index=False)
 
 x = [10 * (i  +  1) for i in range(len(timings))]
 plt.plot(x, timings)
-print(timings)
+plt.xlabel("Matrix size, NxN")
+plt.ylabel("Execution time, secs")
+plt.savefig(f"{minute_limit}_minute.png")
 plt.show()
