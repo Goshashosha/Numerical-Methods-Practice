@@ -59,7 +59,7 @@ So the `Task 1` directory contains 4 files:
 
 `_minute.png` is the actual plot of the time and size relation.
 
-> the execution time of a program is limited by the number of minutes mentioned at the beginning
+> the execution time of a program is limited by the number of minutes mentioned before the "_"
 > (the number could be float).
 
 `Plato.png` is a screenshot of a plato during one-minute test.
