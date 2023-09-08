@@ -1,6 +1,4 @@
 from time import time
-import datetime
-import matplotlib as mpl
 import matplotlib.pyplot as plt
 from external import condition_numbers, generate_matrix
 from pandas import DataFrame
@@ -8,7 +6,7 @@ from pandas import DataFrame
 
 results = {'step': [], '1': [], 'inf': [], 'e': []}
 timings = []
-minute_limit = 1
+minute_limit = 2
 
 for n in range(10, 10000, 10):
     start_time = time()
@@ -27,11 +25,11 @@ for n in range(10, 10000, 10):
         break
 
 df = DataFrame(results)
-df.to_csv(f"results{minute_limit}.csv", index=False)
+df.to_csv(f"src/{minute_limit}_results.csv", index=False)
 
 x = [10 * (i  +  1) for i in range(len(timings))]
 plt.plot(x, timings)
 plt.xlabel("Matrix size, NxN")
 plt.ylabel("Execution time, secs")
-plt.savefig(f"{minute_limit}_minute.png")
+plt.savefig(f"src/{minute_limit}_minute.png")
 plt.show()

@@ -53,9 +53,13 @@ So the `Task 1` directory contains 4 files:
 - norm_1, norm_inf, norm_euclid - calculate 3 kinds of norms of a matrix
 - condition_numbers - returns three condition numbers for each kind of norm
 
-`cond_num.py` is the main program, that accomplishes the task. It gets the condition numbers and plots the dependancy.
+`cond_num.py` is the main program, that accomplishes the task. It gets the condition numbers and plots the dependency.
 
-`results.csv` is the file with those particular condition numbers.
+`_results.csv` is the file with those particular condition numbers.
 
-`one_minute.png` is the actual plot of the time and size relation.
+`_minute.png` is the actual plot of the time and size relation.
 
+> the execution time of a program is limited by the number of minutes mentioned at the beginning
+> (the number could be float).
+
+`Plato.png` is a screenshot of a plato during one-minute test.
