@@ -105,7 +105,7 @@ In the alternating triangular preconditioning method, the preconditioner 𝐵 is
 ```
 Write a program to solve a system of linear algebraic equations with a symmetric positive definite matrix using the alternating triangular method with the choice of iteration parameters according to
 ```math
-r^{k}=Ax^{k}-f, \quad w^{k} = B^{-1}r^{k}
+r^{k}=Ax^{k}-f, \quad w^{k} = B^{-1}r^{k} \\
 \tau_{k+1}=\frac{(Aw^{k},w^{k})}{(B^{-1}Aw^{k},Aw^{k})}
 ```
 
@@ -123,6 +123,6 @@ f_{i}=\sum_{j=1}^{n}a_{ij}, \quad i=1,2,...,n
 ```
 for which the exact solution is
 ```math
-x_{i}=1, \quad i=1,2,...,n
+x_{i}=1, \quad i=1,2,...,n \\
 n = 10,...,100
 ```
