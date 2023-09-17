@@ -60,7 +60,7 @@ def invert(matrix):
     # calculation of inverted matrix
     m_inv = matrix_multiplication(u_inv, l_inv)
     print("Matrix inversion complete!")
-    if len(matrix) < 10:
+    if len(matrix) <= 10:
         print("Inverse matrix:")
         for row in m_inv:
             print(' '.join(map(str, row)))
@@ -83,4 +83,3 @@ def condition_numbers(m):
     m_inv = invert(m)
     print("Calculating the condition numbers")
     return norm_1(m) * norm_1(m_inv), norm_inf(m) * norm_inf(m_inv), norm_euclid(m) * norm_euclid(m_inv)
-
