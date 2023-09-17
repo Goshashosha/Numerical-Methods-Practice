@@ -88,3 +88,41 @@ Explore the dependence of the iteration count on n and
 \alpha, \quad \text{as} \quad 0 \leq \alpha \leq 1
 ```
 and plot the convergence graphs.
+
+### Part 2
+
+Let 
+```math
+A = R + R^{*} = A^{*}, \quad R = \frac{1}{2}D + L
+```
+where D is a diagonal matrix with diagonal elements of A, 
+
+L is a lower triangle matrix with the elements from A, that are under the main diagonal.
+
+In the alternating triangular preconditioning method, the preconditioner 𝐵 is defined as
+```math
+𝐵 = (𝐸 + 𝜔𝐴1)(𝐸 + 𝜔𝐴2)
+```
+Write a program to solve a system of linear algebraic equations with a symmetric positive definite matrix using the alternating triangular method with the choice of iteration parameters according to
+```math
+r^{k}=Ax^{k}-f, \quad w^{k} = B^{-1}r^{k}
+\tau_{k+1}=\frac{(Aw^{k},w^{k})}{(B^{-1}Aw^{k},Aw^{k})}
+```
+
+Study the convergence rate of this iterative method depending on the parameter 𝜔 in the problem
+```math
+Ax=f
+```
+with Hilbert matrix
+```math
+a_{i,j} = \frac{1}{i + j - 1}, \quad i=1,2,...,n, \quad j=1,2,...,n 
+```
+and the right side
+```math
+f_{i}=\sum_{j=1}^{n}a_{ij}, \quad i=1,2,...,n
+```
+for which the exact solution is
+```math
+x_{i}=1, \quad i=1,2,...,n
+n = 10,...,100
+```
