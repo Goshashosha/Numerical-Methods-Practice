@@ -126,3 +126,16 @@ for which the exact solution is
 x_{i}=1, \quad i=1,2,...,n \quad
 n = 10,...,100
 ```
+
+### Description of the solutions
+
+#### Part 1
+
+The solution is contained in `Task 2/ Part 1` and there are 3 files:
+
+- `src` - the directory containing the picture of the resulting plots
+- `external.py` - the file, which is used more like as a package that consists of functions
+  - `generate_input` - generates the matrix of coeficinents and right-side vector
+  - `seidel` - the function implementing the Seidel's iterative method
+- `seidel_main.py` - the main program that accomplishes the task
+
