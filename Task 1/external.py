@@ -16,16 +16,21 @@ def matrix_multiplication(matrix1, matrix2):
     return res
 
 
+def generate_input_2(n):
+    return [[1 / (i + j + 1) for j in range(n)] for i in range(n)]
+
+
 def lu_decompose(matrix):
     n = len(matrix)
     # implementation of gaussian algorithm
     u = [[matrix[i][j] for j in range(n)] for i in range(n)]
     l = [[int(i == j) for i in range(n)] for j in range(n)]
     for i in range(n):
-        factors = [u[k + 1][i] / u[i][i] for k in range(n - 1)]
+        print(l, u)
         if abs(u[i][i]) < sys.float_info.epsilon:
             print("The given matrix can not be LU-decomposed")
             exit()
+        factors = [u[k + 1][i] / u[i][i] for k in range(n - 1)]
         for j in range(i + 1, n):
             l[j][i] = factors[j - 1]
         for j in range(i + 1, n):
