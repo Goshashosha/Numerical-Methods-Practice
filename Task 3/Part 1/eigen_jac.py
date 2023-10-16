@@ -22,4 +22,5 @@ plt.title("Dependence of calculation time on size of the matrix")
 plt.savefig(f"src/all.png")
 plt.show()
 
+
 write_m(results['eigen_vec'], "src/eigen_vals")

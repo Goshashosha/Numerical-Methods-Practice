@@ -10,7 +10,7 @@ def gen_m(n):
 
 def write_m(m, filename):
     with open(filename, "w+") as f:
-        f.writelines([f"{' '.join(row)}\n" for row in m])
+        f.writelines([f"{' '.join([str(e) for e in row])}\n" for row in m])
 
 
 def read_m(filename):
