@@ -28,7 +28,7 @@ def grad_f(x):
     return [df_dx0, df_dx1]
 
 
-def grad_desc(func, grad_func, x0, eps=1e-3, max_iter=10000):
+def grad_desc(func, grad_func, x0, eps=1e-3, max_iter=1e9):
     x = x0
     iter_s = 0
 
@@ -44,6 +44,10 @@ def grad_desc(func, grad_func, x0, eps=1e-3, max_iter=10000):
 
         x = x_new
         iter_s += iter_cnt
+
+        if iter_s >= max_iter:
+            print(f"Iteration count reached the limit of {max_iter}")
+            return 0, max_iter
 
     return x_new, iter_s
 
