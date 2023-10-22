@@ -1,0 +1,96 @@
+For x = 0.9659258262890683:
+i = 1.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+
+For x = 0.7071067811865476:
+i = 0.0, coefficient = 0
+i = 1.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+
+For x = 0.25881904510252074:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = 1.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+
+For x = -0.25881904510252063:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = 1.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+
+For x = -0.7071067811865475:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = 1.0, coefficient = 4
+i = -0.0, coefficient = 5
+
+For x = -0.9659258262890682:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = 1.0, coefficient = 5
+
+For x = 0.9659258262890683:
+i = 1.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+
+For x = 0.7071067811865476:
+i = 0.0, coefficient = 0
+i = 1.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+
+For x = 0.25881904510252074:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = 1.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+
+For x = -0.25881904510252063:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = 1.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+
+For x = -0.7071067811865475:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = 1.0, coefficient = 4
+i = -0.0, coefficient = 5
+
+For x = -0.9659258262890682:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = 1.0, coefficient = 5
+

@@ -1,0 +1,70 @@
+For x = -1.0:
+i = 1.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+
+For x = -0.5:
+i = -0.0, coefficient = 0
+i = 1.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+
+For x = 0.0:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 1.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+
+For x = 0.5:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 1.0, coefficient = 3
+i = 0.0, coefficient = 4
+
+For x = 1.0:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 1.0, coefficient = 4
+
+For x = -1.0:
+i = 1.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+
+For x = -0.5:
+i = -0.0, coefficient = 0
+i = 1.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+
+For x = 0.0:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 1.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+
+For x = 0.5:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 1.0, coefficient = 3
+i = 0.0, coefficient = 4
+
+For x = 1.0:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 1.0, coefficient = 4
+

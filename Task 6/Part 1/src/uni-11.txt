@@ -1,0 +1,286 @@
+For x = -1.0:
+i = 1.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = -0.8:
+i = -0.0, coefficient = 0
+i = 1.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = -0.6:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 1.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = -0.3999999999999999:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 1.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = -0.19999999999999996:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 1.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = 0.0:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 1.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = 0.20000000000000018:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 1.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = 0.40000000000000013:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 1.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = 0.6000000000000001:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 1.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = 0.8:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 1.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = 1.0:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 1.0, coefficient = 10
+
+For x = -1.0:
+i = 1.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = -0.8:
+i = -0.0, coefficient = 0
+i = 1.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = -0.6:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 1.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = -0.3999999999999999:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 1.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = -0.19999999999999996:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 1.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = 0.0:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 1.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = 0.20000000000000018:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 1.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = 0.40000000000000013:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 1.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = 0.6000000000000001:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 1.0, coefficient = 8
+i = 0.0, coefficient = 9
+i = -0.0, coefficient = 10
+
+For x = 0.8:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+i = -0.0, coefficient = 4
+i = 0.0, coefficient = 5
+i = -0.0, coefficient = 6
+i = 0.0, coefficient = 7
+i = -0.0, coefficient = 8
+i = 1.0, coefficient = 9
+i = 0.0, coefficient = 10
+
+For x = 1.0:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+i = 0.0, coefficient = 4
+i = -0.0, coefficient = 5
+i = 0.0, coefficient = 6
+i = -0.0, coefficient = 7
+i = 0.0, coefficient = 8
+i = -0.0, coefficient = 9
+i = 1.0, coefficient = 10
+
