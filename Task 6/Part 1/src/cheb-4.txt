@@ -46,3 +46,4851 @@ i = -0.0, coefficient = 1
 i = 0.0, coefficient = 2
 i = 1.0, coefficient = 3
 
+For x = 0.9238795325112867:
+i = 1.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = -0.0, coefficient = 3
+
+For x = 0.38268343236508984:
+i = 0.0, coefficient = 0
+i = 1.0, coefficient = 1
+i = -0.0, coefficient = 2
+i = 0.0, coefficient = 3
+
+For x = -0.3826834323650897:
+i = -0.0, coefficient = 0
+i = 0.0, coefficient = 1
+i = 1.0, coefficient = 2
+i = -0.0, coefficient = 3
+
+For x = -0.9238795325112867:
+i = 0.0, coefficient = 0
+i = -0.0, coefficient = 1
+i = 0.0, coefficient = 2
+i = 1.0, coefficient = 3
+
+For x = -1.0:
+i = -0.049728091844914515, coefficient = 0
+i = 0.1670446594798248, coefficient = 1
+i = -0.3741514406663723, coefficient = 2
+i = 1.2568348730314618, coefficient = 3
+
+For x = -0.99:
+i = -0.04218820936409567, coefficient = 0
+i = 0.14200740258469635, coefficient = 1
+i = -0.3209713338800193, coefficient = 2
+i = 1.2211521406594188, coefficient = 3
+
+For x = -0.98:
+i = -0.03496153344468922, coefficient = 0
+i = 0.11792629321795403, coefficient = 1
+i = -0.269030217334527, coefficient = 2
+i = 1.1860654575612621, coefficient = 3
+
+For x = -0.97:
+i = -0.028043471885506804, coefficient = 0
+i = 0.09479024482520765, coefficient = 1
+i = -0.21831700447550523, coefficient = 2
+i = 1.1515702315358043, coefficient = 3
+
+For x = -0.96:
+i = -0.02142943248536006, coefficient = 0
+i = 0.07258817085206712, coefficient = 1
+i = -0.16882060874856392, coefficient = 2
+i = 1.1176618703818568, coefficient = 3
+
+For x = -0.95:
+i = -0.015114823043060579, coefficient = 0
+i = 0.05130898474414227, coefficient = 1
+i = -0.12052994359931295, coefficient = 2
+i = 1.0843357818982313, coefficient = 3
+
+For x = -0.94:
+i = -0.009095051357419994, coefficient = 0
+i = 0.03094159994704299, coefficient = 1
+i = -0.07343392247336214, coefficient = 2
+i = 1.0515873738837391, coefficient = 3
+
+For x = -0.9299999999999999:
+i = -0.0033655252272499214, coefficient = 0
+i = 0.01147492990637912, coefficient = 1
+i = -0.02752145881632138, coefficient = 2
+i = 1.0194120541371923, coefficient = 3
+
+For x = -0.92:
+i = 0.0020783475486379614, coefficient = 0
+i = -0.007102111932239254, coefficient = 1
+i = 0.01721853392619898, coefficient = 2
+i = 0.9878052304574024, coefficient = 3
+
+For x = -0.91:
+i = 0.007241159171432155, coefficient = 0
+i = -0.02480061212320268, coefficient = 1
+i = 0.06079714230859006, coefficient = 2
+i = 0.9567623106431803, coefficient = 3
+
+For x = -0.9:
+i = 0.012127501842320983, coefficient = 0
+i = -0.041631657220901105, coefficient = 1
+i = 0.10322545288524154, coefficient = 2
+i = 0.9262787024933388, coefficient = 3
+
+For x = -0.89:
+i = 0.016741967762492815, coefficient = 0
+i = -0.05760633377972462, coefficient = 1
+i = 0.14451455221054346, coefficient = 2
+i = 0.8963498138066881, coefficient = 3
+
+For x = -0.88:
+i = 0.021089149133136056, coefficient = 0
+i = -0.07273572835406342, coefficient = 1
+i = 0.1846755268388861, coefficient = 2
+i = 0.8669710523820414, coefficient = 3
+
+For x = -0.87:
+i = 0.02517363815543905, coefficient = 0
+i = -0.0870309274983076, coefficient = 1
+i = 0.2237194633246594, coefficient = 2
+i = 0.838137826018209, coefficient = 3
+
+For x = -0.86:
+i = 0.029000027030590212, coefficient = 0
+i = -0.1005030177668473, coefficient = 1
+i = 0.26165744822225373, coefficient = 2
+i = 0.8098455425140035, coefficient = 3
+
+For x = -0.85:
+i = 0.03257290795977791, coefficient = 0
+i = -0.11316308571407267, coefficient = 1
+i = 0.29850056808605896, coefficient = 2
+i = 0.7820896096682357, coefficient = 3
+
+For x = -0.84:
+i = 0.03589687314419052, coefficient = 0
+i = -0.12502221789437382, coefficient = 1
+i = 0.3342599094704655, coefficient = 2
+i = 0.7548654352797178, coefficient = 3
+
+For x = -0.83:
+i = 0.03897651478501643, coefficient = 0
+i = -0.1360915008621409, coefficient = 1
+i = 0.3689465589298631, coefficient = 2
+i = 0.728168427147261, coefficient = 3
+
+For x = -0.8200000000000001:
+i = 0.041816425083444, coefficient = 0
+i = -0.1463820211717639, coefficient = 1
+i = 0.4025716030186421, coefficient = 2
+i = 0.7019939930696778, coefficient = 3
+
+For x = -0.81:
+i = 0.044421196240661646, coefficient = 0
+i = -0.1559048653776333, coefficient = 1
+i = 0.4351461282911929, coefficient = 2
+i = 0.6763375408457786, coefficient = 3
+
+For x = -0.8:
+i = 0.04679542045785775, coefficient = 0
+i = -0.16467112003413903, coefficient = 1
+i = 0.4666812213019054, coefficient = 2
+i = 0.6511944782743758, coefficient = 3
+
+For x = -0.79:
+i = 0.04894368993622066, coefficient = 0
+i = -0.17269187169567118, coefficient = 1
+i = 0.49718796860516995, coefficient = 2
+i = 0.6265602131542806, coefficient = 3
+
+For x = -0.78:
+i = 0.05087059687693879, coefficient = 0
+i = -0.17997820691661995, coefficient = 1
+i = 0.5266774567553762, coefficient = 2
+i = 0.6024301532843048, coefficient = 3
+
+For x = -0.77:
+i = 0.0525807334812005, coefficient = 0
+i = -0.18654121225137552, coefficient = 1
+i = 0.5551607723069147, coefficient = 2
+i = 0.5787997064632602, coefficient = 3
+
+For x = -0.76:
+i = 0.054078691950194165, coefficient = 0
+i = -0.19239197425432789, coefficient = 1
+i = 0.5826490018141756, coefficient = 2
+i = 0.5556642804899581, coefficient = 3
+
+For x = -0.75:
+i = 0.0553690644851082, coefficient = 0
+i = -0.19754157947986728, coefficient = 1
+i = 0.6091532318315488, coefficient = 2
+i = 0.5330192831632103, coefficient = 3
+
+For x = -0.74:
+i = 0.056456443287130946, coefficient = 0
+i = -0.20200111448238386, coefficient = 1
+i = 0.6346845489134245, coefficient = 2
+i = 0.5108601222818284, coefficient = 3
+
+For x = -0.73:
+i = 0.05734542055745081, coefficient = 0
+i = -0.20578166581626772, coefficient = 1
+i = 0.6592540396141928, coefficient = 2
+i = 0.489182205644624, coefficient = 3
+
+For x = -0.72:
+i = 0.058040588497256164, coefficient = 0
+i = -0.20889432003590905, coefficient = 1
+i = 0.682872790488244, coefficient = 2
+i = 0.4679809410504089, coefficient = 3
+
+For x = -0.71:
+i = 0.058546539307735394, coefficient = 0
+i = -0.21135016369569784, coefficient = 1
+i = 0.705551888089968, coefficient = 2
+i = 0.4472517362979943, coefficient = 3
+
+For x = -0.7:
+i = 0.05886786519007685, coefficient = 0
+i = -0.21316028335002432, coefficient = 1
+i = 0.7273024189737554, coefficient = 2
+i = 0.4269899991861922, coefficient = 3
+
+For x = -0.69:
+i = 0.05900915834546896, coefficient = 0
+i = -0.2143357655532787, coefficient = 1
+i = 0.7481354696939956, coefficient = 2
+i = 0.407191137513814, coefficient = 3
+
+For x = -0.6799999999999999:
+i = 0.05897501097510009, coefficient = 0
+i = -0.21488769685985104, coefficient = 1
+i = 0.7680621268050795, coefficient = 2
+i = 0.38785055907967153, coefficient = 3
+
+For x = -0.6699999999999999:
+i = 0.0587700152801586, coefficient = 0
+i = -0.21482716382413142, coefficient = 1
+i = 0.7870934768613965, coefficient = 2
+i = 0.36896367168257616, coefficient = 3
+
+For x = -0.6599999999999999:
+i = 0.05839876346183289, coefficient = 0
+i = -0.2141652530005101, coefficient = 1
+i = 0.8052406064173374, coefficient = 2
+i = 0.3505258831213397, coefficient = 3
+
+For x = -0.65:
+i = 0.05786584772131136, coefficient = 0
+i = -0.21291305094337715, coefficient = 1
+i = 0.822514602027292, coefficient = 2
+i = 0.33253260119477396, coefficient = 3
+
+For x = -0.64:
+i = 0.05717586025978235, coefficient = 0
+i = -0.21108164420712264, coefficient = 1
+i = 0.8389265502456501, coefficient = 2
+i = 0.3149792337016899, coefficient = 3
+
+For x = -0.63:
+i = 0.056333393278434285, coefficient = 0
+i = -0.20868211934613684, coefficient = 1
+i = 0.8544875376268029, coefficient = 2
+i = 0.29786118844089976, coefficient = 3
+
+For x = -0.62:
+i = 0.05534303897845548, coefficient = 0
+i = -0.20572556291480973, coefficient = 1
+i = 0.8692086507251393, coefficient = 2
+i = 0.28117387321121473, coefficient = 3
+
+For x = -0.61:
+i = 0.054209389561034396, coefficient = 0
+i = -0.20222306146753163, coefficient = 1
+i = 0.8831009760950503, coefficient = 2
+i = 0.2649126958114468, coefficient = 3
+
+For x = -0.6:
+i = 0.05293703722735935, coefficient = 0
+i = -0.1981857015586925, coefficient = 1
+i = 0.8961756002909256, coefficient = 2
+i = 0.24907306404040733, coefficient = 3
+
+For x = -0.5900000000000001:
+i = 0.05153057417861876, coefficient = 0
+i = -0.19362456974268266, coefficient = 1
+i = 0.9084436098671556, coefficient = 2
+i = 0.23365038569690832, coefficient = 3
+
+For x = -0.5800000000000001:
+i = 0.049994592616001005, coefficient = 0
+i = -0.18855075257389206, coefficient = 1
+i = 0.9199160913781302, coefficient = 2
+i = 0.21864006857976082, coefficient = 3
+
+For x = -0.5700000000000001:
+i = 0.04833368474069445, coefficient = 0
+i = -0.18297533660671092, coefficient = 1
+i = 0.9306041313782395, coefficient = 2
+i = 0.20403752048777682, coefficient = 3
+
+For x = -0.56:
+i = 0.04655244275388748, coefficient = 0
+i = -0.17690940839552935, coefficient = 1
+i = 0.9405188164218742, coefficient = 2
+i = 0.18983814921976777, coefficient = 3
+
+For x = -0.55:
+i = 0.04465545885676847, coefficient = 0
+i = -0.17036405449473754, coefficient = 1
+i = 0.9496712330634235, coefficient = 2
+i = 0.17603736257454541, coefficient = 3
+
+For x = -0.54:
+i = 0.04264732525052582, coefficient = 0
+i = -0.16335036145872556, coefficient = 1
+i = 0.9580724678572783, coefficient = 2
+i = 0.1626305683509213, coefficient = 3
+
+For x = -0.53:
+i = 0.0405326341363479, coefficient = 0
+i = -0.15587941584188358, coefficient = 1
+i = 0.9657336073578285, coefficient = 2
+i = 0.14961317434770707, coefficient = 3
+
+For x = -0.52:
+i = 0.0383159777154231, coefficient = 0
+i = -0.14796230419860176, coefficient = 1
+i = 0.9726657381194642, coefficient = 2
+i = 0.1369805883637144, coefficient = 3
+
+For x = -0.51:
+i = 0.03600194818893977, coefficient = 0
+i = -0.13961011308327018, coefficient = 1
+i = 0.9788799466965755, coefficient = 2
+i = 0.1247282181977548, coefficient = 3
+
+For x = -0.5:
+i = 0.033595137758086334, coefficient = 0
+i = -0.13083392905027902, coefficient = 1
+i = 0.9843873196435526, coefficient = 2
+i = 0.11285147164863996, coefficient = 3
+
+For x = -0.49:
+i = 0.031100138624051154, coefficient = 0
+i = -0.12164483865401836, coefficient = 1
+i = 0.9891989435147857, coefficient = 2
+i = 0.1013457565151815, coefficient = 3
+
+For x = -0.48:
+i = 0.028521542988022598, coefficient = 0
+i = -0.11205392844887838, coefficient = 1
+i = 0.9933259048646647, coefficient = 2
+i = 0.090206480596191, coefficient = 3
+
+For x = -0.47:
+i = 0.025863943051189064, coefficient = 0
+i = -0.10207228498924924, coefficient = 1
+i = 0.99677929024758, coefficient = 2
+i = 0.07942905169048013, coefficient = 3
+
+For x = -0.45999999999999996:
+i = 0.023131931014738934, coefficient = 0
+i = -0.09171099482952101, coefficient = 1
+i = 0.9995701862179214, coefficient = 2
+i = 0.06900887759686047, coefficient = 3
+
+For x = -0.44999999999999996:
+i = 0.02033009907986058, coefficient = 0
+i = -0.08098114452408386, coefficient = 1
+i = 1.0017096793300797, coefficient = 2
+i = 0.05894136611414364, coefficient = 3
+
+For x = -0.43999999999999995:
+i = 0.017463039447742388, coefficient = 0
+i = -0.06989382062732793, coefficient = 1
+i = 1.0032088561384442, coefficient = 2
+i = 0.04922192504114128, coefficient = 3
+
+For x = -0.43000000000000005:
+i = 0.014535344319572771, coefficient = 0
+i = -0.05846010969364349, coefficient = 1
+i = 1.0040788031974055, coefficient = 2
+i = 0.03984596217666509, coefficient = 3
+
+For x = -0.42000000000000004:
+i = 0.011551605896540045, coefficient = 0
+i = -0.04669109827742041, coefficient = 1
+i = 1.0043306070613538, coefficient = 2
+i = 0.030808885319526507, coefficient = 3
+
+For x = -0.41000000000000003:
+i = 0.008516416379832623, coefficient = 0
+i = -0.03459787293304894, coefficient = 1
+i = 1.003975354284679, coefficient = 2
+i = 0.022106102268537216, coefficient = 3
+
+For x = -0.4:
+i = 0.005434367970638885, coefficient = 0
+i = -0.022191520214919234, coefficient = 1
+i = 1.0030241314217714, coefficient = 2
+i = 0.013733020822508876, coefficient = 3
+
+For x = -0.39:
+i = 0.002310052870147214, coefficient = 0
+i = -0.009483126677421412, coefficient = 1
+i = 1.0014880250270208, coefficient = 2
+i = 0.005685048780253084, coefficient = 3
+
+For x = -0.38:
+i = -0.0008519367204540097, coefficient = 0
+i = 0.0035162211250543804, coefficient = 1
+i = 0.9993781216548182, coefficient = 2
+i = -0.002042406059418536, coefficient = 3
+
+For x = -0.37:
+i = -0.004047008599976405, coefficient = 0
+i = 0.016795436638118007, coefficient = 1
+i = 0.9967055078595526, coefficient = 2
+i = -0.009453935897694363, coefficient = 3
+
+For x = -0.36:
+i = -0.00727057056723159, coefficient = 0
+i = 0.03034343330737935, coefficient = 1
+i = 0.9934812701956149, coefficient = 2
+i = -0.016554132935762786, coefficient = 3
+
+For x = -0.35:
+i = -0.010518030421031185, coefficient = 0
+i = 0.04414912457844824, coefficient = 1
+i = 0.9897164952173949, coefficient = 2
+i = -0.023347589374812173, coefficient = 3
+
+For x = -0.33999999999999997:
+i = -0.01378479596018681, coefficient = 0
+i = 0.058201423896934584, coefficient = 1
+i = 0.9854222694792831, coefficient = 2
+i = -0.029838897416030918, coefficient = 3
+
+For x = -0.32999999999999996:
+i = -0.01706627498351008, coefficient = 0
+i = 0.0724892447084482, coefficient = 1
+i = 0.980609679535669, coefficient = 2
+i = -0.03603264926060739, coefficient = 3
+
+For x = -0.31999999999999995:
+i = -0.020357875289812612, coefficient = 0
+i = 0.087001500458599, coefficient = 1
+i = 0.9752898119409434, coefficient = 2
+i = -0.041933437109729986, coefficient = 3
+
+For x = -0.31000000000000005:
+i = -0.023655004677906002, coefficient = 0
+i = 0.10172710459299664, coefficient = 1
+i = 0.9694737532494964, coefficient = 2
+i = -0.047545853164587, coefficient = 3
+
+For x = -0.30000000000000004:
+i = -0.026953070946601924, coefficient = 0
+i = 0.11665497055725134, coefficient = 1
+i = 0.9631725900157174, coefficient = 2
+i = -0.05287448962636696, coefficient = 3
+
+For x = -0.29000000000000004:
+i = -0.030247481894711974, coefficient = 0
+i = 0.1317740117969728, coefficient = 1
+i = 0.9563974087939972, coefficient = 2
+i = -0.0579239386962582, coefficient = 3
+
+For x = -0.28:
+i = -0.03353364532104776, coefficient = 0
+i = 0.14707314175777084, coefficient = 1
+i = 0.949159296138726, coefficient = 2
+i = -0.06269879257544904, coefficient = 3
+
+For x = -0.27:
+i = -0.03680696902442091, coefficient = 0
+i = 0.1625412738852554, coefficient = 1
+i = 0.9414693386042933, coefficient = 2
+i = -0.06720364346512793, coefficient = 3
+
+For x = -0.26:
+i = -0.04006286080364304, coefficient = 0
+i = 0.17816732162503632, coefficient = 1
+i = 0.9333386227450898, coefficient = 2
+i = -0.07144308356648321, coefficient = 3
+
+For x = -0.25:
+i = -0.043296728457525774, coefficient = 0
+i = 0.19394019842272348, coefficient = 1
+i = 0.9247782351155054, coefficient = 2
+i = -0.07542170508070327, coefficient = 3
+
+For x = -0.24:
+i = -0.04650397978488072, coefficient = 0
+i = 0.20984881772392663, coefficient = 1
+i = 0.9157992622699307, coefficient = 2
+i = -0.07914410020897651, coefficient = 3
+
+For x = -0.22999999999999998:
+i = -0.049680022584519506, coefficient = 0
+i = 0.22588209297425574, coefficient = 1
+i = 0.9064127907627549, coefficient = 2
+i = -0.08261486115249127, coefficient = 3
+
+For x = -0.21999999999999997:
+i = -0.05282026465525373, coefficient = 0
+i = 0.2420289376193207, coefficient = 1
+i = 0.896629907148369, coefficient = 2
+i = -0.08583858011243597, coefficient = 3
+
+For x = -0.20999999999999996:
+i = -0.055920113795895045, coefficient = 0
+i = 0.25827826510473134, coefficient = 1
+i = 0.8864616979811627, coefficient = 2
+i = -0.08881984928999898, coefficient = 3
+
+For x = -0.19999999999999996:
+i = -0.058974977805255055, coefficient = 0
+i = 0.2746189888760974, coefficient = 1
+i = 0.8759192498155262, coefficient = 2
+i = -0.09156326088636867, coefficient = 3
+
+For x = -0.18999999999999995:
+i = -0.06198026448214537, coefficient = 0
+i = 0.291040022379029, coefficient = 1
+i = 0.8650136492058497, coefficient = 2
+i = -0.09407340710273343, coefficient = 3
+
+For x = -0.18000000000000005:
+i = -0.06493138162537758, coefficient = 0
+i = 0.3075302790591356, coefficient = 1
+i = 0.8537559827065234, coefficient = 2
+i = -0.09635488014028161, coefficient = 3
+
+For x = -0.17000000000000004:
+i = -0.06782373703376338, coefficient = 0
+i = 0.32407867236202753, coefficient = 1
+i = 0.8421573368719375, coefficient = 2
+i = -0.09841227220020167, coefficient = 3
+
+For x = -0.16000000000000003:
+i = -0.07065273850611435, coefficient = 0
+i = 0.3406741157333145, coefficient = 1
+i = 0.8302287982564818, coefficient = 2
+i = -0.10025017548368191, coefficient = 3
+
+For x = -0.15000000000000002:
+i = -0.07341379384124211, coefficient = 0
+i = 0.35730552261860626, coefficient = 1
+i = 0.8179814534145466, coefficient = 2
+i = -0.10187318219191077, coefficient = 3
+
+For x = -0.14:
+i = -0.07610231083795826, coefficient = 0
+i = 0.37396180646351274, coefficient = 1
+i = 0.8054263889005219, coefficient = 2
+i = -0.10328588452607657, coefficient = 3
+
+For x = -0.13:
+i = -0.07871369729507445, coefficient = 0
+i = 0.3906318807136439, coefficient = 1
+i = 0.7925746912687982, coefficient = 2
+i = -0.10449287468736777, coefficient = 3
+
+For x = -0.12:
+i = -0.08124336101140227, coefficient = 0
+i = 0.4073046588146095, coefficient = 1
+i = 0.7794374470737654, coefficient = 2
+i = -0.10549874487697265, coefficient = 3
+
+For x = -0.10999999999999999:
+i = -0.08368670978575339, coefficient = 0
+i = 0.4239690542120194, coefficient = 1
+i = 0.7660257428698137, coefficient = 2
+i = -0.10630808729607971, coefficient = 3
+
+For x = -0.09999999999999998:
+i = -0.08603915141693935, coefficient = 0
+i = 0.44061398035148325, coefficient = 1
+i = 0.7523506652113331, coefficient = 2
+i = -0.10692549414587721, coefficient = 3
+
+For x = -0.08999999999999997:
+i = -0.08829609370377184, coefficient = 0
+i = 0.4572283506786115, coefficient = 1
+i = 0.738423300652714, coefficient = 2
+i = -0.10735555762755367, coefficient = 3
+
+For x = -0.07999999999999996:
+i = -0.09045294444506242, coefficient = 0
+i = 0.47380107863901344, coefficient = 1
+i = 0.7242547357483462, coefficient = 2
+i = -0.10760286994229729, coefficient = 3
+
+For x = -0.06999999999999995:
+i = -0.09250511143962277, coefficient = 0
+i = 0.49032107767829924, coefficient = 1
+i = 0.7098560570526201, coefficient = 2
+i = -0.10767202329129662, coefficient = 3
+
+For x = -0.06000000000000005:
+i = -0.09444800248626445, coefficient = 0
+i = 0.5067772612420784, coefficient = 1
+i = 0.6952383511199258, coefficient = 2
+i = -0.10756760987573995, coefficient = 3
+
+For x = -0.050000000000000044:
+i = -0.0962770253837991, coefficient = 0
+i = 0.5231585427759614, coefficient = 1
+i = 0.6804127045046533, coefficient = 2
+i = -0.10729422189681567, coefficient = 3
+
+For x = -0.040000000000000036:
+i = -0.09798758793103839, coefficient = 0
+i = 0.5394538357255576, coefficient = 1
+i = 0.6653902037611928, coefficient = 2
+i = -0.10685645155571219, coefficient = 3
+
+For x = -0.030000000000000027:
+i = -0.09957509792679384, coefficient = 0
+i = 0.5556520535364771, coefficient = 1
+i = 0.6501819354439345, coefficient = 2
+i = -0.1062588910536179, coefficient = 3
+
+For x = -0.020000000000000018:
+i = -0.10103496316987717, coefficient = 0
+i = 0.5717421096543298, coefficient = 1
+i = 0.6347989861072685, coefficient = 2
+i = -0.1055061325917211, coefficient = 3
+
+For x = -0.010000000000000009:
+i = -0.10236259145909993, coefficient = 0
+i = 0.5877129175247254, coefficient = 1
+i = 0.6192524423055848, coefficient = 2
+i = -0.1046027683712103, coefficient = 3
+
+For x = 0.0:
+i = -0.10355339059327379, coefficient = 0
+i = 0.6035533905932737, coefficient = 1
+i = 0.6035533905932737, coefficient = 2
+i = -0.10355339059327376, coefficient = 3
+
+For x = 0.010000000000000009:
+i = -0.10460276837121033, coefficient = 0
+i = 0.6192524423055847, coefficient = 1
+i = 0.5877129175247254, coefficient = 2
+i = -0.10236259145909991, coefficient = 3
+
+For x = 0.020000000000000018:
+i = -0.10550613259172115, coefficient = 0
+i = 0.6347989861072685, coefficient = 1
+i = 0.5717421096543298, coefficient = 2
+i = -0.10103496316987713, coefficient = 3
+
+For x = 0.030000000000000027:
+i = -0.10625889105361792, coefficient = 0
+i = 0.6501819354439345, coefficient = 1
+i = 0.5556520535364771, coefficient = 2
+i = -0.09957509792679384, coefficient = 3
+
+For x = 0.040000000000000036:
+i = -0.1068564515557122, coefficient = 0
+i = 0.6653902037611928, coefficient = 1
+i = 0.5394538357255577, coefficient = 2
+i = -0.09798758793103834, coefficient = 3
+
+For x = 0.050000000000000044:
+i = -0.1072942218968157, coefficient = 0
+i = 0.6804127045046534, coefficient = 1
+i = 0.5231585427759614, coefficient = 2
+i = -0.0962770253837991, coefficient = 3
+
+For x = 0.06000000000000005:
+i = -0.10756760987573996, coefficient = 0
+i = 0.6952383511199259, coefficient = 1
+i = 0.5067772612420786, coefficient = 2
+i = -0.09444800248626442, coefficient = 3
+
+For x = 0.07000000000000006:
+i = -0.10767202329129663, coefficient = 0
+i = 0.7098560570526202, coefficient = 1
+i = 0.490321077678299, coefficient = 2
+i = -0.09250511143962271, coefficient = 3
+
+For x = 0.08000000000000007:
+i = -0.10760286994229734, coefficient = 0
+i = 0.7242547357483465, coefficient = 1
+i = 0.4738010786390134, coefficient = 2
+i = -0.0904529444450624, coefficient = 3
+
+For x = 0.09000000000000008:
+i = -0.10735555762755368, coefficient = 0
+i = 0.7384233006527141, coefficient = 1
+i = 0.45722835067861134, coefficient = 2
+i = -0.08829609370377181, coefficient = 3
+
+For x = 0.10000000000000009:
+i = -0.10692549414587725, coefficient = 0
+i = 0.7523506652113333, coefficient = 1
+i = 0.4406139803514832, coefficient = 2
+i = -0.08603915141693932, coefficient = 3
+
+For x = 0.1100000000000001:
+i = -0.10630808729607974, coefficient = 0
+i = 0.7660257428698137, coefficient = 1
+i = 0.42396905421201925, coefficient = 2
+i = -0.08368670978575335, coefficient = 3
+
+For x = 0.1200000000000001:
+i = -0.1054987448769727, coefficient = 0
+i = 0.7794374470737656, coefficient = 1
+i = 0.4073046588146094, coefficient = 2
+i = -0.08124336101140224, coefficient = 3
+
+For x = 0.1299999999999999:
+i = -0.10449287468736781, coefficient = 0
+i = 0.792574691268798, coefficient = 1
+i = 0.39063188071364413, coefficient = 2
+i = -0.07871369729507448, coefficient = 3
+
+For x = 0.1399999999999999:
+i = -0.10328588452607664, coefficient = 0
+i = 0.8054263889005218, coefficient = 1
+i = 0.37396180646351307, coefficient = 2
+i = -0.07610231083795829, coefficient = 3
+
+For x = 0.1499999999999999:
+i = -0.10187318219191083, coefficient = 0
+i = 0.8179814534145463, coefficient = 1
+i = 0.3573055226186066, coefficient = 2
+i = -0.07341379384124214, coefficient = 3
+
+For x = 0.15999999999999992:
+i = -0.10025017548368198, coefficient = 0
+i = 0.8302287982564815, coefficient = 1
+i = 0.3406741157333148, coefficient = 2
+i = -0.0706527385061144, coefficient = 3
+
+For x = 0.16999999999999993:
+i = -0.09841227220020173, coefficient = 0
+i = 0.8421573368719374, coefficient = 1
+i = 0.3240786723620279, coefficient = 2
+i = -0.06782373703376342, coefficient = 3
+
+For x = 0.17999999999999994:
+i = -0.09635488014028169, coefficient = 0
+i = 0.8537559827065234, coefficient = 1
+i = 0.30753027905913594, coefficient = 2
+i = -0.06493138162537762, coefficient = 3
+
+For x = 0.18999999999999995:
+i = -0.09407340710273349, coefficient = 0
+i = 0.8650136492058498, coefficient = 1
+i = 0.2910400223790291, coefficient = 2
+i = -0.06198026448214538, coefficient = 3
+
+For x = 0.19999999999999996:
+i = -0.09156326088636872, coefficient = 0
+i = 0.8759192498155263, coefficient = 1
+i = 0.27461898887609754, coefficient = 2
+i = -0.05897497780525507, coefficient = 3
+
+For x = 0.20999999999999996:
+i = -0.08881984928999904, coefficient = 0
+i = 0.8864616979811628, coefficient = 1
+i = 0.25827826510473145, coefficient = 2
+i = -0.05592011379589506, coefficient = 3
+
+For x = 0.21999999999999997:
+i = -0.08583858011243603, coefficient = 0
+i = 0.8966299071483689, coefficient = 1
+i = 0.24202893761932082, coefficient = 2
+i = -0.052820264655253746, coefficient = 3
+
+For x = 0.22999999999999998:
+i = -0.08261486115249135, coefficient = 0
+i = 0.9064127907627549, coefficient = 1
+i = 0.22588209297425588, coefficient = 2
+i = -0.04968002258451952, coefficient = 3
+
+For x = 0.24:
+i = -0.07914410020897658, coefficient = 0
+i = 0.9157992622699307, coefficient = 1
+i = 0.20984881772392677, coefficient = 2
+i = -0.04650397978488074, coefficient = 3
+
+For x = 0.25:
+i = -0.07542170508070335, coefficient = 0
+i = 0.9247782351155055, coefficient = 1
+i = 0.1939401984227236, coefficient = 2
+i = -0.04329672845752579, coefficient = 3
+
+For x = 0.26:
+i = -0.0714430835664833, coefficient = 0
+i = 0.9333386227450899, coefficient = 1
+i = 0.17816732162503643, coefficient = 2
+i = -0.040062860803643054, coefficient = 3
+
+For x = 0.27:
+i = -0.06720364346512799, coefficient = 0
+i = 0.9414693386042933, coefficient = 1
+i = 0.16254127388525555, coefficient = 2
+i = -0.03680696902442094, coefficient = 3
+
+For x = 0.28:
+i = -0.06269879257544912, coefficient = 0
+i = 0.949159296138726, coefficient = 1
+i = 0.147073141757771, coefficient = 2
+i = -0.033533645321047786, coefficient = 3
+
+For x = 0.29000000000000004:
+i = -0.05792393869625827, coefficient = 0
+i = 0.9563974087939972, coefficient = 1
+i = 0.13177401179697293, coefficient = 2
+i = -0.030247481894712, coefficient = 3
+
+For x = 0.30000000000000004:
+i = -0.05287448962636704, coefficient = 0
+i = 0.9631725900157175, coefficient = 1
+i = 0.11665497055725148, coefficient = 2
+i = -0.02695307094660195, coefficient = 3
+
+For x = 0.31000000000000005:
+i = -0.04754585316458708, coefficient = 0
+i = 0.9694737532494966, coefficient = 1
+i = 0.10172710459299678, coefficient = 2
+i = -0.023655004677906027, coefficient = 3
+
+For x = 0.32000000000000006:
+i = -0.04193343710972999, coefficient = 0
+i = 0.9752898119409437, coefficient = 1
+i = 0.08700150045859896, coefficient = 2
+i = -0.02035787528981261, coefficient = 3
+
+For x = 0.33000000000000007:
+i = -0.0360326492606074, coefficient = 0
+i = 0.9806096795356691, coefficient = 1
+i = 0.07248924470844818, coefficient = 2
+i = -0.01706627498351007, coefficient = 3
+
+For x = 0.3400000000000001:
+i = -0.029838897416030925, coefficient = 0
+i = 0.9854222694792831, coefficient = 1
+i = 0.05820142389693456, coefficient = 2
+i = -0.013784795960186804, coefficient = 3
+
+For x = 0.3500000000000001:
+i = -0.023347589374812183, coefficient = 0
+i = 0.9897164952173951, coefficient = 1
+i = 0.04414912457844823, coefficient = 2
+i = -0.010518030421031182, coefficient = 3
+
+For x = 0.3600000000000001:
+i = -0.01655413293576279, coefficient = 0
+i = 0.993481270195615, coefficient = 1
+i = 0.030343433307379333, coefficient = 2
+i = -0.007270570567231588, coefficient = 3
+
+For x = 0.3700000000000001:
+i = -0.009453935897694367, coefficient = 0
+i = 0.9967055078595526, coefficient = 1
+i = 0.016795436638118003, coefficient = 2
+i = -0.004047008599976403, coefficient = 3
+
+For x = 0.3799999999999999:
+i = -0.0020424060594187044, coefficient = 0
+i = 0.9993781216548182, coefficient = 1
+i = 0.0035162211250546714, coefficient = 2
+i = -0.00085193672045408, coefficient = 3
+
+For x = 0.3899999999999999:
+i = 0.005685048780252911, coefficient = 0
+i = 1.0014880250270213, coefficient = 1
+i = -0.009483126677421122, coefficient = 2
+i = 0.002310052870147143, coefficient = 3
+
+For x = 0.3999999999999999:
+i = 0.013733020822508695, coefficient = 0
+i = 1.0030241314217714, coefficient = 1
+i = -0.022191520214918947, coefficient = 2
+i = 0.005434367970638813, coefficient = 3
+
+For x = 0.4099999999999999:
+i = 0.02210610226853704, coefficient = 0
+i = 1.003975354284679, coefficient = 1
+i = -0.03459787293304866, coefficient = 2
+i = 0.00851641637983255, coefficient = 3
+
+For x = 0.41999999999999993:
+i = 0.03080888531952631, coefficient = 0
+i = 1.004330607061354, coefficient = 1
+i = -0.04669109827742012, coefficient = 2
+i = 0.011551605896539972, coefficient = 3
+
+For x = 0.42999999999999994:
+i = 0.0398459621766649, coefficient = 0
+i = 1.0040788031974055, coefficient = 1
+i = -0.058460109693643215, coefficient = 2
+i = 0.0145353443195727, coefficient = 3
+
+For x = 0.43999999999999995:
+i = 0.049221925041141194, coefficient = 0
+i = 1.0032088561384442, coefficient = 1
+i = -0.0698938206273278, coefficient = 2
+i = 0.017463039447742346, coefficient = 3
+
+For x = 0.44999999999999996:
+i = 0.058941366114143544, coefficient = 0
+i = 1.0017096793300797, coefficient = 1
+i = -0.08098114452408373, coefficient = 2
+i = 0.02033009907986054, coefficient = 3
+
+For x = 0.45999999999999996:
+i = 0.06900887759686038, coefficient = 0
+i = 0.9995701862179216, coefficient = 1
+i = -0.09171099482952087, coefficient = 2
+i = 0.023131931014738896, coefficient = 3
+
+For x = 0.47:
+i = 0.07942905169048003, coefficient = 0
+i = 0.99677929024758, coefficient = 1
+i = -0.10207228498924907, coefficient = 2
+i = 0.02586394305118903, coefficient = 3
+
+For x = 0.48:
+i = 0.09020648059619092, coefficient = 0
+i = 0.9933259048646648, coefficient = 1
+i = -0.11205392844887824, coefficient = 2
+i = 0.028521542988022557, coefficient = 3
+
+For x = 0.49:
+i = 0.1013457565151814, coefficient = 0
+i = 0.9891989435147858, coefficient = 1
+i = -0.12164483865401819, coefficient = 2
+i = 0.031100138624051105, coefficient = 3
+
+For x = 0.5:
+i = 0.11285147164863986, coefficient = 0
+i = 0.9843873196435526, coefficient = 1
+i = -0.13083392905027885, coefficient = 2
+i = 0.03359513775808629, coefficient = 3
+
+For x = 0.51:
+i = 0.12472821819775469, coefficient = 0
+i = 0.9788799466965756, coefficient = 1
+i = -0.13961011308327, coefficient = 2
+i = 0.03600194818893973, coefficient = 3
+
+For x = 0.52:
+i = 0.1369805883637143, coefficient = 0
+i = 0.9726657381194642, coefficient = 1
+i = -0.14796230419860162, coefficient = 2
+i = 0.03831597771542305, coefficient = 3
+
+For x = 0.53:
+i = 0.149613174347707, coefficient = 0
+i = 0.9657336073578288, coefficient = 1
+i = -0.15587941584188345, coefficient = 2
+i = 0.040532634136347855, coefficient = 3
+
+For x = 0.54:
+i = 0.16263056835092118, coefficient = 0
+i = 0.9580724678572784, coefficient = 1
+i = -0.16335036145872545, coefficient = 2
+i = 0.04264732525052578, coefficient = 3
+
+For x = 0.55:
+i = 0.1760373625745453, coefficient = 0
+i = 0.9496712330634238, coefficient = 1
+i = -0.1703640544947374, coefficient = 2
+i = 0.044655458856768436, coefficient = 3
+
+For x = 0.56:
+i = 0.18983814921976763, coefficient = 0
+i = 0.9405188164218742, coefficient = 1
+i = -0.17690940839552918, coefficient = 2
+i = 0.04655244275388744, coefficient = 3
+
+For x = 0.5700000000000001:
+i = 0.20403752048777665, coefficient = 0
+i = 0.9306041313782397, coefficient = 1
+i = -0.18297533660671078, coefficient = 2
+i = 0.048333684740694396, coefficient = 3
+
+For x = 0.5800000000000001:
+i = 0.2186400685797607, coefficient = 0
+i = 0.9199160913781302, coefficient = 1
+i = -0.18855075257389187, coefficient = 2
+i = 0.04999459261600096, coefficient = 3
+
+For x = 0.5900000000000001:
+i = 0.2336503856969082, coefficient = 0
+i = 0.9084436098671557, coefficient = 1
+i = -0.19362456974268255, coefficient = 2
+i = 0.05153057417861872, coefficient = 3
+
+For x = 0.6000000000000001:
+i = 0.2490730640404074, coefficient = 0
+i = 0.8961756002909257, coefficient = 1
+i = -0.19818570155869242, coefficient = 2
+i = 0.05293703722735932, coefficient = 3
+
+For x = 0.6100000000000001:
+i = 0.26491269581144683, coefficient = 0
+i = 0.8831009760950502, coefficient = 1
+i = -0.20222306146753152, coefficient = 2
+i = 0.05420938956103435, coefficient = 3
+
+For x = 0.6200000000000001:
+i = 0.28117387321121484, coefficient = 0
+i = 0.8692086507251391, coefficient = 1
+i = -0.20572556291480965, coefficient = 2
+i = 0.05534303897845545, coefficient = 3
+
+For x = 0.6299999999999999:
+i = 0.29786118844089937, coefficient = 0
+i = 0.8544875376268027, coefficient = 1
+i = -0.20868211934613667, coefficient = 2
+i = 0.056333393278434216, coefficient = 3
+
+For x = 0.6399999999999999:
+i = 0.3149792337016897, coefficient = 0
+i = 0.8389265502456505, coefficient = 1
+i = -0.21108164420712253, coefficient = 2
+i = 0.05717586025978231, coefficient = 3
+
+For x = 0.6499999999999999:
+i = 0.3325326011947735, coefficient = 0
+i = 0.822514602027292, coefficient = 1
+i = -0.212913050943377, coefficient = 2
+i = 0.05786584772131131, coefficient = 3
+
+For x = 0.6599999999999999:
+i = 0.35052588312133964, coefficient = 0
+i = 0.8052406064173376, coefficient = 1
+i = -0.2141652530005099, coefficient = 2
+i = 0.05839876346183286, coefficient = 3
+
+For x = 0.6699999999999999:
+i = 0.368963671682576, coefficient = 0
+i = 0.7870934768613966, coefficient = 1
+i = -0.2148271638241313, coefficient = 2
+i = 0.05877001528015855, coefficient = 3
+
+For x = 0.6799999999999999:
+i = 0.3878505590796714, coefficient = 0
+i = 0.7680621268050796, coefficient = 1
+i = -0.2148876968598509, coefficient = 2
+i = 0.05897501097510006, coefficient = 3
+
+For x = 0.69:
+i = 0.4071911375138138, coefficient = 0
+i = 0.7481354696939955, coefficient = 1
+i = -0.21433576555327857, coefficient = 2
+i = 0.059009158345468916, coefficient = 3
+
+For x = 0.7:
+i = 0.4269899991861921, coefficient = 0
+i = 0.7273024189737554, coefficient = 1
+i = -0.2131602833500243, coefficient = 2
+i = 0.058867865190076814, coefficient = 3
+
+For x = 0.71:
+i = 0.4472517362979941, coefficient = 0
+i = 0.705551888089968, coefficient = 1
+i = -0.21135016369569776, coefficient = 2
+i = 0.05854653930773534, coefficient = 3
+
+For x = 0.72:
+i = 0.46798094105040877, coefficient = 0
+i = 0.682872790488244, coefficient = 1
+i = -0.2088943200359089, coefficient = 2
+i = 0.05804058849725614, coefficient = 3
+
+For x = 0.73:
+i = 0.48918220564462384, coefficient = 0
+i = 0.6592540396141928, coefficient = 1
+i = -0.20578166581626758, coefficient = 2
+i = 0.05734542055745076, coefficient = 3
+
+For x = 0.74:
+i = 0.5108601222818283, coefficient = 0
+i = 0.6346845489134245, coefficient = 1
+i = -0.20200111448238373, coefficient = 2
+i = 0.056456443287130925, coefficient = 3
+
+For x = 0.75:
+i = 0.5330192831632102, coefficient = 0
+i = 0.6091532318315488, coefficient = 1
+i = -0.19754157947986722, coefficient = 2
+i = 0.05536906448510816, coefficient = 3
+
+For x = 0.76:
+i = 0.555664280489958, coefficient = 0
+i = 0.5826490018141757, coefficient = 1
+i = -0.1923919742543278, coefficient = 2
+i = 0.054078691950194144, coefficient = 3
+
+For x = 0.77:
+i = 0.57879970646326, coefficient = 0
+i = 0.5551607723069149, coefficient = 1
+i = -0.1865412122513754, coefficient = 2
+i = 0.052580733481200466, coefficient = 3
+
+For x = 0.78:
+i = 0.6024301532843047, coefficient = 0
+i = 0.5266774567553764, coefficient = 1
+i = -0.17997820691661984, coefficient = 2
+i = 0.05087059687693876, coefficient = 3
+
+For x = 0.79:
+i = 0.6265602131542803, coefficient = 0
+i = 0.49718796860516995, coefficient = 1
+i = -0.1726918716956711, coefficient = 2
+i = 0.048943689936220634, coefficient = 3
+
+For x = 0.8:
+i = 0.6511944782743757, coefficient = 0
+i = 0.46668122130190554, coefficient = 1
+i = -0.16467112003413892, coefficient = 2
+i = 0.04679542045785772, coefficient = 3
+
+For x = 0.81:
+i = 0.6763375408457786, coefficient = 0
+i = 0.43514612829119287, coefficient = 1
+i = -0.15590486537763323, coefficient = 2
+i = 0.04442119624066162, coefficient = 3
+
+For x = 0.8200000000000001:
+i = 0.7019939930696778, coefficient = 0
+i = 0.4025716030186422, coefficient = 1
+i = -0.14638202117176385, coefficient = 2
+i = 0.04181642508344398, coefficient = 3
+
+For x = 0.8300000000000001:
+i = 0.7281684271472614, coefficient = 0
+i = 0.3689465589298629, coefficient = 1
+i = -0.13609150086214072, coefficient = 2
+i = 0.03897651478501638, coefficient = 3
+
+For x = 0.8400000000000001:
+i = 0.7548654352797181, coefficient = 0
+i = 0.33425990947046513, coefficient = 1
+i = -0.12502221789437365, coefficient = 2
+i = 0.03589687314419047, coefficient = 3
+
+For x = 0.8500000000000001:
+i = 0.7820896096682359, coefficient = 0
+i = 0.29850056808605857, coefficient = 1
+i = -0.11316308571407246, coefficient = 2
+i = 0.03257290795977785, coefficient = 3
+
+For x = 0.8600000000000001:
+i = 0.8098455425140035, coefficient = 0
+i = 0.26165744822225334, coefficient = 1
+i = -0.1005030177668471, coefficient = 2
+i = 0.029000027030590157, coefficient = 3
+
+For x = 0.8700000000000001:
+i = 0.8381378260182093, coefficient = 0
+i = 0.22371946332465897, coefficient = 1
+i = -0.0870309274983074, coefficient = 2
+i = 0.025173638155438993, coefficient = 3
+
+For x = 0.8799999999999999:
+i = 0.8669710523820408, coefficient = 0
+i = 0.18467552683888652, coefficient = 1
+i = -0.07273572835406354, coefficient = 2
+i = 0.021089149133136083, coefficient = 3
+
+For x = 0.8899999999999999:
+i = 0.8963498138066879, coefficient = 0
+i = 0.14451455221054393, coefficient = 1
+i = -0.05760633377972479, coefficient = 2
+i = 0.016741967762492857, coefficient = 3
+
+For x = 0.8999999999999999:
+i = 0.9262787024933381, coefficient = 0
+i = 0.10322545288524199, coefficient = 1
+i = -0.04163165722090126, coefficient = 2
+i = 0.012127501842321026, coefficient = 3
+
+For x = 0.9099999999999999:
+i = 0.9567623106431801, coefficient = 0
+i = 0.06079714230859056, coefficient = 1
+i = -0.024800612123202868, coefficient = 2
+i = 0.007241159171432209, coefficient = 3
+
+For x = 0.9199999999999999:
+i = 0.9878052304574019, coefficient = 0
+i = 0.01721853392619947, coefficient = 1
+i = -0.007102111932239453, coefficient = 2
+i = 0.0020783475486380186, coefficient = 3
+
+For x = 0.9299999999999999:
+i = 1.0194120541371923, coefficient = 0
+i = -0.027521458816321388, coefficient = 1
+i = 0.011474929906379114, coefficient = 2
+i = -0.00336552522724992, coefficient = 3
+
+For x = 0.94:
+i = 1.0515873738837394, coefficient = 0
+i = -0.07343392247336214, coefficient = 1
+i = 0.03094159994704297, coefficient = 2
+i = -0.00909505135741999, coefficient = 3
+
+For x = 0.95:
+i = 1.084335781898231, coefficient = 0
+i = -0.12052994359931296, coefficient = 1
+i = 0.05130898474414226, coefficient = 2
+i = -0.015114823043060574, coefficient = 3
+
+For x = 0.96:
+i = 1.1176618703818568, coefficient = 0
+i = -0.16882060874856394, coefficient = 1
+i = 0.07258817085206709, coefficient = 2
+i = -0.021429432485360046, coefficient = 3
+
+For x = 0.97:
+i = 1.151570231535804, coefficient = 0
+i = -0.21831700447550526, coefficient = 1
+i = 0.09479024482520762, coefficient = 2
+i = -0.0280434718855068, coefficient = 3
+
+For x = 0.98:
+i = 1.1860654575612621, coefficient = 0
+i = -0.2690302173345269, coefficient = 1
+i = 0.11792629321795399, coefficient = 2
+i = -0.0349615334446892, coefficient = 3
+
+For x = 0.99:
+i = 1.2211521406594188, coefficient = 0
+i = -0.3209713338800194, coefficient = 1
+i = 0.1420074025846963, coefficient = 2
+i = -0.04218820936409565, coefficient = 3
+
+For x = 1.0:
+i = 1.2568348730314616, coefficient = 0
+i = -0.37415144066637235, coefficient = 1
+i = 0.16704465947982475, coefficient = 2
+i = -0.0497280918449145, coefficient = 3
+
+For x = -1.0:
+i = -0.049728091844914515, coefficient = 0
+i = 0.1670446594798248, coefficient = 1
+i = -0.3741514406663723, coefficient = 2
+i = 1.2568348730314618, coefficient = 3
+
+For x = -0.99:
+i = -0.04218820936409567, coefficient = 0
+i = 0.14200740258469635, coefficient = 1
+i = -0.3209713338800193, coefficient = 2
+i = 1.2211521406594188, coefficient = 3
+
+For x = -0.98:
+i = -0.03496153344468922, coefficient = 0
+i = 0.11792629321795403, coefficient = 1
+i = -0.269030217334527, coefficient = 2
+i = 1.1860654575612621, coefficient = 3
+
+For x = -0.97:
+i = -0.028043471885506804, coefficient = 0
+i = 0.09479024482520765, coefficient = 1
+i = -0.21831700447550523, coefficient = 2
+i = 1.1515702315358043, coefficient = 3
+
+For x = -0.96:
+i = -0.02142943248536006, coefficient = 0
+i = 0.07258817085206712, coefficient = 1
+i = -0.16882060874856392, coefficient = 2
+i = 1.1176618703818568, coefficient = 3
+
+For x = -0.95:
+i = -0.015114823043060579, coefficient = 0
+i = 0.05130898474414227, coefficient = 1
+i = -0.12052994359931295, coefficient = 2
+i = 1.0843357818982313, coefficient = 3
+
+For x = -0.94:
+i = -0.009095051357419994, coefficient = 0
+i = 0.03094159994704299, coefficient = 1
+i = -0.07343392247336214, coefficient = 2
+i = 1.0515873738837391, coefficient = 3
+
+For x = -0.9299999999999999:
+i = -0.0033655252272499214, coefficient = 0
+i = 0.01147492990637912, coefficient = 1
+i = -0.02752145881632138, coefficient = 2
+i = 1.0194120541371923, coefficient = 3
+
+For x = -0.92:
+i = 0.0020783475486379614, coefficient = 0
+i = -0.007102111932239254, coefficient = 1
+i = 0.01721853392619898, coefficient = 2
+i = 0.9878052304574024, coefficient = 3
+
+For x = -0.91:
+i = 0.007241159171432155, coefficient = 0
+i = -0.02480061212320268, coefficient = 1
+i = 0.06079714230859006, coefficient = 2
+i = 0.9567623106431803, coefficient = 3
+
+For x = -0.9:
+i = 0.012127501842320983, coefficient = 0
+i = -0.041631657220901105, coefficient = 1
+i = 0.10322545288524154, coefficient = 2
+i = 0.9262787024933388, coefficient = 3
+
+For x = -0.89:
+i = 0.016741967762492815, coefficient = 0
+i = -0.05760633377972462, coefficient = 1
+i = 0.14451455221054346, coefficient = 2
+i = 0.8963498138066881, coefficient = 3
+
+For x = -0.88:
+i = 0.021089149133136056, coefficient = 0
+i = -0.07273572835406342, coefficient = 1
+i = 0.1846755268388861, coefficient = 2
+i = 0.8669710523820414, coefficient = 3
+
+For x = -0.87:
+i = 0.02517363815543905, coefficient = 0
+i = -0.0870309274983076, coefficient = 1
+i = 0.2237194633246594, coefficient = 2
+i = 0.838137826018209, coefficient = 3
+
+For x = -0.86:
+i = 0.029000027030590212, coefficient = 0
+i = -0.1005030177668473, coefficient = 1
+i = 0.26165744822225373, coefficient = 2
+i = 0.8098455425140035, coefficient = 3
+
+For x = -0.85:
+i = 0.03257290795977791, coefficient = 0
+i = -0.11316308571407267, coefficient = 1
+i = 0.29850056808605896, coefficient = 2
+i = 0.7820896096682357, coefficient = 3
+
+For x = -0.84:
+i = 0.03589687314419052, coefficient = 0
+i = -0.12502221789437382, coefficient = 1
+i = 0.3342599094704655, coefficient = 2
+i = 0.7548654352797178, coefficient = 3
+
+For x = -0.83:
+i = 0.03897651478501643, coefficient = 0
+i = -0.1360915008621409, coefficient = 1
+i = 0.3689465589298631, coefficient = 2
+i = 0.728168427147261, coefficient = 3
+
+For x = -0.8200000000000001:
+i = 0.041816425083444, coefficient = 0
+i = -0.1463820211717639, coefficient = 1
+i = 0.4025716030186421, coefficient = 2
+i = 0.7019939930696778, coefficient = 3
+
+For x = -0.81:
+i = 0.044421196240661646, coefficient = 0
+i = -0.1559048653776333, coefficient = 1
+i = 0.4351461282911929, coefficient = 2
+i = 0.6763375408457786, coefficient = 3
+
+For x = -0.8:
+i = 0.04679542045785775, coefficient = 0
+i = -0.16467112003413903, coefficient = 1
+i = 0.4666812213019054, coefficient = 2
+i = 0.6511944782743758, coefficient = 3
+
+For x = -0.79:
+i = 0.04894368993622066, coefficient = 0
+i = -0.17269187169567118, coefficient = 1
+i = 0.49718796860516995, coefficient = 2
+i = 0.6265602131542806, coefficient = 3
+
+For x = -0.78:
+i = 0.05087059687693879, coefficient = 0
+i = -0.17997820691661995, coefficient = 1
+i = 0.5266774567553762, coefficient = 2
+i = 0.6024301532843048, coefficient = 3
+
+For x = -0.77:
+i = 0.0525807334812005, coefficient = 0
+i = -0.18654121225137552, coefficient = 1
+i = 0.5551607723069147, coefficient = 2
+i = 0.5787997064632602, coefficient = 3
+
+For x = -0.76:
+i = 0.054078691950194165, coefficient = 0
+i = -0.19239197425432789, coefficient = 1
+i = 0.5826490018141756, coefficient = 2
+i = 0.5556642804899581, coefficient = 3
+
+For x = -0.75:
+i = 0.0553690644851082, coefficient = 0
+i = -0.19754157947986728, coefficient = 1
+i = 0.6091532318315488, coefficient = 2
+i = 0.5330192831632103, coefficient = 3
+
+For x = -0.74:
+i = 0.056456443287130946, coefficient = 0
+i = -0.20200111448238386, coefficient = 1
+i = 0.6346845489134245, coefficient = 2
+i = 0.5108601222818284, coefficient = 3
+
+For x = -0.73:
+i = 0.05734542055745081, coefficient = 0
+i = -0.20578166581626772, coefficient = 1
+i = 0.6592540396141928, coefficient = 2
+i = 0.489182205644624, coefficient = 3
+
+For x = -0.72:
+i = 0.058040588497256164, coefficient = 0
+i = -0.20889432003590905, coefficient = 1
+i = 0.682872790488244, coefficient = 2
+i = 0.4679809410504089, coefficient = 3
+
+For x = -0.71:
+i = 0.058546539307735394, coefficient = 0
+i = -0.21135016369569784, coefficient = 1
+i = 0.705551888089968, coefficient = 2
+i = 0.4472517362979943, coefficient = 3
+
+For x = -0.7:
+i = 0.05886786519007685, coefficient = 0
+i = -0.21316028335002432, coefficient = 1
+i = 0.7273024189737554, coefficient = 2
+i = 0.4269899991861922, coefficient = 3
+
+For x = -0.69:
+i = 0.05900915834546896, coefficient = 0
+i = -0.2143357655532787, coefficient = 1
+i = 0.7481354696939956, coefficient = 2
+i = 0.407191137513814, coefficient = 3
+
+For x = -0.6799999999999999:
+i = 0.05897501097510009, coefficient = 0
+i = -0.21488769685985104, coefficient = 1
+i = 0.7680621268050795, coefficient = 2
+i = 0.38785055907967153, coefficient = 3
+
+For x = -0.6699999999999999:
+i = 0.0587700152801586, coefficient = 0
+i = -0.21482716382413142, coefficient = 1
+i = 0.7870934768613965, coefficient = 2
+i = 0.36896367168257616, coefficient = 3
+
+For x = -0.6599999999999999:
+i = 0.05839876346183289, coefficient = 0
+i = -0.2141652530005101, coefficient = 1
+i = 0.8052406064173374, coefficient = 2
+i = 0.3505258831213397, coefficient = 3
+
+For x = -0.65:
+i = 0.05786584772131136, coefficient = 0
+i = -0.21291305094337715, coefficient = 1
+i = 0.822514602027292, coefficient = 2
+i = 0.33253260119477396, coefficient = 3
+
+For x = -0.64:
+i = 0.05717586025978235, coefficient = 0
+i = -0.21108164420712264, coefficient = 1
+i = 0.8389265502456501, coefficient = 2
+i = 0.3149792337016899, coefficient = 3
+
+For x = -0.63:
+i = 0.056333393278434285, coefficient = 0
+i = -0.20868211934613684, coefficient = 1
+i = 0.8544875376268029, coefficient = 2
+i = 0.29786118844089976, coefficient = 3
+
+For x = -0.62:
+i = 0.05534303897845548, coefficient = 0
+i = -0.20572556291480973, coefficient = 1
+i = 0.8692086507251393, coefficient = 2
+i = 0.28117387321121473, coefficient = 3
+
+For x = -0.61:
+i = 0.054209389561034396, coefficient = 0
+i = -0.20222306146753163, coefficient = 1
+i = 0.8831009760950503, coefficient = 2
+i = 0.2649126958114468, coefficient = 3
+
+For x = -0.6:
+i = 0.05293703722735935, coefficient = 0
+i = -0.1981857015586925, coefficient = 1
+i = 0.8961756002909256, coefficient = 2
+i = 0.24907306404040733, coefficient = 3
+
+For x = -0.5900000000000001:
+i = 0.05153057417861876, coefficient = 0
+i = -0.19362456974268266, coefficient = 1
+i = 0.9084436098671556, coefficient = 2
+i = 0.23365038569690832, coefficient = 3
+
+For x = -0.5800000000000001:
+i = 0.049994592616001005, coefficient = 0
+i = -0.18855075257389206, coefficient = 1
+i = 0.9199160913781302, coefficient = 2
+i = 0.21864006857976082, coefficient = 3
+
+For x = -0.5700000000000001:
+i = 0.04833368474069445, coefficient = 0
+i = -0.18297533660671092, coefficient = 1
+i = 0.9306041313782395, coefficient = 2
+i = 0.20403752048777682, coefficient = 3
+
+For x = -0.56:
+i = 0.04655244275388748, coefficient = 0
+i = -0.17690940839552935, coefficient = 1
+i = 0.9405188164218742, coefficient = 2
+i = 0.18983814921976777, coefficient = 3
+
+For x = -0.55:
+i = 0.04465545885676847, coefficient = 0
+i = -0.17036405449473754, coefficient = 1
+i = 0.9496712330634235, coefficient = 2
+i = 0.17603736257454541, coefficient = 3
+
+For x = -0.54:
+i = 0.04264732525052582, coefficient = 0
+i = -0.16335036145872556, coefficient = 1
+i = 0.9580724678572783, coefficient = 2
+i = 0.1626305683509213, coefficient = 3
+
+For x = -0.53:
+i = 0.0405326341363479, coefficient = 0
+i = -0.15587941584188358, coefficient = 1
+i = 0.9657336073578285, coefficient = 2
+i = 0.14961317434770707, coefficient = 3
+
+For x = -0.52:
+i = 0.0383159777154231, coefficient = 0
+i = -0.14796230419860176, coefficient = 1
+i = 0.9726657381194642, coefficient = 2
+i = 0.1369805883637144, coefficient = 3
+
+For x = -0.51:
+i = 0.03600194818893977, coefficient = 0
+i = -0.13961011308327018, coefficient = 1
+i = 0.9788799466965755, coefficient = 2
+i = 0.1247282181977548, coefficient = 3
+
+For x = -0.5:
+i = 0.033595137758086334, coefficient = 0
+i = -0.13083392905027902, coefficient = 1
+i = 0.9843873196435526, coefficient = 2
+i = 0.11285147164863996, coefficient = 3
+
+For x = -0.49:
+i = 0.031100138624051154, coefficient = 0
+i = -0.12164483865401836, coefficient = 1
+i = 0.9891989435147857, coefficient = 2
+i = 0.1013457565151815, coefficient = 3
+
+For x = -0.48:
+i = 0.028521542988022598, coefficient = 0
+i = -0.11205392844887838, coefficient = 1
+i = 0.9933259048646647, coefficient = 2
+i = 0.090206480596191, coefficient = 3
+
+For x = -0.47:
+i = 0.025863943051189064, coefficient = 0
+i = -0.10207228498924924, coefficient = 1
+i = 0.99677929024758, coefficient = 2
+i = 0.07942905169048013, coefficient = 3
+
+For x = -0.45999999999999996:
+i = 0.023131931014738934, coefficient = 0
+i = -0.09171099482952101, coefficient = 1
+i = 0.9995701862179214, coefficient = 2
+i = 0.06900887759686047, coefficient = 3
+
+For x = -0.44999999999999996:
+i = 0.02033009907986058, coefficient = 0
+i = -0.08098114452408386, coefficient = 1
+i = 1.0017096793300797, coefficient = 2
+i = 0.05894136611414364, coefficient = 3
+
+For x = -0.43999999999999995:
+i = 0.017463039447742388, coefficient = 0
+i = -0.06989382062732793, coefficient = 1
+i = 1.0032088561384442, coefficient = 2
+i = 0.04922192504114128, coefficient = 3
+
+For x = -0.43000000000000005:
+i = 0.014535344319572771, coefficient = 0
+i = -0.05846010969364349, coefficient = 1
+i = 1.0040788031974055, coefficient = 2
+i = 0.03984596217666509, coefficient = 3
+
+For x = -0.42000000000000004:
+i = 0.011551605896540045, coefficient = 0
+i = -0.04669109827742041, coefficient = 1
+i = 1.0043306070613538, coefficient = 2
+i = 0.030808885319526507, coefficient = 3
+
+For x = -0.41000000000000003:
+i = 0.008516416379832623, coefficient = 0
+i = -0.03459787293304894, coefficient = 1
+i = 1.003975354284679, coefficient = 2
+i = 0.022106102268537216, coefficient = 3
+
+For x = -0.4:
+i = 0.005434367970638885, coefficient = 0
+i = -0.022191520214919234, coefficient = 1
+i = 1.0030241314217714, coefficient = 2
+i = 0.013733020822508876, coefficient = 3
+
+For x = -0.39:
+i = 0.002310052870147214, coefficient = 0
+i = -0.009483126677421412, coefficient = 1
+i = 1.0014880250270208, coefficient = 2
+i = 0.005685048780253084, coefficient = 3
+
+For x = -0.38:
+i = -0.0008519367204540097, coefficient = 0
+i = 0.0035162211250543804, coefficient = 1
+i = 0.9993781216548182, coefficient = 2
+i = -0.002042406059418536, coefficient = 3
+
+For x = -0.37:
+i = -0.004047008599976405, coefficient = 0
+i = 0.016795436638118007, coefficient = 1
+i = 0.9967055078595526, coefficient = 2
+i = -0.009453935897694363, coefficient = 3
+
+For x = -0.36:
+i = -0.00727057056723159, coefficient = 0
+i = 0.03034343330737935, coefficient = 1
+i = 0.9934812701956149, coefficient = 2
+i = -0.016554132935762786, coefficient = 3
+
+For x = -0.35:
+i = -0.010518030421031185, coefficient = 0
+i = 0.04414912457844824, coefficient = 1
+i = 0.9897164952173949, coefficient = 2
+i = -0.023347589374812173, coefficient = 3
+
+For x = -0.33999999999999997:
+i = -0.01378479596018681, coefficient = 0
+i = 0.058201423896934584, coefficient = 1
+i = 0.9854222694792831, coefficient = 2
+i = -0.029838897416030918, coefficient = 3
+
+For x = -0.32999999999999996:
+i = -0.01706627498351008, coefficient = 0
+i = 0.0724892447084482, coefficient = 1
+i = 0.980609679535669, coefficient = 2
+i = -0.03603264926060739, coefficient = 3
+
+For x = -0.31999999999999995:
+i = -0.020357875289812612, coefficient = 0
+i = 0.087001500458599, coefficient = 1
+i = 0.9752898119409434, coefficient = 2
+i = -0.041933437109729986, coefficient = 3
+
+For x = -0.31000000000000005:
+i = -0.023655004677906002, coefficient = 0
+i = 0.10172710459299664, coefficient = 1
+i = 0.9694737532494964, coefficient = 2
+i = -0.047545853164587, coefficient = 3
+
+For x = -0.30000000000000004:
+i = -0.026953070946601924, coefficient = 0
+i = 0.11665497055725134, coefficient = 1
+i = 0.9631725900157174, coefficient = 2
+i = -0.05287448962636696, coefficient = 3
+
+For x = -0.29000000000000004:
+i = -0.030247481894711974, coefficient = 0
+i = 0.1317740117969728, coefficient = 1
+i = 0.9563974087939972, coefficient = 2
+i = -0.0579239386962582, coefficient = 3
+
+For x = -0.28:
+i = -0.03353364532104776, coefficient = 0
+i = 0.14707314175777084, coefficient = 1
+i = 0.949159296138726, coefficient = 2
+i = -0.06269879257544904, coefficient = 3
+
+For x = -0.27:
+i = -0.03680696902442091, coefficient = 0
+i = 0.1625412738852554, coefficient = 1
+i = 0.9414693386042933, coefficient = 2
+i = -0.06720364346512793, coefficient = 3
+
+For x = -0.26:
+i = -0.04006286080364304, coefficient = 0
+i = 0.17816732162503632, coefficient = 1
+i = 0.9333386227450898, coefficient = 2
+i = -0.07144308356648321, coefficient = 3
+
+For x = -0.25:
+i = -0.043296728457525774, coefficient = 0
+i = 0.19394019842272348, coefficient = 1
+i = 0.9247782351155054, coefficient = 2
+i = -0.07542170508070327, coefficient = 3
+
+For x = -0.24:
+i = -0.04650397978488072, coefficient = 0
+i = 0.20984881772392663, coefficient = 1
+i = 0.9157992622699307, coefficient = 2
+i = -0.07914410020897651, coefficient = 3
+
+For x = -0.22999999999999998:
+i = -0.049680022584519506, coefficient = 0
+i = 0.22588209297425574, coefficient = 1
+i = 0.9064127907627549, coefficient = 2
+i = -0.08261486115249127, coefficient = 3
+
+For x = -0.21999999999999997:
+i = -0.05282026465525373, coefficient = 0
+i = 0.2420289376193207, coefficient = 1
+i = 0.896629907148369, coefficient = 2
+i = -0.08583858011243597, coefficient = 3
+
+For x = -0.20999999999999996:
+i = -0.055920113795895045, coefficient = 0
+i = 0.25827826510473134, coefficient = 1
+i = 0.8864616979811627, coefficient = 2
+i = -0.08881984928999898, coefficient = 3
+
+For x = -0.19999999999999996:
+i = -0.058974977805255055, coefficient = 0
+i = 0.2746189888760974, coefficient = 1
+i = 0.8759192498155262, coefficient = 2
+i = -0.09156326088636867, coefficient = 3
+
+For x = -0.18999999999999995:
+i = -0.06198026448214537, coefficient = 0
+i = 0.291040022379029, coefficient = 1
+i = 0.8650136492058497, coefficient = 2
+i = -0.09407340710273343, coefficient = 3
+
+For x = -0.18000000000000005:
+i = -0.06493138162537758, coefficient = 0
+i = 0.3075302790591356, coefficient = 1
+i = 0.8537559827065234, coefficient = 2
+i = -0.09635488014028161, coefficient = 3
+
+For x = -0.17000000000000004:
+i = -0.06782373703376338, coefficient = 0
+i = 0.32407867236202753, coefficient = 1
+i = 0.8421573368719375, coefficient = 2
+i = -0.09841227220020167, coefficient = 3
+
+For x = -0.16000000000000003:
+i = -0.07065273850611435, coefficient = 0
+i = 0.3406741157333145, coefficient = 1
+i = 0.8302287982564818, coefficient = 2
+i = -0.10025017548368191, coefficient = 3
+
+For x = -0.15000000000000002:
+i = -0.07341379384124211, coefficient = 0
+i = 0.35730552261860626, coefficient = 1
+i = 0.8179814534145466, coefficient = 2
+i = -0.10187318219191077, coefficient = 3
+
+For x = -0.14:
+i = -0.07610231083795826, coefficient = 0
+i = 0.37396180646351274, coefficient = 1
+i = 0.8054263889005219, coefficient = 2
+i = -0.10328588452607657, coefficient = 3
+
+For x = -0.13:
+i = -0.07871369729507445, coefficient = 0
+i = 0.3906318807136439, coefficient = 1
+i = 0.7925746912687982, coefficient = 2
+i = -0.10449287468736777, coefficient = 3
+
+For x = -0.12:
+i = -0.08124336101140227, coefficient = 0
+i = 0.4073046588146095, coefficient = 1
+i = 0.7794374470737654, coefficient = 2
+i = -0.10549874487697265, coefficient = 3
+
+For x = -0.10999999999999999:
+i = -0.08368670978575339, coefficient = 0
+i = 0.4239690542120194, coefficient = 1
+i = 0.7660257428698137, coefficient = 2
+i = -0.10630808729607971, coefficient = 3
+
+For x = -0.09999999999999998:
+i = -0.08603915141693935, coefficient = 0
+i = 0.44061398035148325, coefficient = 1
+i = 0.7523506652113331, coefficient = 2
+i = -0.10692549414587721, coefficient = 3
+
+For x = -0.08999999999999997:
+i = -0.08829609370377184, coefficient = 0
+i = 0.4572283506786115, coefficient = 1
+i = 0.738423300652714, coefficient = 2
+i = -0.10735555762755367, coefficient = 3
+
+For x = -0.07999999999999996:
+i = -0.09045294444506242, coefficient = 0
+i = 0.47380107863901344, coefficient = 1
+i = 0.7242547357483462, coefficient = 2
+i = -0.10760286994229729, coefficient = 3
+
+For x = -0.06999999999999995:
+i = -0.09250511143962277, coefficient = 0
+i = 0.49032107767829924, coefficient = 1
+i = 0.7098560570526201, coefficient = 2
+i = -0.10767202329129662, coefficient = 3
+
+For x = -0.06000000000000005:
+i = -0.09444800248626445, coefficient = 0
+i = 0.5067772612420784, coefficient = 1
+i = 0.6952383511199258, coefficient = 2
+i = -0.10756760987573995, coefficient = 3
+
+For x = -0.050000000000000044:
+i = -0.0962770253837991, coefficient = 0
+i = 0.5231585427759614, coefficient = 1
+i = 0.6804127045046533, coefficient = 2
+i = -0.10729422189681567, coefficient = 3
+
+For x = -0.040000000000000036:
+i = -0.09798758793103839, coefficient = 0
+i = 0.5394538357255576, coefficient = 1
+i = 0.6653902037611928, coefficient = 2
+i = -0.10685645155571219, coefficient = 3
+
+For x = -0.030000000000000027:
+i = -0.09957509792679384, coefficient = 0
+i = 0.5556520535364771, coefficient = 1
+i = 0.6501819354439345, coefficient = 2
+i = -0.1062588910536179, coefficient = 3
+
+For x = -0.020000000000000018:
+i = -0.10103496316987717, coefficient = 0
+i = 0.5717421096543298, coefficient = 1
+i = 0.6347989861072685, coefficient = 2
+i = -0.1055061325917211, coefficient = 3
+
+For x = -0.010000000000000009:
+i = -0.10236259145909993, coefficient = 0
+i = 0.5877129175247254, coefficient = 1
+i = 0.6192524423055848, coefficient = 2
+i = -0.1046027683712103, coefficient = 3
+
+For x = 0.0:
+i = -0.10355339059327379, coefficient = 0
+i = 0.6035533905932737, coefficient = 1
+i = 0.6035533905932737, coefficient = 2
+i = -0.10355339059327376, coefficient = 3
+
+For x = 0.010000000000000009:
+i = -0.10460276837121033, coefficient = 0
+i = 0.6192524423055847, coefficient = 1
+i = 0.5877129175247254, coefficient = 2
+i = -0.10236259145909991, coefficient = 3
+
+For x = 0.020000000000000018:
+i = -0.10550613259172115, coefficient = 0
+i = 0.6347989861072685, coefficient = 1
+i = 0.5717421096543298, coefficient = 2
+i = -0.10103496316987713, coefficient = 3
+
+For x = 0.030000000000000027:
+i = -0.10625889105361792, coefficient = 0
+i = 0.6501819354439345, coefficient = 1
+i = 0.5556520535364771, coefficient = 2
+i = -0.09957509792679384, coefficient = 3
+
+For x = 0.040000000000000036:
+i = -0.1068564515557122, coefficient = 0
+i = 0.6653902037611928, coefficient = 1
+i = 0.5394538357255577, coefficient = 2
+i = -0.09798758793103834, coefficient = 3
+
+For x = 0.050000000000000044:
+i = -0.1072942218968157, coefficient = 0
+i = 0.6804127045046534, coefficient = 1
+i = 0.5231585427759614, coefficient = 2
+i = -0.0962770253837991, coefficient = 3
+
+For x = 0.06000000000000005:
+i = -0.10756760987573996, coefficient = 0
+i = 0.6952383511199259, coefficient = 1
+i = 0.5067772612420786, coefficient = 2
+i = -0.09444800248626442, coefficient = 3
+
+For x = 0.07000000000000006:
+i = -0.10767202329129663, coefficient = 0
+i = 0.7098560570526202, coefficient = 1
+i = 0.490321077678299, coefficient = 2
+i = -0.09250511143962271, coefficient = 3
+
+For x = 0.08000000000000007:
+i = -0.10760286994229734, coefficient = 0
+i = 0.7242547357483465, coefficient = 1
+i = 0.4738010786390134, coefficient = 2
+i = -0.0904529444450624, coefficient = 3
+
+For x = 0.09000000000000008:
+i = -0.10735555762755368, coefficient = 0
+i = 0.7384233006527141, coefficient = 1
+i = 0.45722835067861134, coefficient = 2
+i = -0.08829609370377181, coefficient = 3
+
+For x = 0.10000000000000009:
+i = -0.10692549414587725, coefficient = 0
+i = 0.7523506652113333, coefficient = 1
+i = 0.4406139803514832, coefficient = 2
+i = -0.08603915141693932, coefficient = 3
+
+For x = 0.1100000000000001:
+i = -0.10630808729607974, coefficient = 0
+i = 0.7660257428698137, coefficient = 1
+i = 0.42396905421201925, coefficient = 2
+i = -0.08368670978575335, coefficient = 3
+
+For x = 0.1200000000000001:
+i = -0.1054987448769727, coefficient = 0
+i = 0.7794374470737656, coefficient = 1
+i = 0.4073046588146094, coefficient = 2
+i = -0.08124336101140224, coefficient = 3
+
+For x = 0.1299999999999999:
+i = -0.10449287468736781, coefficient = 0
+i = 0.792574691268798, coefficient = 1
+i = 0.39063188071364413, coefficient = 2
+i = -0.07871369729507448, coefficient = 3
+
+For x = 0.1399999999999999:
+i = -0.10328588452607664, coefficient = 0
+i = 0.8054263889005218, coefficient = 1
+i = 0.37396180646351307, coefficient = 2
+i = -0.07610231083795829, coefficient = 3
+
+For x = 0.1499999999999999:
+i = -0.10187318219191083, coefficient = 0
+i = 0.8179814534145463, coefficient = 1
+i = 0.3573055226186066, coefficient = 2
+i = -0.07341379384124214, coefficient = 3
+
+For x = 0.15999999999999992:
+i = -0.10025017548368198, coefficient = 0
+i = 0.8302287982564815, coefficient = 1
+i = 0.3406741157333148, coefficient = 2
+i = -0.0706527385061144, coefficient = 3
+
+For x = 0.16999999999999993:
+i = -0.09841227220020173, coefficient = 0
+i = 0.8421573368719374, coefficient = 1
+i = 0.3240786723620279, coefficient = 2
+i = -0.06782373703376342, coefficient = 3
+
+For x = 0.17999999999999994:
+i = -0.09635488014028169, coefficient = 0
+i = 0.8537559827065234, coefficient = 1
+i = 0.30753027905913594, coefficient = 2
+i = -0.06493138162537762, coefficient = 3
+
+For x = 0.18999999999999995:
+i = -0.09407340710273349, coefficient = 0
+i = 0.8650136492058498, coefficient = 1
+i = 0.2910400223790291, coefficient = 2
+i = -0.06198026448214538, coefficient = 3
+
+For x = 0.19999999999999996:
+i = -0.09156326088636872, coefficient = 0
+i = 0.8759192498155263, coefficient = 1
+i = 0.27461898887609754, coefficient = 2
+i = -0.05897497780525507, coefficient = 3
+
+For x = 0.20999999999999996:
+i = -0.08881984928999904, coefficient = 0
+i = 0.8864616979811628, coefficient = 1
+i = 0.25827826510473145, coefficient = 2
+i = -0.05592011379589506, coefficient = 3
+
+For x = 0.21999999999999997:
+i = -0.08583858011243603, coefficient = 0
+i = 0.8966299071483689, coefficient = 1
+i = 0.24202893761932082, coefficient = 2
+i = -0.052820264655253746, coefficient = 3
+
+For x = 0.22999999999999998:
+i = -0.08261486115249135, coefficient = 0
+i = 0.9064127907627549, coefficient = 1
+i = 0.22588209297425588, coefficient = 2
+i = -0.04968002258451952, coefficient = 3
+
+For x = 0.24:
+i = -0.07914410020897658, coefficient = 0
+i = 0.9157992622699307, coefficient = 1
+i = 0.20984881772392677, coefficient = 2
+i = -0.04650397978488074, coefficient = 3
+
+For x = 0.25:
+i = -0.07542170508070335, coefficient = 0
+i = 0.9247782351155055, coefficient = 1
+i = 0.1939401984227236, coefficient = 2
+i = -0.04329672845752579, coefficient = 3
+
+For x = 0.26:
+i = -0.0714430835664833, coefficient = 0
+i = 0.9333386227450899, coefficient = 1
+i = 0.17816732162503643, coefficient = 2
+i = -0.040062860803643054, coefficient = 3
+
+For x = 0.27:
+i = -0.06720364346512799, coefficient = 0
+i = 0.9414693386042933, coefficient = 1
+i = 0.16254127388525555, coefficient = 2
+i = -0.03680696902442094, coefficient = 3
+
+For x = 0.28:
+i = -0.06269879257544912, coefficient = 0
+i = 0.949159296138726, coefficient = 1
+i = 0.147073141757771, coefficient = 2
+i = -0.033533645321047786, coefficient = 3
+
+For x = 0.29000000000000004:
+i = -0.05792393869625827, coefficient = 0
+i = 0.9563974087939972, coefficient = 1
+i = 0.13177401179697293, coefficient = 2
+i = -0.030247481894712, coefficient = 3
+
+For x = 0.30000000000000004:
+i = -0.05287448962636704, coefficient = 0
+i = 0.9631725900157175, coefficient = 1
+i = 0.11665497055725148, coefficient = 2
+i = -0.02695307094660195, coefficient = 3
+
+For x = 0.31000000000000005:
+i = -0.04754585316458708, coefficient = 0
+i = 0.9694737532494966, coefficient = 1
+i = 0.10172710459299678, coefficient = 2
+i = -0.023655004677906027, coefficient = 3
+
+For x = 0.32000000000000006:
+i = -0.04193343710972999, coefficient = 0
+i = 0.9752898119409437, coefficient = 1
+i = 0.08700150045859896, coefficient = 2
+i = -0.02035787528981261, coefficient = 3
+
+For x = 0.33000000000000007:
+i = -0.0360326492606074, coefficient = 0
+i = 0.9806096795356691, coefficient = 1
+i = 0.07248924470844818, coefficient = 2
+i = -0.01706627498351007, coefficient = 3
+
+For x = 0.3400000000000001:
+i = -0.029838897416030925, coefficient = 0
+i = 0.9854222694792831, coefficient = 1
+i = 0.05820142389693456, coefficient = 2
+i = -0.013784795960186804, coefficient = 3
+
+For x = 0.3500000000000001:
+i = -0.023347589374812183, coefficient = 0
+i = 0.9897164952173951, coefficient = 1
+i = 0.04414912457844823, coefficient = 2
+i = -0.010518030421031182, coefficient = 3
+
+For x = 0.3600000000000001:
+i = -0.01655413293576279, coefficient = 0
+i = 0.993481270195615, coefficient = 1
+i = 0.030343433307379333, coefficient = 2
+i = -0.007270570567231588, coefficient = 3
+
+For x = 0.3700000000000001:
+i = -0.009453935897694367, coefficient = 0
+i = 0.9967055078595526, coefficient = 1
+i = 0.016795436638118003, coefficient = 2
+i = -0.004047008599976403, coefficient = 3
+
+For x = 0.3799999999999999:
+i = -0.0020424060594187044, coefficient = 0
+i = 0.9993781216548182, coefficient = 1
+i = 0.0035162211250546714, coefficient = 2
+i = -0.00085193672045408, coefficient = 3
+
+For x = 0.3899999999999999:
+i = 0.005685048780252911, coefficient = 0
+i = 1.0014880250270213, coefficient = 1
+i = -0.009483126677421122, coefficient = 2
+i = 0.002310052870147143, coefficient = 3
+
+For x = 0.3999999999999999:
+i = 0.013733020822508695, coefficient = 0
+i = 1.0030241314217714, coefficient = 1
+i = -0.022191520214918947, coefficient = 2
+i = 0.005434367970638813, coefficient = 3
+
+For x = 0.4099999999999999:
+i = 0.02210610226853704, coefficient = 0
+i = 1.003975354284679, coefficient = 1
+i = -0.03459787293304866, coefficient = 2
+i = 0.00851641637983255, coefficient = 3
+
+For x = 0.41999999999999993:
+i = 0.03080888531952631, coefficient = 0
+i = 1.004330607061354, coefficient = 1
+i = -0.04669109827742012, coefficient = 2
+i = 0.011551605896539972, coefficient = 3
+
+For x = 0.42999999999999994:
+i = 0.0398459621766649, coefficient = 0
+i = 1.0040788031974055, coefficient = 1
+i = -0.058460109693643215, coefficient = 2
+i = 0.0145353443195727, coefficient = 3
+
+For x = 0.43999999999999995:
+i = 0.049221925041141194, coefficient = 0
+i = 1.0032088561384442, coefficient = 1
+i = -0.0698938206273278, coefficient = 2
+i = 0.017463039447742346, coefficient = 3
+
+For x = 0.44999999999999996:
+i = 0.058941366114143544, coefficient = 0
+i = 1.0017096793300797, coefficient = 1
+i = -0.08098114452408373, coefficient = 2
+i = 0.02033009907986054, coefficient = 3
+
+For x = 0.45999999999999996:
+i = 0.06900887759686038, coefficient = 0
+i = 0.9995701862179216, coefficient = 1
+i = -0.09171099482952087, coefficient = 2
+i = 0.023131931014738896, coefficient = 3
+
+For x = 0.47:
+i = 0.07942905169048003, coefficient = 0
+i = 0.99677929024758, coefficient = 1
+i = -0.10207228498924907, coefficient = 2
+i = 0.02586394305118903, coefficient = 3
+
+For x = 0.48:
+i = 0.09020648059619092, coefficient = 0
+i = 0.9933259048646648, coefficient = 1
+i = -0.11205392844887824, coefficient = 2
+i = 0.028521542988022557, coefficient = 3
+
+For x = 0.49:
+i = 0.1013457565151814, coefficient = 0
+i = 0.9891989435147858, coefficient = 1
+i = -0.12164483865401819, coefficient = 2
+i = 0.031100138624051105, coefficient = 3
+
+For x = 0.5:
+i = 0.11285147164863986, coefficient = 0
+i = 0.9843873196435526, coefficient = 1
+i = -0.13083392905027885, coefficient = 2
+i = 0.03359513775808629, coefficient = 3
+
+For x = 0.51:
+i = 0.12472821819775469, coefficient = 0
+i = 0.9788799466965756, coefficient = 1
+i = -0.13961011308327, coefficient = 2
+i = 0.03600194818893973, coefficient = 3
+
+For x = 0.52:
+i = 0.1369805883637143, coefficient = 0
+i = 0.9726657381194642, coefficient = 1
+i = -0.14796230419860162, coefficient = 2
+i = 0.03831597771542305, coefficient = 3
+
+For x = 0.53:
+i = 0.149613174347707, coefficient = 0
+i = 0.9657336073578288, coefficient = 1
+i = -0.15587941584188345, coefficient = 2
+i = 0.040532634136347855, coefficient = 3
+
+For x = 0.54:
+i = 0.16263056835092118, coefficient = 0
+i = 0.9580724678572784, coefficient = 1
+i = -0.16335036145872545, coefficient = 2
+i = 0.04264732525052578, coefficient = 3
+
+For x = 0.55:
+i = 0.1760373625745453, coefficient = 0
+i = 0.9496712330634238, coefficient = 1
+i = -0.1703640544947374, coefficient = 2
+i = 0.044655458856768436, coefficient = 3
+
+For x = 0.56:
+i = 0.18983814921976763, coefficient = 0
+i = 0.9405188164218742, coefficient = 1
+i = -0.17690940839552918, coefficient = 2
+i = 0.04655244275388744, coefficient = 3
+
+For x = 0.5700000000000001:
+i = 0.20403752048777665, coefficient = 0
+i = 0.9306041313782397, coefficient = 1
+i = -0.18297533660671078, coefficient = 2
+i = 0.048333684740694396, coefficient = 3
+
+For x = 0.5800000000000001:
+i = 0.2186400685797607, coefficient = 0
+i = 0.9199160913781302, coefficient = 1
+i = -0.18855075257389187, coefficient = 2
+i = 0.04999459261600096, coefficient = 3
+
+For x = 0.5900000000000001:
+i = 0.2336503856969082, coefficient = 0
+i = 0.9084436098671557, coefficient = 1
+i = -0.19362456974268255, coefficient = 2
+i = 0.05153057417861872, coefficient = 3
+
+For x = 0.6000000000000001:
+i = 0.2490730640404074, coefficient = 0
+i = 0.8961756002909257, coefficient = 1
+i = -0.19818570155869242, coefficient = 2
+i = 0.05293703722735932, coefficient = 3
+
+For x = 0.6100000000000001:
+i = 0.26491269581144683, coefficient = 0
+i = 0.8831009760950502, coefficient = 1
+i = -0.20222306146753152, coefficient = 2
+i = 0.05420938956103435, coefficient = 3
+
+For x = 0.6200000000000001:
+i = 0.28117387321121484, coefficient = 0
+i = 0.8692086507251391, coefficient = 1
+i = -0.20572556291480965, coefficient = 2
+i = 0.05534303897845545, coefficient = 3
+
+For x = 0.6299999999999999:
+i = 0.29786118844089937, coefficient = 0
+i = 0.8544875376268027, coefficient = 1
+i = -0.20868211934613667, coefficient = 2
+i = 0.056333393278434216, coefficient = 3
+
+For x = 0.6399999999999999:
+i = 0.3149792337016897, coefficient = 0
+i = 0.8389265502456505, coefficient = 1
+i = -0.21108164420712253, coefficient = 2
+i = 0.05717586025978231, coefficient = 3
+
+For x = 0.6499999999999999:
+i = 0.3325326011947735, coefficient = 0
+i = 0.822514602027292, coefficient = 1
+i = -0.212913050943377, coefficient = 2
+i = 0.05786584772131131, coefficient = 3
+
+For x = 0.6599999999999999:
+i = 0.35052588312133964, coefficient = 0
+i = 0.8052406064173376, coefficient = 1
+i = -0.2141652530005099, coefficient = 2
+i = 0.05839876346183286, coefficient = 3
+
+For x = 0.6699999999999999:
+i = 0.368963671682576, coefficient = 0
+i = 0.7870934768613966, coefficient = 1
+i = -0.2148271638241313, coefficient = 2
+i = 0.05877001528015855, coefficient = 3
+
+For x = 0.6799999999999999:
+i = 0.3878505590796714, coefficient = 0
+i = 0.7680621268050796, coefficient = 1
+i = -0.2148876968598509, coefficient = 2
+i = 0.05897501097510006, coefficient = 3
+
+For x = 0.69:
+i = 0.4071911375138138, coefficient = 0
+i = 0.7481354696939955, coefficient = 1
+i = -0.21433576555327857, coefficient = 2
+i = 0.059009158345468916, coefficient = 3
+
+For x = 0.7:
+i = 0.4269899991861921, coefficient = 0
+i = 0.7273024189737554, coefficient = 1
+i = -0.2131602833500243, coefficient = 2
+i = 0.058867865190076814, coefficient = 3
+
+For x = 0.71:
+i = 0.4472517362979941, coefficient = 0
+i = 0.705551888089968, coefficient = 1
+i = -0.21135016369569776, coefficient = 2
+i = 0.05854653930773534, coefficient = 3
+
+For x = 0.72:
+i = 0.46798094105040877, coefficient = 0
+i = 0.682872790488244, coefficient = 1
+i = -0.2088943200359089, coefficient = 2
+i = 0.05804058849725614, coefficient = 3
+
+For x = 0.73:
+i = 0.48918220564462384, coefficient = 0
+i = 0.6592540396141928, coefficient = 1
+i = -0.20578166581626758, coefficient = 2
+i = 0.05734542055745076, coefficient = 3
+
+For x = 0.74:
+i = 0.5108601222818283, coefficient = 0
+i = 0.6346845489134245, coefficient = 1
+i = -0.20200111448238373, coefficient = 2
+i = 0.056456443287130925, coefficient = 3
+
+For x = 0.75:
+i = 0.5330192831632102, coefficient = 0
+i = 0.6091532318315488, coefficient = 1
+i = -0.19754157947986722, coefficient = 2
+i = 0.05536906448510816, coefficient = 3
+
+For x = 0.76:
+i = 0.555664280489958, coefficient = 0
+i = 0.5826490018141757, coefficient = 1
+i = -0.1923919742543278, coefficient = 2
+i = 0.054078691950194144, coefficient = 3
+
+For x = 0.77:
+i = 0.57879970646326, coefficient = 0
+i = 0.5551607723069149, coefficient = 1
+i = -0.1865412122513754, coefficient = 2
+i = 0.052580733481200466, coefficient = 3
+
+For x = 0.78:
+i = 0.6024301532843047, coefficient = 0
+i = 0.5266774567553764, coefficient = 1
+i = -0.17997820691661984, coefficient = 2
+i = 0.05087059687693876, coefficient = 3
+
+For x = 0.79:
+i = 0.6265602131542803, coefficient = 0
+i = 0.49718796860516995, coefficient = 1
+i = -0.1726918716956711, coefficient = 2
+i = 0.048943689936220634, coefficient = 3
+
+For x = 0.8:
+i = 0.6511944782743757, coefficient = 0
+i = 0.46668122130190554, coefficient = 1
+i = -0.16467112003413892, coefficient = 2
+i = 0.04679542045785772, coefficient = 3
+
+For x = 0.81:
+i = 0.6763375408457786, coefficient = 0
+i = 0.43514612829119287, coefficient = 1
+i = -0.15590486537763323, coefficient = 2
+i = 0.04442119624066162, coefficient = 3
+
+For x = 0.8200000000000001:
+i = 0.7019939930696778, coefficient = 0
+i = 0.4025716030186422, coefficient = 1
+i = -0.14638202117176385, coefficient = 2
+i = 0.04181642508344398, coefficient = 3
+
+For x = 0.8300000000000001:
+i = 0.7281684271472614, coefficient = 0
+i = 0.3689465589298629, coefficient = 1
+i = -0.13609150086214072, coefficient = 2
+i = 0.03897651478501638, coefficient = 3
+
+For x = 0.8400000000000001:
+i = 0.7548654352797181, coefficient = 0
+i = 0.33425990947046513, coefficient = 1
+i = -0.12502221789437365, coefficient = 2
+i = 0.03589687314419047, coefficient = 3
+
+For x = 0.8500000000000001:
+i = 0.7820896096682359, coefficient = 0
+i = 0.29850056808605857, coefficient = 1
+i = -0.11316308571407246, coefficient = 2
+i = 0.03257290795977785, coefficient = 3
+
+For x = 0.8600000000000001:
+i = 0.8098455425140035, coefficient = 0
+i = 0.26165744822225334, coefficient = 1
+i = -0.1005030177668471, coefficient = 2
+i = 0.029000027030590157, coefficient = 3
+
+For x = 0.8700000000000001:
+i = 0.8381378260182093, coefficient = 0
+i = 0.22371946332465897, coefficient = 1
+i = -0.0870309274983074, coefficient = 2
+i = 0.025173638155438993, coefficient = 3
+
+For x = 0.8799999999999999:
+i = 0.8669710523820408, coefficient = 0
+i = 0.18467552683888652, coefficient = 1
+i = -0.07273572835406354, coefficient = 2
+i = 0.021089149133136083, coefficient = 3
+
+For x = 0.8899999999999999:
+i = 0.8963498138066879, coefficient = 0
+i = 0.14451455221054393, coefficient = 1
+i = -0.05760633377972479, coefficient = 2
+i = 0.016741967762492857, coefficient = 3
+
+For x = 0.8999999999999999:
+i = 0.9262787024933381, coefficient = 0
+i = 0.10322545288524199, coefficient = 1
+i = -0.04163165722090126, coefficient = 2
+i = 0.012127501842321026, coefficient = 3
+
+For x = 0.9099999999999999:
+i = 0.9567623106431801, coefficient = 0
+i = 0.06079714230859056, coefficient = 1
+i = -0.024800612123202868, coefficient = 2
+i = 0.007241159171432209, coefficient = 3
+
+For x = 0.9199999999999999:
+i = 0.9878052304574019, coefficient = 0
+i = 0.01721853392619947, coefficient = 1
+i = -0.007102111932239453, coefficient = 2
+i = 0.0020783475486380186, coefficient = 3
+
+For x = 0.9299999999999999:
+i = 1.0194120541371923, coefficient = 0
+i = -0.027521458816321388, coefficient = 1
+i = 0.011474929906379114, coefficient = 2
+i = -0.00336552522724992, coefficient = 3
+
+For x = 0.94:
+i = 1.0515873738837394, coefficient = 0
+i = -0.07343392247336214, coefficient = 1
+i = 0.03094159994704297, coefficient = 2
+i = -0.00909505135741999, coefficient = 3
+
+For x = 0.95:
+i = 1.084335781898231, coefficient = 0
+i = -0.12052994359931296, coefficient = 1
+i = 0.05130898474414226, coefficient = 2
+i = -0.015114823043060574, coefficient = 3
+
+For x = 0.96:
+i = 1.1176618703818568, coefficient = 0
+i = -0.16882060874856394, coefficient = 1
+i = 0.07258817085206709, coefficient = 2
+i = -0.021429432485360046, coefficient = 3
+
+For x = 0.97:
+i = 1.151570231535804, coefficient = 0
+i = -0.21831700447550526, coefficient = 1
+i = 0.09479024482520762, coefficient = 2
+i = -0.0280434718855068, coefficient = 3
+
+For x = 0.98:
+i = 1.1860654575612621, coefficient = 0
+i = -0.2690302173345269, coefficient = 1
+i = 0.11792629321795399, coefficient = 2
+i = -0.0349615334446892, coefficient = 3
+
+For x = 0.99:
+i = 1.2211521406594188, coefficient = 0
+i = -0.3209713338800194, coefficient = 1
+i = 0.1420074025846963, coefficient = 2
+i = -0.04218820936409565, coefficient = 3
+
+For x = 1.0:
+i = 1.2568348730314616, coefficient = 0
+i = -0.37415144066637235, coefficient = 1
+i = 0.16704465947982475, coefficient = 2
+i = -0.0497280918449145, coefficient = 3
+
+For x = -1.0:
+i = -0.049728091844914515, coefficient = 0
+i = 0.1670446594798248, coefficient = 1
+i = -0.3741514406663723, coefficient = 2
+i = 1.2568348730314618, coefficient = 3
+
+For x = -0.99:
+i = -0.04218820936409567, coefficient = 0
+i = 0.14200740258469635, coefficient = 1
+i = -0.3209713338800193, coefficient = 2
+i = 1.2211521406594188, coefficient = 3
+
+For x = -0.98:
+i = -0.03496153344468922, coefficient = 0
+i = 0.11792629321795403, coefficient = 1
+i = -0.269030217334527, coefficient = 2
+i = 1.1860654575612621, coefficient = 3
+
+For x = -0.97:
+i = -0.028043471885506804, coefficient = 0
+i = 0.09479024482520765, coefficient = 1
+i = -0.21831700447550523, coefficient = 2
+i = 1.1515702315358043, coefficient = 3
+
+For x = -0.96:
+i = -0.02142943248536006, coefficient = 0
+i = 0.07258817085206712, coefficient = 1
+i = -0.16882060874856392, coefficient = 2
+i = 1.1176618703818568, coefficient = 3
+
+For x = -0.95:
+i = -0.015114823043060579, coefficient = 0
+i = 0.05130898474414227, coefficient = 1
+i = -0.12052994359931295, coefficient = 2
+i = 1.0843357818982313, coefficient = 3
+
+For x = -0.94:
+i = -0.009095051357419994, coefficient = 0
+i = 0.03094159994704299, coefficient = 1
+i = -0.07343392247336214, coefficient = 2
+i = 1.0515873738837391, coefficient = 3
+
+For x = -0.9299999999999999:
+i = -0.0033655252272499214, coefficient = 0
+i = 0.01147492990637912, coefficient = 1
+i = -0.02752145881632138, coefficient = 2
+i = 1.0194120541371923, coefficient = 3
+
+For x = -0.92:
+i = 0.0020783475486379614, coefficient = 0
+i = -0.007102111932239254, coefficient = 1
+i = 0.01721853392619898, coefficient = 2
+i = 0.9878052304574024, coefficient = 3
+
+For x = -0.91:
+i = 0.007241159171432155, coefficient = 0
+i = -0.02480061212320268, coefficient = 1
+i = 0.06079714230859006, coefficient = 2
+i = 0.9567623106431803, coefficient = 3
+
+For x = -0.9:
+i = 0.012127501842320983, coefficient = 0
+i = -0.041631657220901105, coefficient = 1
+i = 0.10322545288524154, coefficient = 2
+i = 0.9262787024933388, coefficient = 3
+
+For x = -0.89:
+i = 0.016741967762492815, coefficient = 0
+i = -0.05760633377972462, coefficient = 1
+i = 0.14451455221054346, coefficient = 2
+i = 0.8963498138066881, coefficient = 3
+
+For x = -0.88:
+i = 0.021089149133136056, coefficient = 0
+i = -0.07273572835406342, coefficient = 1
+i = 0.1846755268388861, coefficient = 2
+i = 0.8669710523820414, coefficient = 3
+
+For x = -0.87:
+i = 0.02517363815543905, coefficient = 0
+i = -0.0870309274983076, coefficient = 1
+i = 0.2237194633246594, coefficient = 2
+i = 0.838137826018209, coefficient = 3
+
+For x = -0.86:
+i = 0.029000027030590212, coefficient = 0
+i = -0.1005030177668473, coefficient = 1
+i = 0.26165744822225373, coefficient = 2
+i = 0.8098455425140035, coefficient = 3
+
+For x = -0.85:
+i = 0.03257290795977791, coefficient = 0
+i = -0.11316308571407267, coefficient = 1
+i = 0.29850056808605896, coefficient = 2
+i = 0.7820896096682357, coefficient = 3
+
+For x = -0.84:
+i = 0.03589687314419052, coefficient = 0
+i = -0.12502221789437382, coefficient = 1
+i = 0.3342599094704655, coefficient = 2
+i = 0.7548654352797178, coefficient = 3
+
+For x = -0.83:
+i = 0.03897651478501643, coefficient = 0
+i = -0.1360915008621409, coefficient = 1
+i = 0.3689465589298631, coefficient = 2
+i = 0.728168427147261, coefficient = 3
+
+For x = -0.8200000000000001:
+i = 0.041816425083444, coefficient = 0
+i = -0.1463820211717639, coefficient = 1
+i = 0.4025716030186421, coefficient = 2
+i = 0.7019939930696778, coefficient = 3
+
+For x = -0.81:
+i = 0.044421196240661646, coefficient = 0
+i = -0.1559048653776333, coefficient = 1
+i = 0.4351461282911929, coefficient = 2
+i = 0.6763375408457786, coefficient = 3
+
+For x = -0.8:
+i = 0.04679542045785775, coefficient = 0
+i = -0.16467112003413903, coefficient = 1
+i = 0.4666812213019054, coefficient = 2
+i = 0.6511944782743758, coefficient = 3
+
+For x = -0.79:
+i = 0.04894368993622066, coefficient = 0
+i = -0.17269187169567118, coefficient = 1
+i = 0.49718796860516995, coefficient = 2
+i = 0.6265602131542806, coefficient = 3
+
+For x = -0.78:
+i = 0.05087059687693879, coefficient = 0
+i = -0.17997820691661995, coefficient = 1
+i = 0.5266774567553762, coefficient = 2
+i = 0.6024301532843048, coefficient = 3
+
+For x = -0.77:
+i = 0.0525807334812005, coefficient = 0
+i = -0.18654121225137552, coefficient = 1
+i = 0.5551607723069147, coefficient = 2
+i = 0.5787997064632602, coefficient = 3
+
+For x = -0.76:
+i = 0.054078691950194165, coefficient = 0
+i = -0.19239197425432789, coefficient = 1
+i = 0.5826490018141756, coefficient = 2
+i = 0.5556642804899581, coefficient = 3
+
+For x = -0.75:
+i = 0.0553690644851082, coefficient = 0
+i = -0.19754157947986728, coefficient = 1
+i = 0.6091532318315488, coefficient = 2
+i = 0.5330192831632103, coefficient = 3
+
+For x = -0.74:
+i = 0.056456443287130946, coefficient = 0
+i = -0.20200111448238386, coefficient = 1
+i = 0.6346845489134245, coefficient = 2
+i = 0.5108601222818284, coefficient = 3
+
+For x = -0.73:
+i = 0.05734542055745081, coefficient = 0
+i = -0.20578166581626772, coefficient = 1
+i = 0.6592540396141928, coefficient = 2
+i = 0.489182205644624, coefficient = 3
+
+For x = -0.72:
+i = 0.058040588497256164, coefficient = 0
+i = -0.20889432003590905, coefficient = 1
+i = 0.682872790488244, coefficient = 2
+i = 0.4679809410504089, coefficient = 3
+
+For x = -0.71:
+i = 0.058546539307735394, coefficient = 0
+i = -0.21135016369569784, coefficient = 1
+i = 0.705551888089968, coefficient = 2
+i = 0.4472517362979943, coefficient = 3
+
+For x = -0.7:
+i = 0.05886786519007685, coefficient = 0
+i = -0.21316028335002432, coefficient = 1
+i = 0.7273024189737554, coefficient = 2
+i = 0.4269899991861922, coefficient = 3
+
+For x = -0.69:
+i = 0.05900915834546896, coefficient = 0
+i = -0.2143357655532787, coefficient = 1
+i = 0.7481354696939956, coefficient = 2
+i = 0.407191137513814, coefficient = 3
+
+For x = -0.6799999999999999:
+i = 0.05897501097510009, coefficient = 0
+i = -0.21488769685985104, coefficient = 1
+i = 0.7680621268050795, coefficient = 2
+i = 0.38785055907967153, coefficient = 3
+
+For x = -0.6699999999999999:
+i = 0.0587700152801586, coefficient = 0
+i = -0.21482716382413142, coefficient = 1
+i = 0.7870934768613965, coefficient = 2
+i = 0.36896367168257616, coefficient = 3
+
+For x = -0.6599999999999999:
+i = 0.05839876346183289, coefficient = 0
+i = -0.2141652530005101, coefficient = 1
+i = 0.8052406064173374, coefficient = 2
+i = 0.3505258831213397, coefficient = 3
+
+For x = -0.65:
+i = 0.05786584772131136, coefficient = 0
+i = -0.21291305094337715, coefficient = 1
+i = 0.822514602027292, coefficient = 2
+i = 0.33253260119477396, coefficient = 3
+
+For x = -0.64:
+i = 0.05717586025978235, coefficient = 0
+i = -0.21108164420712264, coefficient = 1
+i = 0.8389265502456501, coefficient = 2
+i = 0.3149792337016899, coefficient = 3
+
+For x = -0.63:
+i = 0.056333393278434285, coefficient = 0
+i = -0.20868211934613684, coefficient = 1
+i = 0.8544875376268029, coefficient = 2
+i = 0.29786118844089976, coefficient = 3
+
+For x = -0.62:
+i = 0.05534303897845548, coefficient = 0
+i = -0.20572556291480973, coefficient = 1
+i = 0.8692086507251393, coefficient = 2
+i = 0.28117387321121473, coefficient = 3
+
+For x = -0.61:
+i = 0.054209389561034396, coefficient = 0
+i = -0.20222306146753163, coefficient = 1
+i = 0.8831009760950503, coefficient = 2
+i = 0.2649126958114468, coefficient = 3
+
+For x = -0.6:
+i = 0.05293703722735935, coefficient = 0
+i = -0.1981857015586925, coefficient = 1
+i = 0.8961756002909256, coefficient = 2
+i = 0.24907306404040733, coefficient = 3
+
+For x = -0.5900000000000001:
+i = 0.05153057417861876, coefficient = 0
+i = -0.19362456974268266, coefficient = 1
+i = 0.9084436098671556, coefficient = 2
+i = 0.23365038569690832, coefficient = 3
+
+For x = -0.5800000000000001:
+i = 0.049994592616001005, coefficient = 0
+i = -0.18855075257389206, coefficient = 1
+i = 0.9199160913781302, coefficient = 2
+i = 0.21864006857976082, coefficient = 3
+
+For x = -0.5700000000000001:
+i = 0.04833368474069445, coefficient = 0
+i = -0.18297533660671092, coefficient = 1
+i = 0.9306041313782395, coefficient = 2
+i = 0.20403752048777682, coefficient = 3
+
+For x = -0.56:
+i = 0.04655244275388748, coefficient = 0
+i = -0.17690940839552935, coefficient = 1
+i = 0.9405188164218742, coefficient = 2
+i = 0.18983814921976777, coefficient = 3
+
+For x = -0.55:
+i = 0.04465545885676847, coefficient = 0
+i = -0.17036405449473754, coefficient = 1
+i = 0.9496712330634235, coefficient = 2
+i = 0.17603736257454541, coefficient = 3
+
+For x = -0.54:
+i = 0.04264732525052582, coefficient = 0
+i = -0.16335036145872556, coefficient = 1
+i = 0.9580724678572783, coefficient = 2
+i = 0.1626305683509213, coefficient = 3
+
+For x = -0.53:
+i = 0.0405326341363479, coefficient = 0
+i = -0.15587941584188358, coefficient = 1
+i = 0.9657336073578285, coefficient = 2
+i = 0.14961317434770707, coefficient = 3
+
+For x = -0.52:
+i = 0.0383159777154231, coefficient = 0
+i = -0.14796230419860176, coefficient = 1
+i = 0.9726657381194642, coefficient = 2
+i = 0.1369805883637144, coefficient = 3
+
+For x = -0.51:
+i = 0.03600194818893977, coefficient = 0
+i = -0.13961011308327018, coefficient = 1
+i = 0.9788799466965755, coefficient = 2
+i = 0.1247282181977548, coefficient = 3
+
+For x = -0.5:
+i = 0.033595137758086334, coefficient = 0
+i = -0.13083392905027902, coefficient = 1
+i = 0.9843873196435526, coefficient = 2
+i = 0.11285147164863996, coefficient = 3
+
+For x = -0.49:
+i = 0.031100138624051154, coefficient = 0
+i = -0.12164483865401836, coefficient = 1
+i = 0.9891989435147857, coefficient = 2
+i = 0.1013457565151815, coefficient = 3
+
+For x = -0.48:
+i = 0.028521542988022598, coefficient = 0
+i = -0.11205392844887838, coefficient = 1
+i = 0.9933259048646647, coefficient = 2
+i = 0.090206480596191, coefficient = 3
+
+For x = -0.47:
+i = 0.025863943051189064, coefficient = 0
+i = -0.10207228498924924, coefficient = 1
+i = 0.99677929024758, coefficient = 2
+i = 0.07942905169048013, coefficient = 3
+
+For x = -0.45999999999999996:
+i = 0.023131931014738934, coefficient = 0
+i = -0.09171099482952101, coefficient = 1
+i = 0.9995701862179214, coefficient = 2
+i = 0.06900887759686047, coefficient = 3
+
+For x = -0.44999999999999996:
+i = 0.02033009907986058, coefficient = 0
+i = -0.08098114452408386, coefficient = 1
+i = 1.0017096793300797, coefficient = 2
+i = 0.05894136611414364, coefficient = 3
+
+For x = -0.43999999999999995:
+i = 0.017463039447742388, coefficient = 0
+i = -0.06989382062732793, coefficient = 1
+i = 1.0032088561384442, coefficient = 2
+i = 0.04922192504114128, coefficient = 3
+
+For x = -0.43000000000000005:
+i = 0.014535344319572771, coefficient = 0
+i = -0.05846010969364349, coefficient = 1
+i = 1.0040788031974055, coefficient = 2
+i = 0.03984596217666509, coefficient = 3
+
+For x = -0.42000000000000004:
+i = 0.011551605896540045, coefficient = 0
+i = -0.04669109827742041, coefficient = 1
+i = 1.0043306070613538, coefficient = 2
+i = 0.030808885319526507, coefficient = 3
+
+For x = -0.41000000000000003:
+i = 0.008516416379832623, coefficient = 0
+i = -0.03459787293304894, coefficient = 1
+i = 1.003975354284679, coefficient = 2
+i = 0.022106102268537216, coefficient = 3
+
+For x = -0.4:
+i = 0.005434367970638885, coefficient = 0
+i = -0.022191520214919234, coefficient = 1
+i = 1.0030241314217714, coefficient = 2
+i = 0.013733020822508876, coefficient = 3
+
+For x = -0.39:
+i = 0.002310052870147214, coefficient = 0
+i = -0.009483126677421412, coefficient = 1
+i = 1.0014880250270208, coefficient = 2
+i = 0.005685048780253084, coefficient = 3
+
+For x = -0.38:
+i = -0.0008519367204540097, coefficient = 0
+i = 0.0035162211250543804, coefficient = 1
+i = 0.9993781216548182, coefficient = 2
+i = -0.002042406059418536, coefficient = 3
+
+For x = -0.37:
+i = -0.004047008599976405, coefficient = 0
+i = 0.016795436638118007, coefficient = 1
+i = 0.9967055078595526, coefficient = 2
+i = -0.009453935897694363, coefficient = 3
+
+For x = -0.36:
+i = -0.00727057056723159, coefficient = 0
+i = 0.03034343330737935, coefficient = 1
+i = 0.9934812701956149, coefficient = 2
+i = -0.016554132935762786, coefficient = 3
+
+For x = -0.35:
+i = -0.010518030421031185, coefficient = 0
+i = 0.04414912457844824, coefficient = 1
+i = 0.9897164952173949, coefficient = 2
+i = -0.023347589374812173, coefficient = 3
+
+For x = -0.33999999999999997:
+i = -0.01378479596018681, coefficient = 0
+i = 0.058201423896934584, coefficient = 1
+i = 0.9854222694792831, coefficient = 2
+i = -0.029838897416030918, coefficient = 3
+
+For x = -0.32999999999999996:
+i = -0.01706627498351008, coefficient = 0
+i = 0.0724892447084482, coefficient = 1
+i = 0.980609679535669, coefficient = 2
+i = -0.03603264926060739, coefficient = 3
+
+For x = -0.31999999999999995:
+i = -0.020357875289812612, coefficient = 0
+i = 0.087001500458599, coefficient = 1
+i = 0.9752898119409434, coefficient = 2
+i = -0.041933437109729986, coefficient = 3
+
+For x = -0.31000000000000005:
+i = -0.023655004677906002, coefficient = 0
+i = 0.10172710459299664, coefficient = 1
+i = 0.9694737532494964, coefficient = 2
+i = -0.047545853164587, coefficient = 3
+
+For x = -0.30000000000000004:
+i = -0.026953070946601924, coefficient = 0
+i = 0.11665497055725134, coefficient = 1
+i = 0.9631725900157174, coefficient = 2
+i = -0.05287448962636696, coefficient = 3
+
+For x = -0.29000000000000004:
+i = -0.030247481894711974, coefficient = 0
+i = 0.1317740117969728, coefficient = 1
+i = 0.9563974087939972, coefficient = 2
+i = -0.0579239386962582, coefficient = 3
+
+For x = -0.28:
+i = -0.03353364532104776, coefficient = 0
+i = 0.14707314175777084, coefficient = 1
+i = 0.949159296138726, coefficient = 2
+i = -0.06269879257544904, coefficient = 3
+
+For x = -0.27:
+i = -0.03680696902442091, coefficient = 0
+i = 0.1625412738852554, coefficient = 1
+i = 0.9414693386042933, coefficient = 2
+i = -0.06720364346512793, coefficient = 3
+
+For x = -0.26:
+i = -0.04006286080364304, coefficient = 0
+i = 0.17816732162503632, coefficient = 1
+i = 0.9333386227450898, coefficient = 2
+i = -0.07144308356648321, coefficient = 3
+
+For x = -0.25:
+i = -0.043296728457525774, coefficient = 0
+i = 0.19394019842272348, coefficient = 1
+i = 0.9247782351155054, coefficient = 2
+i = -0.07542170508070327, coefficient = 3
+
+For x = -0.24:
+i = -0.04650397978488072, coefficient = 0
+i = 0.20984881772392663, coefficient = 1
+i = 0.9157992622699307, coefficient = 2
+i = -0.07914410020897651, coefficient = 3
+
+For x = -0.22999999999999998:
+i = -0.049680022584519506, coefficient = 0
+i = 0.22588209297425574, coefficient = 1
+i = 0.9064127907627549, coefficient = 2
+i = -0.08261486115249127, coefficient = 3
+
+For x = -0.21999999999999997:
+i = -0.05282026465525373, coefficient = 0
+i = 0.2420289376193207, coefficient = 1
+i = 0.896629907148369, coefficient = 2
+i = -0.08583858011243597, coefficient = 3
+
+For x = -0.20999999999999996:
+i = -0.055920113795895045, coefficient = 0
+i = 0.25827826510473134, coefficient = 1
+i = 0.8864616979811627, coefficient = 2
+i = -0.08881984928999898, coefficient = 3
+
+For x = -0.19999999999999996:
+i = -0.058974977805255055, coefficient = 0
+i = 0.2746189888760974, coefficient = 1
+i = 0.8759192498155262, coefficient = 2
+i = -0.09156326088636867, coefficient = 3
+
+For x = -0.18999999999999995:
+i = -0.06198026448214537, coefficient = 0
+i = 0.291040022379029, coefficient = 1
+i = 0.8650136492058497, coefficient = 2
+i = -0.09407340710273343, coefficient = 3
+
+For x = -0.18000000000000005:
+i = -0.06493138162537758, coefficient = 0
+i = 0.3075302790591356, coefficient = 1
+i = 0.8537559827065234, coefficient = 2
+i = -0.09635488014028161, coefficient = 3
+
+For x = -0.17000000000000004:
+i = -0.06782373703376338, coefficient = 0
+i = 0.32407867236202753, coefficient = 1
+i = 0.8421573368719375, coefficient = 2
+i = -0.09841227220020167, coefficient = 3
+
+For x = -0.16000000000000003:
+i = -0.07065273850611435, coefficient = 0
+i = 0.3406741157333145, coefficient = 1
+i = 0.8302287982564818, coefficient = 2
+i = -0.10025017548368191, coefficient = 3
+
+For x = -0.15000000000000002:
+i = -0.07341379384124211, coefficient = 0
+i = 0.35730552261860626, coefficient = 1
+i = 0.8179814534145466, coefficient = 2
+i = -0.10187318219191077, coefficient = 3
+
+For x = -0.14:
+i = -0.07610231083795826, coefficient = 0
+i = 0.37396180646351274, coefficient = 1
+i = 0.8054263889005219, coefficient = 2
+i = -0.10328588452607657, coefficient = 3
+
+For x = -0.13:
+i = -0.07871369729507445, coefficient = 0
+i = 0.3906318807136439, coefficient = 1
+i = 0.7925746912687982, coefficient = 2
+i = -0.10449287468736777, coefficient = 3
+
+For x = -0.12:
+i = -0.08124336101140227, coefficient = 0
+i = 0.4073046588146095, coefficient = 1
+i = 0.7794374470737654, coefficient = 2
+i = -0.10549874487697265, coefficient = 3
+
+For x = -0.10999999999999999:
+i = -0.08368670978575339, coefficient = 0
+i = 0.4239690542120194, coefficient = 1
+i = 0.7660257428698137, coefficient = 2
+i = -0.10630808729607971, coefficient = 3
+
+For x = -0.09999999999999998:
+i = -0.08603915141693935, coefficient = 0
+i = 0.44061398035148325, coefficient = 1
+i = 0.7523506652113331, coefficient = 2
+i = -0.10692549414587721, coefficient = 3
+
+For x = -0.08999999999999997:
+i = -0.08829609370377184, coefficient = 0
+i = 0.4572283506786115, coefficient = 1
+i = 0.738423300652714, coefficient = 2
+i = -0.10735555762755367, coefficient = 3
+
+For x = -0.07999999999999996:
+i = -0.09045294444506242, coefficient = 0
+i = 0.47380107863901344, coefficient = 1
+i = 0.7242547357483462, coefficient = 2
+i = -0.10760286994229729, coefficient = 3
+
+For x = -0.06999999999999995:
+i = -0.09250511143962277, coefficient = 0
+i = 0.49032107767829924, coefficient = 1
+i = 0.7098560570526201, coefficient = 2
+i = -0.10767202329129662, coefficient = 3
+
+For x = -0.06000000000000005:
+i = -0.09444800248626445, coefficient = 0
+i = 0.5067772612420784, coefficient = 1
+i = 0.6952383511199258, coefficient = 2
+i = -0.10756760987573995, coefficient = 3
+
+For x = -0.050000000000000044:
+i = -0.0962770253837991, coefficient = 0
+i = 0.5231585427759614, coefficient = 1
+i = 0.6804127045046533, coefficient = 2
+i = -0.10729422189681567, coefficient = 3
+
+For x = -0.040000000000000036:
+i = -0.09798758793103839, coefficient = 0
+i = 0.5394538357255576, coefficient = 1
+i = 0.6653902037611928, coefficient = 2
+i = -0.10685645155571219, coefficient = 3
+
+For x = -0.030000000000000027:
+i = -0.09957509792679384, coefficient = 0
+i = 0.5556520535364771, coefficient = 1
+i = 0.6501819354439345, coefficient = 2
+i = -0.1062588910536179, coefficient = 3
+
+For x = -0.020000000000000018:
+i = -0.10103496316987717, coefficient = 0
+i = 0.5717421096543298, coefficient = 1
+i = 0.6347989861072685, coefficient = 2
+i = -0.1055061325917211, coefficient = 3
+
+For x = -0.010000000000000009:
+i = -0.10236259145909993, coefficient = 0
+i = 0.5877129175247254, coefficient = 1
+i = 0.6192524423055848, coefficient = 2
+i = -0.1046027683712103, coefficient = 3
+
+For x = 0.0:
+i = -0.10355339059327379, coefficient = 0
+i = 0.6035533905932737, coefficient = 1
+i = 0.6035533905932737, coefficient = 2
+i = -0.10355339059327376, coefficient = 3
+
+For x = 0.010000000000000009:
+i = -0.10460276837121033, coefficient = 0
+i = 0.6192524423055847, coefficient = 1
+i = 0.5877129175247254, coefficient = 2
+i = -0.10236259145909991, coefficient = 3
+
+For x = 0.020000000000000018:
+i = -0.10550613259172115, coefficient = 0
+i = 0.6347989861072685, coefficient = 1
+i = 0.5717421096543298, coefficient = 2
+i = -0.10103496316987713, coefficient = 3
+
+For x = 0.030000000000000027:
+i = -0.10625889105361792, coefficient = 0
+i = 0.6501819354439345, coefficient = 1
+i = 0.5556520535364771, coefficient = 2
+i = -0.09957509792679384, coefficient = 3
+
+For x = 0.040000000000000036:
+i = -0.1068564515557122, coefficient = 0
+i = 0.6653902037611928, coefficient = 1
+i = 0.5394538357255577, coefficient = 2
+i = -0.09798758793103834, coefficient = 3
+
+For x = 0.050000000000000044:
+i = -0.1072942218968157, coefficient = 0
+i = 0.6804127045046534, coefficient = 1
+i = 0.5231585427759614, coefficient = 2
+i = -0.0962770253837991, coefficient = 3
+
+For x = 0.06000000000000005:
+i = -0.10756760987573996, coefficient = 0
+i = 0.6952383511199259, coefficient = 1
+i = 0.5067772612420786, coefficient = 2
+i = -0.09444800248626442, coefficient = 3
+
+For x = 0.07000000000000006:
+i = -0.10767202329129663, coefficient = 0
+i = 0.7098560570526202, coefficient = 1
+i = 0.490321077678299, coefficient = 2
+i = -0.09250511143962271, coefficient = 3
+
+For x = 0.08000000000000007:
+i = -0.10760286994229734, coefficient = 0
+i = 0.7242547357483465, coefficient = 1
+i = 0.4738010786390134, coefficient = 2
+i = -0.0904529444450624, coefficient = 3
+
+For x = 0.09000000000000008:
+i = -0.10735555762755368, coefficient = 0
+i = 0.7384233006527141, coefficient = 1
+i = 0.45722835067861134, coefficient = 2
+i = -0.08829609370377181, coefficient = 3
+
+For x = 0.10000000000000009:
+i = -0.10692549414587725, coefficient = 0
+i = 0.7523506652113333, coefficient = 1
+i = 0.4406139803514832, coefficient = 2
+i = -0.08603915141693932, coefficient = 3
+
+For x = 0.1100000000000001:
+i = -0.10630808729607974, coefficient = 0
+i = 0.7660257428698137, coefficient = 1
+i = 0.42396905421201925, coefficient = 2
+i = -0.08368670978575335, coefficient = 3
+
+For x = 0.1200000000000001:
+i = -0.1054987448769727, coefficient = 0
+i = 0.7794374470737656, coefficient = 1
+i = 0.4073046588146094, coefficient = 2
+i = -0.08124336101140224, coefficient = 3
+
+For x = 0.1299999999999999:
+i = -0.10449287468736781, coefficient = 0
+i = 0.792574691268798, coefficient = 1
+i = 0.39063188071364413, coefficient = 2
+i = -0.07871369729507448, coefficient = 3
+
+For x = 0.1399999999999999:
+i = -0.10328588452607664, coefficient = 0
+i = 0.8054263889005218, coefficient = 1
+i = 0.37396180646351307, coefficient = 2
+i = -0.07610231083795829, coefficient = 3
+
+For x = 0.1499999999999999:
+i = -0.10187318219191083, coefficient = 0
+i = 0.8179814534145463, coefficient = 1
+i = 0.3573055226186066, coefficient = 2
+i = -0.07341379384124214, coefficient = 3
+
+For x = 0.15999999999999992:
+i = -0.10025017548368198, coefficient = 0
+i = 0.8302287982564815, coefficient = 1
+i = 0.3406741157333148, coefficient = 2
+i = -0.0706527385061144, coefficient = 3
+
+For x = 0.16999999999999993:
+i = -0.09841227220020173, coefficient = 0
+i = 0.8421573368719374, coefficient = 1
+i = 0.3240786723620279, coefficient = 2
+i = -0.06782373703376342, coefficient = 3
+
+For x = 0.17999999999999994:
+i = -0.09635488014028169, coefficient = 0
+i = 0.8537559827065234, coefficient = 1
+i = 0.30753027905913594, coefficient = 2
+i = -0.06493138162537762, coefficient = 3
+
+For x = 0.18999999999999995:
+i = -0.09407340710273349, coefficient = 0
+i = 0.8650136492058498, coefficient = 1
+i = 0.2910400223790291, coefficient = 2
+i = -0.06198026448214538, coefficient = 3
+
+For x = 0.19999999999999996:
+i = -0.09156326088636872, coefficient = 0
+i = 0.8759192498155263, coefficient = 1
+i = 0.27461898887609754, coefficient = 2
+i = -0.05897497780525507, coefficient = 3
+
+For x = 0.20999999999999996:
+i = -0.08881984928999904, coefficient = 0
+i = 0.8864616979811628, coefficient = 1
+i = 0.25827826510473145, coefficient = 2
+i = -0.05592011379589506, coefficient = 3
+
+For x = 0.21999999999999997:
+i = -0.08583858011243603, coefficient = 0
+i = 0.8966299071483689, coefficient = 1
+i = 0.24202893761932082, coefficient = 2
+i = -0.052820264655253746, coefficient = 3
+
+For x = 0.22999999999999998:
+i = -0.08261486115249135, coefficient = 0
+i = 0.9064127907627549, coefficient = 1
+i = 0.22588209297425588, coefficient = 2
+i = -0.04968002258451952, coefficient = 3
+
+For x = 0.24:
+i = -0.07914410020897658, coefficient = 0
+i = 0.9157992622699307, coefficient = 1
+i = 0.20984881772392677, coefficient = 2
+i = -0.04650397978488074, coefficient = 3
+
+For x = 0.25:
+i = -0.07542170508070335, coefficient = 0
+i = 0.9247782351155055, coefficient = 1
+i = 0.1939401984227236, coefficient = 2
+i = -0.04329672845752579, coefficient = 3
+
+For x = 0.26:
+i = -0.0714430835664833, coefficient = 0
+i = 0.9333386227450899, coefficient = 1
+i = 0.17816732162503643, coefficient = 2
+i = -0.040062860803643054, coefficient = 3
+
+For x = 0.27:
+i = -0.06720364346512799, coefficient = 0
+i = 0.9414693386042933, coefficient = 1
+i = 0.16254127388525555, coefficient = 2
+i = -0.03680696902442094, coefficient = 3
+
+For x = 0.28:
+i = -0.06269879257544912, coefficient = 0
+i = 0.949159296138726, coefficient = 1
+i = 0.147073141757771, coefficient = 2
+i = -0.033533645321047786, coefficient = 3
+
+For x = 0.29000000000000004:
+i = -0.05792393869625827, coefficient = 0
+i = 0.9563974087939972, coefficient = 1
+i = 0.13177401179697293, coefficient = 2
+i = -0.030247481894712, coefficient = 3
+
+For x = 0.30000000000000004:
+i = -0.05287448962636704, coefficient = 0
+i = 0.9631725900157175, coefficient = 1
+i = 0.11665497055725148, coefficient = 2
+i = -0.02695307094660195, coefficient = 3
+
+For x = 0.31000000000000005:
+i = -0.04754585316458708, coefficient = 0
+i = 0.9694737532494966, coefficient = 1
+i = 0.10172710459299678, coefficient = 2
+i = -0.023655004677906027, coefficient = 3
+
+For x = 0.32000000000000006:
+i = -0.04193343710972999, coefficient = 0
+i = 0.9752898119409437, coefficient = 1
+i = 0.08700150045859896, coefficient = 2
+i = -0.02035787528981261, coefficient = 3
+
+For x = 0.33000000000000007:
+i = -0.0360326492606074, coefficient = 0
+i = 0.9806096795356691, coefficient = 1
+i = 0.07248924470844818, coefficient = 2
+i = -0.01706627498351007, coefficient = 3
+
+For x = 0.3400000000000001:
+i = -0.029838897416030925, coefficient = 0
+i = 0.9854222694792831, coefficient = 1
+i = 0.05820142389693456, coefficient = 2
+i = -0.013784795960186804, coefficient = 3
+
+For x = 0.3500000000000001:
+i = -0.023347589374812183, coefficient = 0
+i = 0.9897164952173951, coefficient = 1
+i = 0.04414912457844823, coefficient = 2
+i = -0.010518030421031182, coefficient = 3
+
+For x = 0.3600000000000001:
+i = -0.01655413293576279, coefficient = 0
+i = 0.993481270195615, coefficient = 1
+i = 0.030343433307379333, coefficient = 2
+i = -0.007270570567231588, coefficient = 3
+
+For x = 0.3700000000000001:
+i = -0.009453935897694367, coefficient = 0
+i = 0.9967055078595526, coefficient = 1
+i = 0.016795436638118003, coefficient = 2
+i = -0.004047008599976403, coefficient = 3
+
+For x = 0.3799999999999999:
+i = -0.0020424060594187044, coefficient = 0
+i = 0.9993781216548182, coefficient = 1
+i = 0.0035162211250546714, coefficient = 2
+i = -0.00085193672045408, coefficient = 3
+
+For x = 0.3899999999999999:
+i = 0.005685048780252911, coefficient = 0
+i = 1.0014880250270213, coefficient = 1
+i = -0.009483126677421122, coefficient = 2
+i = 0.002310052870147143, coefficient = 3
+
+For x = 0.3999999999999999:
+i = 0.013733020822508695, coefficient = 0
+i = 1.0030241314217714, coefficient = 1
+i = -0.022191520214918947, coefficient = 2
+i = 0.005434367970638813, coefficient = 3
+
+For x = 0.4099999999999999:
+i = 0.02210610226853704, coefficient = 0
+i = 1.003975354284679, coefficient = 1
+i = -0.03459787293304866, coefficient = 2
+i = 0.00851641637983255, coefficient = 3
+
+For x = 0.41999999999999993:
+i = 0.03080888531952631, coefficient = 0
+i = 1.004330607061354, coefficient = 1
+i = -0.04669109827742012, coefficient = 2
+i = 0.011551605896539972, coefficient = 3
+
+For x = 0.42999999999999994:
+i = 0.0398459621766649, coefficient = 0
+i = 1.0040788031974055, coefficient = 1
+i = -0.058460109693643215, coefficient = 2
+i = 0.0145353443195727, coefficient = 3
+
+For x = 0.43999999999999995:
+i = 0.049221925041141194, coefficient = 0
+i = 1.0032088561384442, coefficient = 1
+i = -0.0698938206273278, coefficient = 2
+i = 0.017463039447742346, coefficient = 3
+
+For x = 0.44999999999999996:
+i = 0.058941366114143544, coefficient = 0
+i = 1.0017096793300797, coefficient = 1
+i = -0.08098114452408373, coefficient = 2
+i = 0.02033009907986054, coefficient = 3
+
+For x = 0.45999999999999996:
+i = 0.06900887759686038, coefficient = 0
+i = 0.9995701862179216, coefficient = 1
+i = -0.09171099482952087, coefficient = 2
+i = 0.023131931014738896, coefficient = 3
+
+For x = 0.47:
+i = 0.07942905169048003, coefficient = 0
+i = 0.99677929024758, coefficient = 1
+i = -0.10207228498924907, coefficient = 2
+i = 0.02586394305118903, coefficient = 3
+
+For x = 0.48:
+i = 0.09020648059619092, coefficient = 0
+i = 0.9933259048646648, coefficient = 1
+i = -0.11205392844887824, coefficient = 2
+i = 0.028521542988022557, coefficient = 3
+
+For x = 0.49:
+i = 0.1013457565151814, coefficient = 0
+i = 0.9891989435147858, coefficient = 1
+i = -0.12164483865401819, coefficient = 2
+i = 0.031100138624051105, coefficient = 3
+
+For x = 0.5:
+i = 0.11285147164863986, coefficient = 0
+i = 0.9843873196435526, coefficient = 1
+i = -0.13083392905027885, coefficient = 2
+i = 0.03359513775808629, coefficient = 3
+
+For x = 0.51:
+i = 0.12472821819775469, coefficient = 0
+i = 0.9788799466965756, coefficient = 1
+i = -0.13961011308327, coefficient = 2
+i = 0.03600194818893973, coefficient = 3
+
+For x = 0.52:
+i = 0.1369805883637143, coefficient = 0
+i = 0.9726657381194642, coefficient = 1
+i = -0.14796230419860162, coefficient = 2
+i = 0.03831597771542305, coefficient = 3
+
+For x = 0.53:
+i = 0.149613174347707, coefficient = 0
+i = 0.9657336073578288, coefficient = 1
+i = -0.15587941584188345, coefficient = 2
+i = 0.040532634136347855, coefficient = 3
+
+For x = 0.54:
+i = 0.16263056835092118, coefficient = 0
+i = 0.9580724678572784, coefficient = 1
+i = -0.16335036145872545, coefficient = 2
+i = 0.04264732525052578, coefficient = 3
+
+For x = 0.55:
+i = 0.1760373625745453, coefficient = 0
+i = 0.9496712330634238, coefficient = 1
+i = -0.1703640544947374, coefficient = 2
+i = 0.044655458856768436, coefficient = 3
+
+For x = 0.56:
+i = 0.18983814921976763, coefficient = 0
+i = 0.9405188164218742, coefficient = 1
+i = -0.17690940839552918, coefficient = 2
+i = 0.04655244275388744, coefficient = 3
+
+For x = 0.5700000000000001:
+i = 0.20403752048777665, coefficient = 0
+i = 0.9306041313782397, coefficient = 1
+i = -0.18297533660671078, coefficient = 2
+i = 0.048333684740694396, coefficient = 3
+
+For x = 0.5800000000000001:
+i = 0.2186400685797607, coefficient = 0
+i = 0.9199160913781302, coefficient = 1
+i = -0.18855075257389187, coefficient = 2
+i = 0.04999459261600096, coefficient = 3
+
+For x = 0.5900000000000001:
+i = 0.2336503856969082, coefficient = 0
+i = 0.9084436098671557, coefficient = 1
+i = -0.19362456974268255, coefficient = 2
+i = 0.05153057417861872, coefficient = 3
+
+For x = 0.6000000000000001:
+i = 0.2490730640404074, coefficient = 0
+i = 0.8961756002909257, coefficient = 1
+i = -0.19818570155869242, coefficient = 2
+i = 0.05293703722735932, coefficient = 3
+
+For x = 0.6100000000000001:
+i = 0.26491269581144683, coefficient = 0
+i = 0.8831009760950502, coefficient = 1
+i = -0.20222306146753152, coefficient = 2
+i = 0.05420938956103435, coefficient = 3
+
+For x = 0.6200000000000001:
+i = 0.28117387321121484, coefficient = 0
+i = 0.8692086507251391, coefficient = 1
+i = -0.20572556291480965, coefficient = 2
+i = 0.05534303897845545, coefficient = 3
+
+For x = 0.6299999999999999:
+i = 0.29786118844089937, coefficient = 0
+i = 0.8544875376268027, coefficient = 1
+i = -0.20868211934613667, coefficient = 2
+i = 0.056333393278434216, coefficient = 3
+
+For x = 0.6399999999999999:
+i = 0.3149792337016897, coefficient = 0
+i = 0.8389265502456505, coefficient = 1
+i = -0.21108164420712253, coefficient = 2
+i = 0.05717586025978231, coefficient = 3
+
+For x = 0.6499999999999999:
+i = 0.3325326011947735, coefficient = 0
+i = 0.822514602027292, coefficient = 1
+i = -0.212913050943377, coefficient = 2
+i = 0.05786584772131131, coefficient = 3
+
+For x = 0.6599999999999999:
+i = 0.35052588312133964, coefficient = 0
+i = 0.8052406064173376, coefficient = 1
+i = -0.2141652530005099, coefficient = 2
+i = 0.05839876346183286, coefficient = 3
+
+For x = 0.6699999999999999:
+i = 0.368963671682576, coefficient = 0
+i = 0.7870934768613966, coefficient = 1
+i = -0.2148271638241313, coefficient = 2
+i = 0.05877001528015855, coefficient = 3
+
+For x = 0.6799999999999999:
+i = 0.3878505590796714, coefficient = 0
+i = 0.7680621268050796, coefficient = 1
+i = -0.2148876968598509, coefficient = 2
+i = 0.05897501097510006, coefficient = 3
+
+For x = 0.69:
+i = 0.4071911375138138, coefficient = 0
+i = 0.7481354696939955, coefficient = 1
+i = -0.21433576555327857, coefficient = 2
+i = 0.059009158345468916, coefficient = 3
+
+For x = 0.7:
+i = 0.4269899991861921, coefficient = 0
+i = 0.7273024189737554, coefficient = 1
+i = -0.2131602833500243, coefficient = 2
+i = 0.058867865190076814, coefficient = 3
+
+For x = 0.71:
+i = 0.4472517362979941, coefficient = 0
+i = 0.705551888089968, coefficient = 1
+i = -0.21135016369569776, coefficient = 2
+i = 0.05854653930773534, coefficient = 3
+
+For x = 0.72:
+i = 0.46798094105040877, coefficient = 0
+i = 0.682872790488244, coefficient = 1
+i = -0.2088943200359089, coefficient = 2
+i = 0.05804058849725614, coefficient = 3
+
+For x = 0.73:
+i = 0.48918220564462384, coefficient = 0
+i = 0.6592540396141928, coefficient = 1
+i = -0.20578166581626758, coefficient = 2
+i = 0.05734542055745076, coefficient = 3
+
+For x = 0.74:
+i = 0.5108601222818283, coefficient = 0
+i = 0.6346845489134245, coefficient = 1
+i = -0.20200111448238373, coefficient = 2
+i = 0.056456443287130925, coefficient = 3
+
+For x = 0.75:
+i = 0.5330192831632102, coefficient = 0
+i = 0.6091532318315488, coefficient = 1
+i = -0.19754157947986722, coefficient = 2
+i = 0.05536906448510816, coefficient = 3
+
+For x = 0.76:
+i = 0.555664280489958, coefficient = 0
+i = 0.5826490018141757, coefficient = 1
+i = -0.1923919742543278, coefficient = 2
+i = 0.054078691950194144, coefficient = 3
+
+For x = 0.77:
+i = 0.57879970646326, coefficient = 0
+i = 0.5551607723069149, coefficient = 1
+i = -0.1865412122513754, coefficient = 2
+i = 0.052580733481200466, coefficient = 3
+
+For x = 0.78:
+i = 0.6024301532843047, coefficient = 0
+i = 0.5266774567553764, coefficient = 1
+i = -0.17997820691661984, coefficient = 2
+i = 0.05087059687693876, coefficient = 3
+
+For x = 0.79:
+i = 0.6265602131542803, coefficient = 0
+i = 0.49718796860516995, coefficient = 1
+i = -0.1726918716956711, coefficient = 2
+i = 0.048943689936220634, coefficient = 3
+
+For x = 0.8:
+i = 0.6511944782743757, coefficient = 0
+i = 0.46668122130190554, coefficient = 1
+i = -0.16467112003413892, coefficient = 2
+i = 0.04679542045785772, coefficient = 3
+
+For x = 0.81:
+i = 0.6763375408457786, coefficient = 0
+i = 0.43514612829119287, coefficient = 1
+i = -0.15590486537763323, coefficient = 2
+i = 0.04442119624066162, coefficient = 3
+
+For x = 0.8200000000000001:
+i = 0.7019939930696778, coefficient = 0
+i = 0.4025716030186422, coefficient = 1
+i = -0.14638202117176385, coefficient = 2
+i = 0.04181642508344398, coefficient = 3
+
+For x = 0.8300000000000001:
+i = 0.7281684271472614, coefficient = 0
+i = 0.3689465589298629, coefficient = 1
+i = -0.13609150086214072, coefficient = 2
+i = 0.03897651478501638, coefficient = 3
+
+For x = 0.8400000000000001:
+i = 0.7548654352797181, coefficient = 0
+i = 0.33425990947046513, coefficient = 1
+i = -0.12502221789437365, coefficient = 2
+i = 0.03589687314419047, coefficient = 3
+
+For x = 0.8500000000000001:
+i = 0.7820896096682359, coefficient = 0
+i = 0.29850056808605857, coefficient = 1
+i = -0.11316308571407246, coefficient = 2
+i = 0.03257290795977785, coefficient = 3
+
+For x = 0.8600000000000001:
+i = 0.8098455425140035, coefficient = 0
+i = 0.26165744822225334, coefficient = 1
+i = -0.1005030177668471, coefficient = 2
+i = 0.029000027030590157, coefficient = 3
+
+For x = 0.8700000000000001:
+i = 0.8381378260182093, coefficient = 0
+i = 0.22371946332465897, coefficient = 1
+i = -0.0870309274983074, coefficient = 2
+i = 0.025173638155438993, coefficient = 3
+
+For x = 0.8799999999999999:
+i = 0.8669710523820408, coefficient = 0
+i = 0.18467552683888652, coefficient = 1
+i = -0.07273572835406354, coefficient = 2
+i = 0.021089149133136083, coefficient = 3
+
+For x = 0.8899999999999999:
+i = 0.8963498138066879, coefficient = 0
+i = 0.14451455221054393, coefficient = 1
+i = -0.05760633377972479, coefficient = 2
+i = 0.016741967762492857, coefficient = 3
+
+For x = 0.8999999999999999:
+i = 0.9262787024933381, coefficient = 0
+i = 0.10322545288524199, coefficient = 1
+i = -0.04163165722090126, coefficient = 2
+i = 0.012127501842321026, coefficient = 3
+
+For x = 0.9099999999999999:
+i = 0.9567623106431801, coefficient = 0
+i = 0.06079714230859056, coefficient = 1
+i = -0.024800612123202868, coefficient = 2
+i = 0.007241159171432209, coefficient = 3
+
+For x = 0.9199999999999999:
+i = 0.9878052304574019, coefficient = 0
+i = 0.01721853392619947, coefficient = 1
+i = -0.007102111932239453, coefficient = 2
+i = 0.0020783475486380186, coefficient = 3
+
+For x = 0.9299999999999999:
+i = 1.0194120541371923, coefficient = 0
+i = -0.027521458816321388, coefficient = 1
+i = 0.011474929906379114, coefficient = 2
+i = -0.00336552522724992, coefficient = 3
+
+For x = 0.94:
+i = 1.0515873738837394, coefficient = 0
+i = -0.07343392247336214, coefficient = 1
+i = 0.03094159994704297, coefficient = 2
+i = -0.00909505135741999, coefficient = 3
+
+For x = 0.95:
+i = 1.084335781898231, coefficient = 0
+i = -0.12052994359931296, coefficient = 1
+i = 0.05130898474414226, coefficient = 2
+i = -0.015114823043060574, coefficient = 3
+
+For x = 0.96:
+i = 1.1176618703818568, coefficient = 0
+i = -0.16882060874856394, coefficient = 1
+i = 0.07258817085206709, coefficient = 2
+i = -0.021429432485360046, coefficient = 3
+
+For x = 0.97:
+i = 1.151570231535804, coefficient = 0
+i = -0.21831700447550526, coefficient = 1
+i = 0.09479024482520762, coefficient = 2
+i = -0.0280434718855068, coefficient = 3
+
+For x = 0.98:
+i = 1.1860654575612621, coefficient = 0
+i = -0.2690302173345269, coefficient = 1
+i = 0.11792629321795399, coefficient = 2
+i = -0.0349615334446892, coefficient = 3
+
+For x = 0.99:
+i = 1.2211521406594188, coefficient = 0
+i = -0.3209713338800194, coefficient = 1
+i = 0.1420074025846963, coefficient = 2
+i = -0.04218820936409565, coefficient = 3
+
+For x = 1.0:
+i = 1.2568348730314616, coefficient = 0
+i = -0.37415144066637235, coefficient = 1
+i = 0.16704465947982475, coefficient = 2
+i = -0.0497280918449145, coefficient = 3
+
+For x = -1.0:
+i = -0.049728091844914515, coefficient = 0
+i = 0.1670446594798248, coefficient = 1
+i = -0.3741514406663723, coefficient = 2
+i = 1.2568348730314618, coefficient = 3
+
+For x = -0.99:
+i = -0.04218820936409567, coefficient = 0
+i = 0.14200740258469635, coefficient = 1
+i = -0.3209713338800193, coefficient = 2
+i = 1.2211521406594188, coefficient = 3
+
+For x = -0.98:
+i = -0.03496153344468922, coefficient = 0
+i = 0.11792629321795403, coefficient = 1
+i = -0.269030217334527, coefficient = 2
+i = 1.1860654575612621, coefficient = 3
+
+For x = -0.97:
+i = -0.028043471885506804, coefficient = 0
+i = 0.09479024482520765, coefficient = 1
+i = -0.21831700447550523, coefficient = 2
+i = 1.1515702315358043, coefficient = 3
+
+For x = -0.96:
+i = -0.02142943248536006, coefficient = 0
+i = 0.07258817085206712, coefficient = 1
+i = -0.16882060874856392, coefficient = 2
+i = 1.1176618703818568, coefficient = 3
+
+For x = -0.95:
+i = -0.015114823043060579, coefficient = 0
+i = 0.05130898474414227, coefficient = 1
+i = -0.12052994359931295, coefficient = 2
+i = 1.0843357818982313, coefficient = 3
+
+For x = -0.94:
+i = -0.009095051357419994, coefficient = 0
+i = 0.03094159994704299, coefficient = 1
+i = -0.07343392247336214, coefficient = 2
+i = 1.0515873738837391, coefficient = 3
+
+For x = -0.9299999999999999:
+i = -0.0033655252272499214, coefficient = 0
+i = 0.01147492990637912, coefficient = 1
+i = -0.02752145881632138, coefficient = 2
+i = 1.0194120541371923, coefficient = 3
+
+For x = -0.92:
+i = 0.0020783475486379614, coefficient = 0
+i = -0.007102111932239254, coefficient = 1
+i = 0.01721853392619898, coefficient = 2
+i = 0.9878052304574024, coefficient = 3
+
+For x = -0.91:
+i = 0.007241159171432155, coefficient = 0
+i = -0.02480061212320268, coefficient = 1
+i = 0.06079714230859006, coefficient = 2
+i = 0.9567623106431803, coefficient = 3
+
+For x = -0.9:
+i = 0.012127501842320983, coefficient = 0
+i = -0.041631657220901105, coefficient = 1
+i = 0.10322545288524154, coefficient = 2
+i = 0.9262787024933388, coefficient = 3
+
+For x = -0.89:
+i = 0.016741967762492815, coefficient = 0
+i = -0.05760633377972462, coefficient = 1
+i = 0.14451455221054346, coefficient = 2
+i = 0.8963498138066881, coefficient = 3
+
+For x = -0.88:
+i = 0.021089149133136056, coefficient = 0
+i = -0.07273572835406342, coefficient = 1
+i = 0.1846755268388861, coefficient = 2
+i = 0.8669710523820414, coefficient = 3
+
+For x = -0.87:
+i = 0.02517363815543905, coefficient = 0
+i = -0.0870309274983076, coefficient = 1
+i = 0.2237194633246594, coefficient = 2
+i = 0.838137826018209, coefficient = 3
+
+For x = -0.86:
+i = 0.029000027030590212, coefficient = 0
+i = -0.1005030177668473, coefficient = 1
+i = 0.26165744822225373, coefficient = 2
+i = 0.8098455425140035, coefficient = 3
+
+For x = -0.85:
+i = 0.03257290795977791, coefficient = 0
+i = -0.11316308571407267, coefficient = 1
+i = 0.29850056808605896, coefficient = 2
+i = 0.7820896096682357, coefficient = 3
+
+For x = -0.84:
+i = 0.03589687314419052, coefficient = 0
+i = -0.12502221789437382, coefficient = 1
+i = 0.3342599094704655, coefficient = 2
+i = 0.7548654352797178, coefficient = 3
+
+For x = -0.83:
+i = 0.03897651478501643, coefficient = 0
+i = -0.1360915008621409, coefficient = 1
+i = 0.3689465589298631, coefficient = 2
+i = 0.728168427147261, coefficient = 3
+
+For x = -0.8200000000000001:
+i = 0.041816425083444, coefficient = 0
+i = -0.1463820211717639, coefficient = 1
+i = 0.4025716030186421, coefficient = 2
+i = 0.7019939930696778, coefficient = 3
+
+For x = -0.81:
+i = 0.044421196240661646, coefficient = 0
+i = -0.1559048653776333, coefficient = 1
+i = 0.4351461282911929, coefficient = 2
+i = 0.6763375408457786, coefficient = 3
+
+For x = -0.8:
+i = 0.04679542045785775, coefficient = 0
+i = -0.16467112003413903, coefficient = 1
+i = 0.4666812213019054, coefficient = 2
+i = 0.6511944782743758, coefficient = 3
+
+For x = -0.79:
+i = 0.04894368993622066, coefficient = 0
+i = -0.17269187169567118, coefficient = 1
+i = 0.49718796860516995, coefficient = 2
+i = 0.6265602131542806, coefficient = 3
+
+For x = -0.78:
+i = 0.05087059687693879, coefficient = 0
+i = -0.17997820691661995, coefficient = 1
+i = 0.5266774567553762, coefficient = 2
+i = 0.6024301532843048, coefficient = 3
+
+For x = -0.77:
+i = 0.0525807334812005, coefficient = 0
+i = -0.18654121225137552, coefficient = 1
+i = 0.5551607723069147, coefficient = 2
+i = 0.5787997064632602, coefficient = 3
+
+For x = -0.76:
+i = 0.054078691950194165, coefficient = 0
+i = -0.19239197425432789, coefficient = 1
+i = 0.5826490018141756, coefficient = 2
+i = 0.5556642804899581, coefficient = 3
+
+For x = -0.75:
+i = 0.0553690644851082, coefficient = 0
+i = -0.19754157947986728, coefficient = 1
+i = 0.6091532318315488, coefficient = 2
+i = 0.5330192831632103, coefficient = 3
+
+For x = -0.74:
+i = 0.056456443287130946, coefficient = 0
+i = -0.20200111448238386, coefficient = 1
+i = 0.6346845489134245, coefficient = 2
+i = 0.5108601222818284, coefficient = 3
+
+For x = -0.73:
+i = 0.05734542055745081, coefficient = 0
+i = -0.20578166581626772, coefficient = 1
+i = 0.6592540396141928, coefficient = 2
+i = 0.489182205644624, coefficient = 3
+
+For x = -0.72:
+i = 0.058040588497256164, coefficient = 0
+i = -0.20889432003590905, coefficient = 1
+i = 0.682872790488244, coefficient = 2
+i = 0.4679809410504089, coefficient = 3
+
+For x = -0.71:
+i = 0.058546539307735394, coefficient = 0
+i = -0.21135016369569784, coefficient = 1
+i = 0.705551888089968, coefficient = 2
+i = 0.4472517362979943, coefficient = 3
+
+For x = -0.7:
+i = 0.05886786519007685, coefficient = 0
+i = -0.21316028335002432, coefficient = 1
+i = 0.7273024189737554, coefficient = 2
+i = 0.4269899991861922, coefficient = 3
+
+For x = -0.69:
+i = 0.05900915834546896, coefficient = 0
+i = -0.2143357655532787, coefficient = 1
+i = 0.7481354696939956, coefficient = 2
+i = 0.407191137513814, coefficient = 3
+
+For x = -0.6799999999999999:
+i = 0.05897501097510009, coefficient = 0
+i = -0.21488769685985104, coefficient = 1
+i = 0.7680621268050795, coefficient = 2
+i = 0.38785055907967153, coefficient = 3
+
+For x = -0.6699999999999999:
+i = 0.0587700152801586, coefficient = 0
+i = -0.21482716382413142, coefficient = 1
+i = 0.7870934768613965, coefficient = 2
+i = 0.36896367168257616, coefficient = 3
+
+For x = -0.6599999999999999:
+i = 0.05839876346183289, coefficient = 0
+i = -0.2141652530005101, coefficient = 1
+i = 0.8052406064173374, coefficient = 2
+i = 0.3505258831213397, coefficient = 3
+
+For x = -0.65:
+i = 0.05786584772131136, coefficient = 0
+i = -0.21291305094337715, coefficient = 1
+i = 0.822514602027292, coefficient = 2
+i = 0.33253260119477396, coefficient = 3
+
+For x = -0.64:
+i = 0.05717586025978235, coefficient = 0
+i = -0.21108164420712264, coefficient = 1
+i = 0.8389265502456501, coefficient = 2
+i = 0.3149792337016899, coefficient = 3
+
+For x = -0.63:
+i = 0.056333393278434285, coefficient = 0
+i = -0.20868211934613684, coefficient = 1
+i = 0.8544875376268029, coefficient = 2
+i = 0.29786118844089976, coefficient = 3
+
+For x = -0.62:
+i = 0.05534303897845548, coefficient = 0
+i = -0.20572556291480973, coefficient = 1
+i = 0.8692086507251393, coefficient = 2
+i = 0.28117387321121473, coefficient = 3
+
+For x = -0.61:
+i = 0.054209389561034396, coefficient = 0
+i = -0.20222306146753163, coefficient = 1
+i = 0.8831009760950503, coefficient = 2
+i = 0.2649126958114468, coefficient = 3
+
+For x = -0.6:
+i = 0.05293703722735935, coefficient = 0
+i = -0.1981857015586925, coefficient = 1
+i = 0.8961756002909256, coefficient = 2
+i = 0.24907306404040733, coefficient = 3
+
+For x = -0.5900000000000001:
+i = 0.05153057417861876, coefficient = 0
+i = -0.19362456974268266, coefficient = 1
+i = 0.9084436098671556, coefficient = 2
+i = 0.23365038569690832, coefficient = 3
+
+For x = -0.5800000000000001:
+i = 0.049994592616001005, coefficient = 0
+i = -0.18855075257389206, coefficient = 1
+i = 0.9199160913781302, coefficient = 2
+i = 0.21864006857976082, coefficient = 3
+
+For x = -0.5700000000000001:
+i = 0.04833368474069445, coefficient = 0
+i = -0.18297533660671092, coefficient = 1
+i = 0.9306041313782395, coefficient = 2
+i = 0.20403752048777682, coefficient = 3
+
+For x = -0.56:
+i = 0.04655244275388748, coefficient = 0
+i = -0.17690940839552935, coefficient = 1
+i = 0.9405188164218742, coefficient = 2
+i = 0.18983814921976777, coefficient = 3
+
+For x = -0.55:
+i = 0.04465545885676847, coefficient = 0
+i = -0.17036405449473754, coefficient = 1
+i = 0.9496712330634235, coefficient = 2
+i = 0.17603736257454541, coefficient = 3
+
+For x = -0.54:
+i = 0.04264732525052582, coefficient = 0
+i = -0.16335036145872556, coefficient = 1
+i = 0.9580724678572783, coefficient = 2
+i = 0.1626305683509213, coefficient = 3
+
+For x = -0.53:
+i = 0.0405326341363479, coefficient = 0
+i = -0.15587941584188358, coefficient = 1
+i = 0.9657336073578285, coefficient = 2
+i = 0.14961317434770707, coefficient = 3
+
+For x = -0.52:
+i = 0.0383159777154231, coefficient = 0
+i = -0.14796230419860176, coefficient = 1
+i = 0.9726657381194642, coefficient = 2
+i = 0.1369805883637144, coefficient = 3
+
+For x = -0.51:
+i = 0.03600194818893977, coefficient = 0
+i = -0.13961011308327018, coefficient = 1
+i = 0.9788799466965755, coefficient = 2
+i = 0.1247282181977548, coefficient = 3
+
+For x = -0.5:
+i = 0.033595137758086334, coefficient = 0
+i = -0.13083392905027902, coefficient = 1
+i = 0.9843873196435526, coefficient = 2
+i = 0.11285147164863996, coefficient = 3
+
+For x = -0.49:
+i = 0.031100138624051154, coefficient = 0
+i = -0.12164483865401836, coefficient = 1
+i = 0.9891989435147857, coefficient = 2
+i = 0.1013457565151815, coefficient = 3
+
+For x = -0.48:
+i = 0.028521542988022598, coefficient = 0
+i = -0.11205392844887838, coefficient = 1
+i = 0.9933259048646647, coefficient = 2
+i = 0.090206480596191, coefficient = 3
+
+For x = -0.47:
+i = 0.025863943051189064, coefficient = 0
+i = -0.10207228498924924, coefficient = 1
+i = 0.99677929024758, coefficient = 2
+i = 0.07942905169048013, coefficient = 3
+
+For x = -0.45999999999999996:
+i = 0.023131931014738934, coefficient = 0
+i = -0.09171099482952101, coefficient = 1
+i = 0.9995701862179214, coefficient = 2
+i = 0.06900887759686047, coefficient = 3
+
+For x = -0.44999999999999996:
+i = 0.02033009907986058, coefficient = 0
+i = -0.08098114452408386, coefficient = 1
+i = 1.0017096793300797, coefficient = 2
+i = 0.05894136611414364, coefficient = 3
+
+For x = -0.43999999999999995:
+i = 0.017463039447742388, coefficient = 0
+i = -0.06989382062732793, coefficient = 1
+i = 1.0032088561384442, coefficient = 2
+i = 0.04922192504114128, coefficient = 3
+
+For x = -0.43000000000000005:
+i = 0.014535344319572771, coefficient = 0
+i = -0.05846010969364349, coefficient = 1
+i = 1.0040788031974055, coefficient = 2
+i = 0.03984596217666509, coefficient = 3
+
+For x = -0.42000000000000004:
+i = 0.011551605896540045, coefficient = 0
+i = -0.04669109827742041, coefficient = 1
+i = 1.0043306070613538, coefficient = 2
+i = 0.030808885319526507, coefficient = 3
+
+For x = -0.41000000000000003:
+i = 0.008516416379832623, coefficient = 0
+i = -0.03459787293304894, coefficient = 1
+i = 1.003975354284679, coefficient = 2
+i = 0.022106102268537216, coefficient = 3
+
+For x = -0.4:
+i = 0.005434367970638885, coefficient = 0
+i = -0.022191520214919234, coefficient = 1
+i = 1.0030241314217714, coefficient = 2
+i = 0.013733020822508876, coefficient = 3
+
+For x = -0.39:
+i = 0.002310052870147214, coefficient = 0
+i = -0.009483126677421412, coefficient = 1
+i = 1.0014880250270208, coefficient = 2
+i = 0.005685048780253084, coefficient = 3
+
+For x = -0.38:
+i = -0.0008519367204540097, coefficient = 0
+i = 0.0035162211250543804, coefficient = 1
+i = 0.9993781216548182, coefficient = 2
+i = -0.002042406059418536, coefficient = 3
+
+For x = -0.37:
+i = -0.004047008599976405, coefficient = 0
+i = 0.016795436638118007, coefficient = 1
+i = 0.9967055078595526, coefficient = 2
+i = -0.009453935897694363, coefficient = 3
+
+For x = -0.36:
+i = -0.00727057056723159, coefficient = 0
+i = 0.03034343330737935, coefficient = 1
+i = 0.9934812701956149, coefficient = 2
+i = -0.016554132935762786, coefficient = 3
+
+For x = -0.35:
+i = -0.010518030421031185, coefficient = 0
+i = 0.04414912457844824, coefficient = 1
+i = 0.9897164952173949, coefficient = 2
+i = -0.023347589374812173, coefficient = 3
+
+For x = -0.33999999999999997:
+i = -0.01378479596018681, coefficient = 0
+i = 0.058201423896934584, coefficient = 1
+i = 0.9854222694792831, coefficient = 2
+i = -0.029838897416030918, coefficient = 3
+
+For x = -0.32999999999999996:
+i = -0.01706627498351008, coefficient = 0
+i = 0.0724892447084482, coefficient = 1
+i = 0.980609679535669, coefficient = 2
+i = -0.03603264926060739, coefficient = 3
+
+For x = -0.31999999999999995:
+i = -0.020357875289812612, coefficient = 0
+i = 0.087001500458599, coefficient = 1
+i = 0.9752898119409434, coefficient = 2
+i = -0.041933437109729986, coefficient = 3
+
+For x = -0.31000000000000005:
+i = -0.023655004677906002, coefficient = 0
+i = 0.10172710459299664, coefficient = 1
+i = 0.9694737532494964, coefficient = 2
+i = -0.047545853164587, coefficient = 3
+
+For x = -0.30000000000000004:
+i = -0.026953070946601924, coefficient = 0
+i = 0.11665497055725134, coefficient = 1
+i = 0.9631725900157174, coefficient = 2
+i = -0.05287448962636696, coefficient = 3
+
+For x = -0.29000000000000004:
+i = -0.030247481894711974, coefficient = 0
+i = 0.1317740117969728, coefficient = 1
+i = 0.9563974087939972, coefficient = 2
+i = -0.0579239386962582, coefficient = 3
+
+For x = -0.28:
+i = -0.03353364532104776, coefficient = 0
+i = 0.14707314175777084, coefficient = 1
+i = 0.949159296138726, coefficient = 2
+i = -0.06269879257544904, coefficient = 3
+
+For x = -0.27:
+i = -0.03680696902442091, coefficient = 0
+i = 0.1625412738852554, coefficient = 1
+i = 0.9414693386042933, coefficient = 2
+i = -0.06720364346512793, coefficient = 3
+
+For x = -0.26:
+i = -0.04006286080364304, coefficient = 0
+i = 0.17816732162503632, coefficient = 1
+i = 0.9333386227450898, coefficient = 2
+i = -0.07144308356648321, coefficient = 3
+
+For x = -0.25:
+i = -0.043296728457525774, coefficient = 0
+i = 0.19394019842272348, coefficient = 1
+i = 0.9247782351155054, coefficient = 2
+i = -0.07542170508070327, coefficient = 3
+
+For x = -0.24:
+i = -0.04650397978488072, coefficient = 0
+i = 0.20984881772392663, coefficient = 1
+i = 0.9157992622699307, coefficient = 2
+i = -0.07914410020897651, coefficient = 3
+
+For x = -0.22999999999999998:
+i = -0.049680022584519506, coefficient = 0
+i = 0.22588209297425574, coefficient = 1
+i = 0.9064127907627549, coefficient = 2
+i = -0.08261486115249127, coefficient = 3
+
+For x = -0.21999999999999997:
+i = -0.05282026465525373, coefficient = 0
+i = 0.2420289376193207, coefficient = 1
+i = 0.896629907148369, coefficient = 2
+i = -0.08583858011243597, coefficient = 3
+
+For x = -0.20999999999999996:
+i = -0.055920113795895045, coefficient = 0
+i = 0.25827826510473134, coefficient = 1
+i = 0.8864616979811627, coefficient = 2
+i = -0.08881984928999898, coefficient = 3
+
+For x = -0.19999999999999996:
+i = -0.058974977805255055, coefficient = 0
+i = 0.2746189888760974, coefficient = 1
+i = 0.8759192498155262, coefficient = 2
+i = -0.09156326088636867, coefficient = 3
+
+For x = -0.18999999999999995:
+i = -0.06198026448214537, coefficient = 0
+i = 0.291040022379029, coefficient = 1
+i = 0.8650136492058497, coefficient = 2
+i = -0.09407340710273343, coefficient = 3
+
+For x = -0.18000000000000005:
+i = -0.06493138162537758, coefficient = 0
+i = 0.3075302790591356, coefficient = 1
+i = 0.8537559827065234, coefficient = 2
+i = -0.09635488014028161, coefficient = 3
+
+For x = -0.17000000000000004:
+i = -0.06782373703376338, coefficient = 0
+i = 0.32407867236202753, coefficient = 1
+i = 0.8421573368719375, coefficient = 2
+i = -0.09841227220020167, coefficient = 3
+
+For x = -0.16000000000000003:
+i = -0.07065273850611435, coefficient = 0
+i = 0.3406741157333145, coefficient = 1
+i = 0.8302287982564818, coefficient = 2
+i = -0.10025017548368191, coefficient = 3
+
+For x = -0.15000000000000002:
+i = -0.07341379384124211, coefficient = 0
+i = 0.35730552261860626, coefficient = 1
+i = 0.8179814534145466, coefficient = 2
+i = -0.10187318219191077, coefficient = 3
+
+For x = -0.14:
+i = -0.07610231083795826, coefficient = 0
+i = 0.37396180646351274, coefficient = 1
+i = 0.8054263889005219, coefficient = 2
+i = -0.10328588452607657, coefficient = 3
+
+For x = -0.13:
+i = -0.07871369729507445, coefficient = 0
+i = 0.3906318807136439, coefficient = 1
+i = 0.7925746912687982, coefficient = 2
+i = -0.10449287468736777, coefficient = 3
+
+For x = -0.12:
+i = -0.08124336101140227, coefficient = 0
+i = 0.4073046588146095, coefficient = 1
+i = 0.7794374470737654, coefficient = 2
+i = -0.10549874487697265, coefficient = 3
+
+For x = -0.10999999999999999:
+i = -0.08368670978575339, coefficient = 0
+i = 0.4239690542120194, coefficient = 1
+i = 0.7660257428698137, coefficient = 2
+i = -0.10630808729607971, coefficient = 3
+
+For x = -0.09999999999999998:
+i = -0.08603915141693935, coefficient = 0
+i = 0.44061398035148325, coefficient = 1
+i = 0.7523506652113331, coefficient = 2
+i = -0.10692549414587721, coefficient = 3
+
+For x = -0.08999999999999997:
+i = -0.08829609370377184, coefficient = 0
+i = 0.4572283506786115, coefficient = 1
+i = 0.738423300652714, coefficient = 2
+i = -0.10735555762755367, coefficient = 3
+
+For x = -0.07999999999999996:
+i = -0.09045294444506242, coefficient = 0
+i = 0.47380107863901344, coefficient = 1
+i = 0.7242547357483462, coefficient = 2
+i = -0.10760286994229729, coefficient = 3
+
+For x = -0.06999999999999995:
+i = -0.09250511143962277, coefficient = 0
+i = 0.49032107767829924, coefficient = 1
+i = 0.7098560570526201, coefficient = 2
+i = -0.10767202329129662, coefficient = 3
+
+For x = -0.06000000000000005:
+i = -0.09444800248626445, coefficient = 0
+i = 0.5067772612420784, coefficient = 1
+i = 0.6952383511199258, coefficient = 2
+i = -0.10756760987573995, coefficient = 3
+
+For x = -0.050000000000000044:
+i = -0.0962770253837991, coefficient = 0
+i = 0.5231585427759614, coefficient = 1
+i = 0.6804127045046533, coefficient = 2
+i = -0.10729422189681567, coefficient = 3
+
+For x = -0.040000000000000036:
+i = -0.09798758793103839, coefficient = 0
+i = 0.5394538357255576, coefficient = 1
+i = 0.6653902037611928, coefficient = 2
+i = -0.10685645155571219, coefficient = 3
+
+For x = -0.030000000000000027:
+i = -0.09957509792679384, coefficient = 0
+i = 0.5556520535364771, coefficient = 1
+i = 0.6501819354439345, coefficient = 2
+i = -0.1062588910536179, coefficient = 3
+
+For x = -0.020000000000000018:
+i = -0.10103496316987717, coefficient = 0
+i = 0.5717421096543298, coefficient = 1
+i = 0.6347989861072685, coefficient = 2
+i = -0.1055061325917211, coefficient = 3
+
+For x = -0.010000000000000009:
+i = -0.10236259145909993, coefficient = 0
+i = 0.5877129175247254, coefficient = 1
+i = 0.6192524423055848, coefficient = 2
+i = -0.1046027683712103, coefficient = 3
+
+For x = 0.0:
+i = -0.10355339059327379, coefficient = 0
+i = 0.6035533905932737, coefficient = 1
+i = 0.6035533905932737, coefficient = 2
+i = -0.10355339059327376, coefficient = 3
+
+For x = 0.010000000000000009:
+i = -0.10460276837121033, coefficient = 0
+i = 0.6192524423055847, coefficient = 1
+i = 0.5877129175247254, coefficient = 2
+i = -0.10236259145909991, coefficient = 3
+
+For x = 0.020000000000000018:
+i = -0.10550613259172115, coefficient = 0
+i = 0.6347989861072685, coefficient = 1
+i = 0.5717421096543298, coefficient = 2
+i = -0.10103496316987713, coefficient = 3
+
+For x = 0.030000000000000027:
+i = -0.10625889105361792, coefficient = 0
+i = 0.6501819354439345, coefficient = 1
+i = 0.5556520535364771, coefficient = 2
+i = -0.09957509792679384, coefficient = 3
+
+For x = 0.040000000000000036:
+i = -0.1068564515557122, coefficient = 0
+i = 0.6653902037611928, coefficient = 1
+i = 0.5394538357255577, coefficient = 2
+i = -0.09798758793103834, coefficient = 3
+
+For x = 0.050000000000000044:
+i = -0.1072942218968157, coefficient = 0
+i = 0.6804127045046534, coefficient = 1
+i = 0.5231585427759614, coefficient = 2
+i = -0.0962770253837991, coefficient = 3
+
+For x = 0.06000000000000005:
+i = -0.10756760987573996, coefficient = 0
+i = 0.6952383511199259, coefficient = 1
+i = 0.5067772612420786, coefficient = 2
+i = -0.09444800248626442, coefficient = 3
+
+For x = 0.07000000000000006:
+i = -0.10767202329129663, coefficient = 0
+i = 0.7098560570526202, coefficient = 1
+i = 0.490321077678299, coefficient = 2
+i = -0.09250511143962271, coefficient = 3
+
+For x = 0.08000000000000007:
+i = -0.10760286994229734, coefficient = 0
+i = 0.7242547357483465, coefficient = 1
+i = 0.4738010786390134, coefficient = 2
+i = -0.0904529444450624, coefficient = 3
+
+For x = 0.09000000000000008:
+i = -0.10735555762755368, coefficient = 0
+i = 0.7384233006527141, coefficient = 1
+i = 0.45722835067861134, coefficient = 2
+i = -0.08829609370377181, coefficient = 3
+
+For x = 0.10000000000000009:
+i = -0.10692549414587725, coefficient = 0
+i = 0.7523506652113333, coefficient = 1
+i = 0.4406139803514832, coefficient = 2
+i = -0.08603915141693932, coefficient = 3
+
+For x = 0.1100000000000001:
+i = -0.10630808729607974, coefficient = 0
+i = 0.7660257428698137, coefficient = 1
+i = 0.42396905421201925, coefficient = 2
+i = -0.08368670978575335, coefficient = 3
+
+For x = 0.1200000000000001:
+i = -0.1054987448769727, coefficient = 0
+i = 0.7794374470737656, coefficient = 1
+i = 0.4073046588146094, coefficient = 2
+i = -0.08124336101140224, coefficient = 3
+
+For x = 0.1299999999999999:
+i = -0.10449287468736781, coefficient = 0
+i = 0.792574691268798, coefficient = 1
+i = 0.39063188071364413, coefficient = 2
+i = -0.07871369729507448, coefficient = 3
+
+For x = 0.1399999999999999:
+i = -0.10328588452607664, coefficient = 0
+i = 0.8054263889005218, coefficient = 1
+i = 0.37396180646351307, coefficient = 2
+i = -0.07610231083795829, coefficient = 3
+
+For x = 0.1499999999999999:
+i = -0.10187318219191083, coefficient = 0
+i = 0.8179814534145463, coefficient = 1
+i = 0.3573055226186066, coefficient = 2
+i = -0.07341379384124214, coefficient = 3
+
+For x = 0.15999999999999992:
+i = -0.10025017548368198, coefficient = 0
+i = 0.8302287982564815, coefficient = 1
+i = 0.3406741157333148, coefficient = 2
+i = -0.0706527385061144, coefficient = 3
+
+For x = 0.16999999999999993:
+i = -0.09841227220020173, coefficient = 0
+i = 0.8421573368719374, coefficient = 1
+i = 0.3240786723620279, coefficient = 2
+i = -0.06782373703376342, coefficient = 3
+
+For x = 0.17999999999999994:
+i = -0.09635488014028169, coefficient = 0
+i = 0.8537559827065234, coefficient = 1
+i = 0.30753027905913594, coefficient = 2
+i = -0.06493138162537762, coefficient = 3
+
+For x = 0.18999999999999995:
+i = -0.09407340710273349, coefficient = 0
+i = 0.8650136492058498, coefficient = 1
+i = 0.2910400223790291, coefficient = 2
+i = -0.06198026448214538, coefficient = 3
+
+For x = 0.19999999999999996:
+i = -0.09156326088636872, coefficient = 0
+i = 0.8759192498155263, coefficient = 1
+i = 0.27461898887609754, coefficient = 2
+i = -0.05897497780525507, coefficient = 3
+
+For x = 0.20999999999999996:
+i = -0.08881984928999904, coefficient = 0
+i = 0.8864616979811628, coefficient = 1
+i = 0.25827826510473145, coefficient = 2
+i = -0.05592011379589506, coefficient = 3
+
+For x = 0.21999999999999997:
+i = -0.08583858011243603, coefficient = 0
+i = 0.8966299071483689, coefficient = 1
+i = 0.24202893761932082, coefficient = 2
+i = -0.052820264655253746, coefficient = 3
+
+For x = 0.22999999999999998:
+i = -0.08261486115249135, coefficient = 0
+i = 0.9064127907627549, coefficient = 1
+i = 0.22588209297425588, coefficient = 2
+i = -0.04968002258451952, coefficient = 3
+
+For x = 0.24:
+i = -0.07914410020897658, coefficient = 0
+i = 0.9157992622699307, coefficient = 1
+i = 0.20984881772392677, coefficient = 2
+i = -0.04650397978488074, coefficient = 3
+
+For x = 0.25:
+i = -0.07542170508070335, coefficient = 0
+i = 0.9247782351155055, coefficient = 1
+i = 0.1939401984227236, coefficient = 2
+i = -0.04329672845752579, coefficient = 3
+
+For x = 0.26:
+i = -0.0714430835664833, coefficient = 0
+i = 0.9333386227450899, coefficient = 1
+i = 0.17816732162503643, coefficient = 2
+i = -0.040062860803643054, coefficient = 3
+
+For x = 0.27:
+i = -0.06720364346512799, coefficient = 0
+i = 0.9414693386042933, coefficient = 1
+i = 0.16254127388525555, coefficient = 2
+i = -0.03680696902442094, coefficient = 3
+
+For x = 0.28:
+i = -0.06269879257544912, coefficient = 0
+i = 0.949159296138726, coefficient = 1
+i = 0.147073141757771, coefficient = 2
+i = -0.033533645321047786, coefficient = 3
+
+For x = 0.29000000000000004:
+i = -0.05792393869625827, coefficient = 0
+i = 0.9563974087939972, coefficient = 1
+i = 0.13177401179697293, coefficient = 2
+i = -0.030247481894712, coefficient = 3
+
+For x = 0.30000000000000004:
+i = -0.05287448962636704, coefficient = 0
+i = 0.9631725900157175, coefficient = 1
+i = 0.11665497055725148, coefficient = 2
+i = -0.02695307094660195, coefficient = 3
+
+For x = 0.31000000000000005:
+i = -0.04754585316458708, coefficient = 0
+i = 0.9694737532494966, coefficient = 1
+i = 0.10172710459299678, coefficient = 2
+i = -0.023655004677906027, coefficient = 3
+
+For x = 0.32000000000000006:
+i = -0.04193343710972999, coefficient = 0
+i = 0.9752898119409437, coefficient = 1
+i = 0.08700150045859896, coefficient = 2
+i = -0.02035787528981261, coefficient = 3
+
+For x = 0.33000000000000007:
+i = -0.0360326492606074, coefficient = 0
+i = 0.9806096795356691, coefficient = 1
+i = 0.07248924470844818, coefficient = 2
+i = -0.01706627498351007, coefficient = 3
+
+For x = 0.3400000000000001:
+i = -0.029838897416030925, coefficient = 0
+i = 0.9854222694792831, coefficient = 1
+i = 0.05820142389693456, coefficient = 2
+i = -0.013784795960186804, coefficient = 3
+
+For x = 0.3500000000000001:
+i = -0.023347589374812183, coefficient = 0
+i = 0.9897164952173951, coefficient = 1
+i = 0.04414912457844823, coefficient = 2
+i = -0.010518030421031182, coefficient = 3
+
+For x = 0.3600000000000001:
+i = -0.01655413293576279, coefficient = 0
+i = 0.993481270195615, coefficient = 1
+i = 0.030343433307379333, coefficient = 2
+i = -0.007270570567231588, coefficient = 3
+
+For x = 0.3700000000000001:
+i = -0.009453935897694367, coefficient = 0
+i = 0.9967055078595526, coefficient = 1
+i = 0.016795436638118003, coefficient = 2
+i = -0.004047008599976403, coefficient = 3
+
+For x = 0.3799999999999999:
+i = -0.0020424060594187044, coefficient = 0
+i = 0.9993781216548182, coefficient = 1
+i = 0.0035162211250546714, coefficient = 2
+i = -0.00085193672045408, coefficient = 3
+
+For x = 0.3899999999999999:
+i = 0.005685048780252911, coefficient = 0
+i = 1.0014880250270213, coefficient = 1
+i = -0.009483126677421122, coefficient = 2
+i = 0.002310052870147143, coefficient = 3
+
+For x = 0.3999999999999999:
+i = 0.013733020822508695, coefficient = 0
+i = 1.0030241314217714, coefficient = 1
+i = -0.022191520214918947, coefficient = 2
+i = 0.005434367970638813, coefficient = 3
+
+For x = 0.4099999999999999:
+i = 0.02210610226853704, coefficient = 0
+i = 1.003975354284679, coefficient = 1
+i = -0.03459787293304866, coefficient = 2
+i = 0.00851641637983255, coefficient = 3
+
+For x = 0.41999999999999993:
+i = 0.03080888531952631, coefficient = 0
+i = 1.004330607061354, coefficient = 1
+i = -0.04669109827742012, coefficient = 2
+i = 0.011551605896539972, coefficient = 3
+
+For x = 0.42999999999999994:
+i = 0.0398459621766649, coefficient = 0
+i = 1.0040788031974055, coefficient = 1
+i = -0.058460109693643215, coefficient = 2
+i = 0.0145353443195727, coefficient = 3
+
+For x = 0.43999999999999995:
+i = 0.049221925041141194, coefficient = 0
+i = 1.0032088561384442, coefficient = 1
+i = -0.0698938206273278, coefficient = 2
+i = 0.017463039447742346, coefficient = 3
+
+For x = 0.44999999999999996:
+i = 0.058941366114143544, coefficient = 0
+i = 1.0017096793300797, coefficient = 1
+i = -0.08098114452408373, coefficient = 2
+i = 0.02033009907986054, coefficient = 3
+
+For x = 0.45999999999999996:
+i = 0.06900887759686038, coefficient = 0
+i = 0.9995701862179216, coefficient = 1
+i = -0.09171099482952087, coefficient = 2
+i = 0.023131931014738896, coefficient = 3
+
+For x = 0.47:
+i = 0.07942905169048003, coefficient = 0
+i = 0.99677929024758, coefficient = 1
+i = -0.10207228498924907, coefficient = 2
+i = 0.02586394305118903, coefficient = 3
+
+For x = 0.48:
+i = 0.09020648059619092, coefficient = 0
+i = 0.9933259048646648, coefficient = 1
+i = -0.11205392844887824, coefficient = 2
+i = 0.028521542988022557, coefficient = 3
+
+For x = 0.49:
+i = 0.1013457565151814, coefficient = 0
+i = 0.9891989435147858, coefficient = 1
+i = -0.12164483865401819, coefficient = 2
+i = 0.031100138624051105, coefficient = 3
+
+For x = 0.5:
+i = 0.11285147164863986, coefficient = 0
+i = 0.9843873196435526, coefficient = 1
+i = -0.13083392905027885, coefficient = 2
+i = 0.03359513775808629, coefficient = 3
+
+For x = 0.51:
+i = 0.12472821819775469, coefficient = 0
+i = 0.9788799466965756, coefficient = 1
+i = -0.13961011308327, coefficient = 2
+i = 0.03600194818893973, coefficient = 3
+
+For x = 0.52:
+i = 0.1369805883637143, coefficient = 0
+i = 0.9726657381194642, coefficient = 1
+i = -0.14796230419860162, coefficient = 2
+i = 0.03831597771542305, coefficient = 3
+
+For x = 0.53:
+i = 0.149613174347707, coefficient = 0
+i = 0.9657336073578288, coefficient = 1
+i = -0.15587941584188345, coefficient = 2
+i = 0.040532634136347855, coefficient = 3
+
+For x = 0.54:
+i = 0.16263056835092118, coefficient = 0
+i = 0.9580724678572784, coefficient = 1
+i = -0.16335036145872545, coefficient = 2
+i = 0.04264732525052578, coefficient = 3
+
+For x = 0.55:
+i = 0.1760373625745453, coefficient = 0
+i = 0.9496712330634238, coefficient = 1
+i = -0.1703640544947374, coefficient = 2
+i = 0.044655458856768436, coefficient = 3
+
+For x = 0.56:
+i = 0.18983814921976763, coefficient = 0
+i = 0.9405188164218742, coefficient = 1
+i = -0.17690940839552918, coefficient = 2
+i = 0.04655244275388744, coefficient = 3
+
+For x = 0.5700000000000001:
+i = 0.20403752048777665, coefficient = 0
+i = 0.9306041313782397, coefficient = 1
+i = -0.18297533660671078, coefficient = 2
+i = 0.048333684740694396, coefficient = 3
+
+For x = 0.5800000000000001:
+i = 0.2186400685797607, coefficient = 0
+i = 0.9199160913781302, coefficient = 1
+i = -0.18855075257389187, coefficient = 2
+i = 0.04999459261600096, coefficient = 3
+
+For x = 0.5900000000000001:
+i = 0.2336503856969082, coefficient = 0
+i = 0.9084436098671557, coefficient = 1
+i = -0.19362456974268255, coefficient = 2
+i = 0.05153057417861872, coefficient = 3
+
+For x = 0.6000000000000001:
+i = 0.2490730640404074, coefficient = 0
+i = 0.8961756002909257, coefficient = 1
+i = -0.19818570155869242, coefficient = 2
+i = 0.05293703722735932, coefficient = 3
+
+For x = 0.6100000000000001:
+i = 0.26491269581144683, coefficient = 0
+i = 0.8831009760950502, coefficient = 1
+i = -0.20222306146753152, coefficient = 2
+i = 0.05420938956103435, coefficient = 3
+
+For x = 0.6200000000000001:
+i = 0.28117387321121484, coefficient = 0
+i = 0.8692086507251391, coefficient = 1
+i = -0.20572556291480965, coefficient = 2
+i = 0.05534303897845545, coefficient = 3
+
+For x = 0.6299999999999999:
+i = 0.29786118844089937, coefficient = 0
+i = 0.8544875376268027, coefficient = 1
+i = -0.20868211934613667, coefficient = 2
+i = 0.056333393278434216, coefficient = 3
+
+For x = 0.6399999999999999:
+i = 0.3149792337016897, coefficient = 0
+i = 0.8389265502456505, coefficient = 1
+i = -0.21108164420712253, coefficient = 2
+i = 0.05717586025978231, coefficient = 3
+
+For x = 0.6499999999999999:
+i = 0.3325326011947735, coefficient = 0
+i = 0.822514602027292, coefficient = 1
+i = -0.212913050943377, coefficient = 2
+i = 0.05786584772131131, coefficient = 3
+
+For x = 0.6599999999999999:
+i = 0.35052588312133964, coefficient = 0
+i = 0.8052406064173376, coefficient = 1
+i = -0.2141652530005099, coefficient = 2
+i = 0.05839876346183286, coefficient = 3
+
+For x = 0.6699999999999999:
+i = 0.368963671682576, coefficient = 0
+i = 0.7870934768613966, coefficient = 1
+i = -0.2148271638241313, coefficient = 2
+i = 0.05877001528015855, coefficient = 3
+
+For x = 0.6799999999999999:
+i = 0.3878505590796714, coefficient = 0
+i = 0.7680621268050796, coefficient = 1
+i = -0.2148876968598509, coefficient = 2
+i = 0.05897501097510006, coefficient = 3
+
+For x = 0.69:
+i = 0.4071911375138138, coefficient = 0
+i = 0.7481354696939955, coefficient = 1
+i = -0.21433576555327857, coefficient = 2
+i = 0.059009158345468916, coefficient = 3
+
+For x = 0.7:
+i = 0.4269899991861921, coefficient = 0
+i = 0.7273024189737554, coefficient = 1
+i = -0.2131602833500243, coefficient = 2
+i = 0.058867865190076814, coefficient = 3
+
+For x = 0.71:
+i = 0.4472517362979941, coefficient = 0
+i = 0.705551888089968, coefficient = 1
+i = -0.21135016369569776, coefficient = 2
+i = 0.05854653930773534, coefficient = 3
+
+For x = 0.72:
+i = 0.46798094105040877, coefficient = 0
+i = 0.682872790488244, coefficient = 1
+i = -0.2088943200359089, coefficient = 2
+i = 0.05804058849725614, coefficient = 3
+
+For x = 0.73:
+i = 0.48918220564462384, coefficient = 0
+i = 0.6592540396141928, coefficient = 1
+i = -0.20578166581626758, coefficient = 2
+i = 0.05734542055745076, coefficient = 3
+
+For x = 0.74:
+i = 0.5108601222818283, coefficient = 0
+i = 0.6346845489134245, coefficient = 1
+i = -0.20200111448238373, coefficient = 2
+i = 0.056456443287130925, coefficient = 3
+
+For x = 0.75:
+i = 0.5330192831632102, coefficient = 0
+i = 0.6091532318315488, coefficient = 1
+i = -0.19754157947986722, coefficient = 2
+i = 0.05536906448510816, coefficient = 3
+
+For x = 0.76:
+i = 0.555664280489958, coefficient = 0
+i = 0.5826490018141757, coefficient = 1
+i = -0.1923919742543278, coefficient = 2
+i = 0.054078691950194144, coefficient = 3
+
+For x = 0.77:
+i = 0.57879970646326, coefficient = 0
+i = 0.5551607723069149, coefficient = 1
+i = -0.1865412122513754, coefficient = 2
+i = 0.052580733481200466, coefficient = 3
+
+For x = 0.78:
+i = 0.6024301532843047, coefficient = 0
+i = 0.5266774567553764, coefficient = 1
+i = -0.17997820691661984, coefficient = 2
+i = 0.05087059687693876, coefficient = 3
+
+For x = 0.79:
+i = 0.6265602131542803, coefficient = 0
+i = 0.49718796860516995, coefficient = 1
+i = -0.1726918716956711, coefficient = 2
+i = 0.048943689936220634, coefficient = 3
+
+For x = 0.8:
+i = 0.6511944782743757, coefficient = 0
+i = 0.46668122130190554, coefficient = 1
+i = -0.16467112003413892, coefficient = 2
+i = 0.04679542045785772, coefficient = 3
+
+For x = 0.81:
+i = 0.6763375408457786, coefficient = 0
+i = 0.43514612829119287, coefficient = 1
+i = -0.15590486537763323, coefficient = 2
+i = 0.04442119624066162, coefficient = 3
+
+For x = 0.8200000000000001:
+i = 0.7019939930696778, coefficient = 0
+i = 0.4025716030186422, coefficient = 1
+i = -0.14638202117176385, coefficient = 2
+i = 0.04181642508344398, coefficient = 3
+
+For x = 0.8300000000000001:
+i = 0.7281684271472614, coefficient = 0
+i = 0.3689465589298629, coefficient = 1
+i = -0.13609150086214072, coefficient = 2
+i = 0.03897651478501638, coefficient = 3
+
+For x = 0.8400000000000001:
+i = 0.7548654352797181, coefficient = 0
+i = 0.33425990947046513, coefficient = 1
+i = -0.12502221789437365, coefficient = 2
+i = 0.03589687314419047, coefficient = 3
+
+For x = 0.8500000000000001:
+i = 0.7820896096682359, coefficient = 0
+i = 0.29850056808605857, coefficient = 1
+i = -0.11316308571407246, coefficient = 2
+i = 0.03257290795977785, coefficient = 3
+
+For x = 0.8600000000000001:
+i = 0.8098455425140035, coefficient = 0
+i = 0.26165744822225334, coefficient = 1
+i = -0.1005030177668471, coefficient = 2
+i = 0.029000027030590157, coefficient = 3
+
+For x = 0.8700000000000001:
+i = 0.8381378260182093, coefficient = 0
+i = 0.22371946332465897, coefficient = 1
+i = -0.0870309274983074, coefficient = 2
+i = 0.025173638155438993, coefficient = 3
+
+For x = 0.8799999999999999:
+i = 0.8669710523820408, coefficient = 0
+i = 0.18467552683888652, coefficient = 1
+i = -0.07273572835406354, coefficient = 2
+i = 0.021089149133136083, coefficient = 3
+
+For x = 0.8899999999999999:
+i = 0.8963498138066879, coefficient = 0
+i = 0.14451455221054393, coefficient = 1
+i = -0.05760633377972479, coefficient = 2
+i = 0.016741967762492857, coefficient = 3
+
+For x = 0.8999999999999999:
+i = 0.9262787024933381, coefficient = 0
+i = 0.10322545288524199, coefficient = 1
+i = -0.04163165722090126, coefficient = 2
+i = 0.012127501842321026, coefficient = 3
+
+For x = 0.9099999999999999:
+i = 0.9567623106431801, coefficient = 0
+i = 0.06079714230859056, coefficient = 1
+i = -0.024800612123202868, coefficient = 2
+i = 0.007241159171432209, coefficient = 3
+
+For x = 0.9199999999999999:
+i = 0.9878052304574019, coefficient = 0
+i = 0.01721853392619947, coefficient = 1
+i = -0.007102111932239453, coefficient = 2
+i = 0.0020783475486380186, coefficient = 3
+
+For x = 0.9299999999999999:
+i = 1.0194120541371923, coefficient = 0
+i = -0.027521458816321388, coefficient = 1
+i = 0.011474929906379114, coefficient = 2
+i = -0.00336552522724992, coefficient = 3
+
+For x = 0.94:
+i = 1.0515873738837394, coefficient = 0
+i = -0.07343392247336214, coefficient = 1
+i = 0.03094159994704297, coefficient = 2
+i = -0.00909505135741999, coefficient = 3
+
+For x = 0.95:
+i = 1.084335781898231, coefficient = 0
+i = -0.12052994359931296, coefficient = 1
+i = 0.05130898474414226, coefficient = 2
+i = -0.015114823043060574, coefficient = 3
+
+For x = 0.96:
+i = 1.1176618703818568, coefficient = 0
+i = -0.16882060874856394, coefficient = 1
+i = 0.07258817085206709, coefficient = 2
+i = -0.021429432485360046, coefficient = 3
+
+For x = 0.97:
+i = 1.151570231535804, coefficient = 0
+i = -0.21831700447550526, coefficient = 1
+i = 0.09479024482520762, coefficient = 2
+i = -0.0280434718855068, coefficient = 3
+
+For x = 0.98:
+i = 1.1860654575612621, coefficient = 0
+i = -0.2690302173345269, coefficient = 1
+i = 0.11792629321795399, coefficient = 2
+i = -0.0349615334446892, coefficient = 3
+
+For x = 0.99:
+i = 1.2211521406594188, coefficient = 0
+i = -0.3209713338800194, coefficient = 1
+i = 0.1420074025846963, coefficient = 2
+i = -0.04218820936409565, coefficient = 3
+
+For x = 1.0:
+i = 1.2568348730314616, coefficient = 0
+i = -0.37415144066637235, coefficient = 1
+i = 0.16704465947982475, coefficient = 2
+i = -0.0497280918449145, coefficient = 3
+
